@@ -1,0 +1,8106 @@
+country,year,migration_no,iso_alpha
+Ireland,1864,121,IRL
+Ireland,1865,82,IRL
+Ireland,1866,49,IRL
+Ireland,1867,25,IRL
+Ireland,1868,5,IRL
+Ireland,1869,21,IRL
+Ireland,1870,25,IRL
+Ireland,1871,26,IRL
+Ireland,1872,45,IRL
+Ireland,1873,120,IRL
+Ireland,1874,84,IRL
+Ireland,1875,105,IRL
+Ireland,1876,73,IRL
+Ireland,1877,30,IRL
+Ireland,1878,42,IRL
+Spain,1947,5,ESP
+Finland,1947,7,FIN
+Turkey,1947,15,TUR
+Norway,1947,48,NOR
+Japan,1947,57,JPN
+Sweden,1947,69,SWE
+Belgium,1947,91,BEL
+Syria,1947,105,SYR
+Denmark,1947,143,DNK
+Austria,1947,150,AUT
+Switzerland,1947,154,CHE
+Israel,1947,208,ISR
+Philippines,1947,245,PHL
+Cyprus,1947,281,CYP
+Fiji,1947,282,FJI
+Netherlands,1947,310,NLD
+Hong Kong,1947,323,HKG
+Malta,1947,405,MLT
+Poland,1947,467,POL
+Papua New Guinea,1947,487,PNG
+France,1947,591,FRA
+South Africa,1947,616,ZAF
+Canada,1947,683,CAN
+Egypt,1947,800,EGY
+Italy,1947,940,ITA
+Malaysia,1947,950,MYS
+Indonesia,1947,1086,IDN
+Greece,1947,1383,GRC
+China,1947,1700,CHN
+United States of America,1947,2570,USA
+India,1947,3786,IND
+New Zealand,1947,3903,NZL
+Germany,1947,4830,DEU
+United Kingdom ,1947,21649,GBR
+Turkey,1948,5,TUR
+Spain,1948,29,ESP
+Finland,1948,31,FIN
+Pakistan,1948,57,PAK
+Japan,1948,70,JPN
+Philippines,1948,70,PHL
+Norway,1948,76,NOR
+Myanmar,1948,117,MMR
+Denmark,1948,123,DNK
+Sweden,1948,149,SWE
+Lebanon,1948,151,LBN
+Sri Lanka,1948,167,LKA
+Switzerland,1948,186,CHE
+Fiji,1948,190,FJI
+Syria,1948,191,SYR
+Israel,1948,228,ISR
+Indonesia,1948,259,IDN
+Belgium,1948,304,BEL
+South Africa,1948,358,ZAF
+Papua New Guinea,1948,429,PNG
+Hong Kong,1948,481,HKG
+Canada,1948,511,CAN
+Malaysia,1948,775,MYS
+France,1948,796,FRA
+Cyprus,1948,891,CYP
+Netherlands,1948,1095,NLD
+China,1948,1285,CHN
+Greece,1948,1303,GRC
+United States of America,1948,1654,USA
+Egypt,1948,1890,EGY
+Malta,1948,2137,MLT
+India,1948,2182,IND
+Austria,1948,2612,AUT
+Poland,1948,2963,POL
+New Zealand,1948,2998,NZL
+Italy,1948,6362,ITA
+Germany,1948,26169,DEU
+United Kingdom ,1948,49653,GBR
+Turkey,1949,17,TUR
+Syria,1949,22,SYR
+Spain,1949,47,ESP
+Finland,1949,68,FIN
+Myanmar,1949,79,MMR
+Israel,1949,111,ISR
+Norway,1949,118,NOR
+Philippines,1949,143,PHL
+Pakistan,1949,177,PAK
+Fiji,1949,180,FJI
+Sweden,1949,186,SWE
+Ukraine,1949,188,UKR
+Japan,1949,224,JPN
+Sri Lanka,1949,256,LKA
+Lebanon,1949,413,LBN
+Belgium,1949,448,BEL
+Canada,1949,453,CAN
+Denmark,1949,476,DNK
+Papua New Guinea,1949,504,PNG
+Hong Kong,1949,530,HKG
+South Africa,1949,545,ZAF
+Malaysia,1949,761,MYS
+Indonesia,1949,762,IDN
+Switzerland,1949,864,CHE
+Cyprus,1949,901,CYP
+India,1949,1204,IND
+France,1949,1290,FRA
+United States of America,1949,1398,USA
+China,1949,1499,CHN
+Egypt,1949,1801,EGY
+Greece,1949,2040,GRC
+Netherlands,1949,3175,NLD
+New Zealand,1949,3542,NZL
+Malta,1949,5249,MLT
+Poland,1949,5464,POL
+Austria,1949,6805,AUT
+Italy,1949,17197,ITA
+United Kingdom ,1949,52166,GBR
+Germany,1949,63982,DEU
+Albania,1950,5,ALB
+Lithuania,1950,5,LTU
+Portugal,1950,14,PRT
+Syria,1950,31,SYR
+Romania,1950,41,ROU
+Myanmar,1950,46,MMR
+Turkey,1950,47,TUR
+Spain,1950,65,ESP
+Hungary,1950,75,HUN
+Norway,1950,76,NOR
+Finland,1950,94,FIN
+Poland,1950,101,POL
+Philippines,1950,174,PHL
+Sweden,1950,196,SWE
+Pakistan,1950,218,PAK
+Japan,1950,226,JPN
+Israel,1950,232,ISR
+Fiji,1950,245,FJI
+Singapore,1950,285,SGP
+Sri Lanka,1950,338,LKA
+Belgium,1950,379,BEL
+Denmark,1950,415,DNK
+South Africa,1950,555,ZAF
+Canada,1950,616,CAN
+Papua New Guinea,1950,702,PNG
+China,1950,708,CHN
+Malaysia,1950,729,MYS
+Switzerland,1950,862,CHE
+Hong Kong,1950,871,HKG
+India,1950,926,IND
+Lebanon,1950,1120,LBN
+Cyprus,1950,1289,CYP
+Egypt,1950,1483,EGY
+Indonesia,1950,1597,IDN
+Greece,1950,1646,GRC
+United States of America,1950,1651,USA
+France,1950,2285,FRA
+New Zealand,1950,3359,NZL
+Malta,1950,4109,MLT
+Austria,1950,4116,AUT
+Netherlands,1950,15473,NLD
+Italy,1950,19007,ITA
+Germany,1950,32035,DEU
+United Kingdom ,1950,53341,GBR
+Albania,1951,5,ALB
+Bulgaria,1951,9,BGR
+Estonia,1951,12,EST
+Latvia,1951,15,LVA
+Ukraine,1951,19,UKR
+Turkey,1951,19,TUR
+Lithuania,1951,23,LTU
+Syria,1951,24,SYR
+Myanmar,1951,40,MMR
+Romania,1951,57,ROU
+Philippines,1951,66,PHL
+Denmark,1951,96,DNK
+Portugal,1951,105,PRT
+Spain,1951,106,ESP
+Sweden,1951,136,SWE
+Finland,1951,173,FIN
+Belgium,1951,187,BEL
+Fiji,1951,196,FJI
+Pakistan,1951,203,PAK
+Japan,1951,224,JPN
+Hungary,1951,302,HUN
+Switzerland,1951,378,CHE
+Lebanon,1951,395,LBN
+South Africa,1951,399,ZAF
+Israel,1951,415,ISR
+Sri Lanka,1951,473,LKA
+Canada,1951,475,CAN
+Poland,1951,479,POL
+Norway,1951,508,NOR
+Singapore,1951,534,SGP
+India,1951,650,IND
+Malaysia,1951,724,MYS
+Hong Kong,1951,772,HKG
+Papua New Guinea,1951,803,PNG
+Indonesia,1951,879,IDN
+China,1951,991,CHN
+United States of America,1951,1246,USA
+France,1951,1447,FRA
+Egypt,1951,1465,EGY
+Austria,1951,1471,AUT
+Cyprus,1951,1718,CYP
+Greece,1951,2065,GRC
+New Zealand,1951,2938,NZL
+Malta,1951,3011,MLT
+Netherlands,1951,9327,NLD
+Germany,1951,9949,DEU
+Italy,1951,23201,ITA
+United Kingdom ,1951,59011,GBR
+Albania,1952,5,ALB
+Bulgaria,1952,5,BGR
+Latvia,1952,5,LVA
+Ukraine,1952,5,UKR
+Estonia,1952,6,EST
+Lithuania,1952,10,LTU
+Romania,1952,10,ROU
+Syria,1952,30,SYR
+Turkey,1952,34,TUR
+Portugal,1952,35,PRT
+Philippines,1952,42,PHL
+Myanmar,1952,48,MMR
+Lebanon,1952,67,LBN
+Finland,1952,70,FIN
+Denmark,1952,77,DNK
+Belgium,1952,82,BEL
+Hungary,1952,82,HUN
+Spain,1952,93,ESP
+Norway,1952,122,NOR
+Poland,1952,124,POL
+Sweden,1952,126,SWE
+Pakistan,1952,164,PAK
+Switzerland,1952,196,CHE
+Israel,1952,211,ISR
+Cyprus,1952,214,CYP
+South Africa,1952,284,ZAF
+Fiji,1952,300,FJI
+Japan,1952,309,JPN
+Canada,1952,335,CAN
+Sri Lanka,1952,393,LKA
+Indonesia,1952,432,IDN
+Austria,1952,478,AUT
+France,1952,478,FRA
+India,1952,483,IND
+Singapore,1952,522,SGP
+Malaysia,1952,526,MYS
+Hong Kong,1952,536,HKG
+China,1952,644,CHN
+Papua New Guinea,1952,793,PNG
+Egypt,1952,901,EGY
+United States of America,1952,1409,USA
+Greece,1952,1605,GRC
+New Zealand,1952,1662,NZL
+Malta,1952,1852,MLT
+Germany,1952,5944,DEU
+Netherlands,1952,13739,NLD
+Italy,1952,21906,ITA
+United Kingdom ,1952,36757,GBR
+Albania,1953,5,ALB
+Bulgaria,1953,5,BGR
+Latvia,1953,5,LVA
+Lithuania,1953,5,LTU
+Ukraine,1953,5,UKR
+Romania,1953,7,ROU
+Syria,1953,14,SYR
+Turkey,1953,18,TUR
+Poland,1953,26,POL
+Portugal,1953,27,PRT
+Myanmar,1953,27,MMR
+Hungary,1953,30,HUN
+Philippines,1953,42,PHL
+Norway,1953,48,NOR
+Belgium,1953,49,BEL
+Spain,1953,51,ESP
+Finland,1953,52,FIN
+Denmark,1953,61,DNK
+Sweden,1953,76,SWE
+Pakistan,1953,129,PAK
+Switzerland,1953,187,CHE
+Sri Lanka,1953,213,LKA
+Lebanon,1953,221,LBN
+Indonesia,1953,273,IDN
+South Africa,1953,276,ZAF
+Fiji,1953,284,FJI
+Cyprus,1953,319,CYP
+France,1953,329,FRA
+Israel,1953,346,ISR
+Japan,1953,380,JPN
+India,1953,387,IND
+Hong Kong,1953,423,HKG
+Malaysia,1953,448,MYS
+Singapore,1953,460,SGP
+China,1953,485,CHN
+Canada,1953,520,CAN
+Austria,1953,733,AUT
+Egypt,1953,839,EGY
+Papua New Guinea,1953,934,PNG
+United States of America,1953,1501,USA
+New Zealand,1953,2343,NZL
+Malta,1953,3332,MLT
+Greece,1953,5089,GRC
+Netherlands,1953,9641,NLD
+Germany,1953,10980,DEU
+Italy,1953,15252,ITA
+United Kingdom ,1953,26011,GBR
+Albania,1954,5,ALB
+Latvia,1954,5,LVA
+Ukraine,1954,5,UKR
+Bulgaria,1954,8,BGR
+Romania,1954,12,ROU
+Syria,1954,12,SYR
+Turkey,1954,35,TUR
+Poland,1954,43,POL
+Portugal,1954,47,PRT
+Sweden,1954,47,SWE
+Philippines,1954,55,PHL
+Finland,1954,60,FIN
+Norway,1954,66,NOR
+Belgium,1954,68,BEL
+Denmark,1954,84,DNK
+Pakistan,1954,84,PAK
+Spain,1954,101,ESP
+Myanmar,1954,107,MMR
+Hungary,1954,167,HUN
+Switzerland,1954,210,CHE
+Sri Lanka,1954,240,LKA
+China,1954,264,CHN
+Fiji,1954,308,FJI
+Hong Kong,1954,319,HKG
+Japan,1954,342,JPN
+Israel,1954,355,ISR
+France,1954,365,FRA
+Lebanon,1954,379,LBN
+Indonesia,1954,387,IDN
+South Africa,1954,400,ZAF
+India,1954,456,IND
+Malaysia,1954,456,MYS
+Singapore,1954,499,SGP
+Cyprus,1954,719,CYP
+Canada,1954,853,CAN
+Egypt,1954,1084,EGY
+Papua New Guinea,1954,1121,PNG
+United States of America,1954,1780,USA
+New Zealand,1954,2788,NZL
+Austria,1954,3303,AUT
+Malta,1954,10303,MLT
+Netherlands,1954,11332,NLD
+Germany,1954,12435,DEU
+Greece,1954,12527,GRC
+Italy,1954,20395,ITA
+United Kingdom ,1954,36281,GBR
+Estonia,1955,5,EST
+Lithuania,1955,5,LTU
+Ukraine,1955,5,UKR
+Syria,1955,9,SYR
+Latvia,1955,11,LVA
+Albania,1955,16,ALB
+Bulgaria,1955,25,BGR
+Romania,1955,67,ROU
+Finland,1955,69,FIN
+Myanmar,1955,73,MMR
+Turkey,1955,76,TUR
+Belgium,1955,84,BEL
+Poland,1955,106,POL
+Philippines,1955,106,PHL
+Portugal,1955,108,PRT
+Norway,1955,120,NOR
+Sweden,1955,122,SWE
+Pakistan,1955,146,PAK
+Spain,1955,151,ESP
+Hungary,1955,209,HUN
+South Africa,1955,234,ZAF
+Sri Lanka,1955,265,LKA
+Japan,1955,320,JPN
+Switzerland,1955,338,CHE
+China,1955,346,CHN
+Fiji,1955,385,FJI
+France,1955,430,FRA
+Denmark,1955,463,DNK
+Indonesia,1955,473,IDN
+India,1955,482,IND
+Hong Kong,1955,599,HKG
+Singapore,1955,607,SGP
+Lebanon,1955,758,LBN
+Malaysia,1955,793,MYS
+Israel,1955,819,ISR
+Cyprus,1955,851,CYP
+Canada,1955,1192,CAN
+Papua New Guinea,1955,1236,PNG
+Egypt,1955,1702,EGY
+United States of America,1955,1805,USA
+New Zealand,1955,2957,NZL
+Malta,1955,4914,MLT
+Austria,1955,5244,AUT
+Germany,1955,7850,DEU
+Greece,1955,10287,GRC
+Netherlands,1955,13862,NLD
+Italy,1955,31841,ITA
+United Kingdom ,1955,37293,GBR
+Estonia,1956,5,EST
+Lithuania,1956,5,LTU
+Bulgaria,1956,14,BGR
+Syria,1956,20,SYR
+Romania,1956,21,ROU
+Belgium,1956,62,BEL
+Portugal,1956,64,PRT
+Myanmar,1956,97,MMR
+Sweden,1956,102,SWE
+Norway,1956,111,NOR
+Spain,1956,122,ESP
+Pakistan,1956,132,PAK
+Turkey,1956,139,TUR
+Finland,1956,144,FIN
+Poland,1956,177,POL
+Sri Lanka,1956,265,LKA
+Switzerland,1956,323,CHE
+Philippines,1956,329,PHL
+South Africa,1956,333,ZAF
+Japan,1956,358,JPN
+Indonesia,1956,370,IDN
+France,1956,384,FRA
+Fiji,1956,428,FJI
+India,1956,436,IND
+Cyprus,1956,497,CYP
+Israel,1956,531,ISR
+China,1956,658,CHN
+Hong Kong,1956,725,HKG
+Lebanon,1956,791,LBN
+Singapore,1956,895,SGP
+Malaysia,1956,1018,MYS
+Canada,1956,1061,CAN
+Malta,1956,1451,MLT
+Papua New Guinea,1956,1462,PNG
+Denmark,1956,1912,DNK
+United States of America,1956,1942,USA
+Egypt,1956,2153,EGY
+New Zealand,1956,2660,NZL
+Austria,1956,4798,AUT
+Germany,1956,6221,DEU
+Greece,1956,8768,GRC
+Hungary,1956,8813,HUN
+Netherlands,1956,9528,NLD
+Italy,1956,20974,ITA
+United Kingdom ,1956,36024,GBR
+Albania,1957,5,ALB
+Estonia,1957,5,EST
+Latvia,1957,5,LVA
+Syria,1957,5,SYR
+Bulgaria,1957,9,BGR
+Belgium,1957,44,BEL
+Turkey,1957,57,TUR
+Romania,1957,64,ROU
+Myanmar,1957,67,MMR
+Philippines,1957,77,PHL
+Portugal,1957,80,PRT
+Spain,1957,85,ESP
+Pakistan,1957,128,PAK
+Sweden,1957,159,SWE
+Norway,1957,170,NOR
+South Africa,1957,290,ZAF
+Switzerland,1957,306,CHE
+Cyprus,1957,379,CYP
+Japan,1957,399,JPN
+Lebanon,1957,399,LBN
+Fiji,1957,421,FJI
+Israel,1957,422,ISR
+Sri Lanka,1957,423,LKA
+Indonesia,1957,462,IDN
+India,1957,492,IND
+Finland,1957,497,FIN
+Denmark,1957,541,DNK
+Hong Kong,1957,760,HKG
+Singapore,1957,987,SGP
+Poland,1957,1027,POL
+France,1957,1108,FRA
+Canada,1957,1263,CAN
+Papua New Guinea,1957,1452,PNG
+China,1957,1510,CHN
+Malta,1957,1670,MLT
+Egypt,1957,1786,EGY
+United States of America,1957,1808,USA
+Malaysia,1957,1837,MYS
+New Zealand,1957,2490,NZL
+Hungary,1957,2587,HUN
+Austria,1957,3189,AUT
+Germany,1957,5517,DEU
+Greece,1957,5789,GRC
+Netherlands,1957,6582,NLD
+Italy,1957,15131,ITA
+United Kingdom ,1957,41439,GBR
+Estonia,1958,5,EST
+Latvia,1958,5,LVA
+Lithuania,1958,5,LTU
+Bulgaria,1958,7,BGR
+Syria,1958,9,SYR
+Turkey,1958,22,TUR
+Romania,1958,43,ROU
+Myanmar,1958,85,MMR
+Portugal,1958,87,PRT
+Belgium,1958,114,BEL
+Pakistan,1958,120,PAK
+Philippines,1958,126,PHL
+Norway,1958,136,NOR
+Cyprus,1958,155,CYP
+Sweden,1958,174,SWE
+Egypt,1958,216,EGY
+Indonesia,1958,278,IDN
+Hungary,1958,282,HUN
+Japan,1958,291,JPN
+Lebanon,1958,313,LBN
+Switzerland,1958,322,CHE
+Fiji,1958,389,FJI
+Sri Lanka,1958,412,LKA
+Spain,1958,428,ESP
+South Africa,1958,469,ZAF
+Denmark,1958,481,DNK
+India,1958,581,IND
+Israel,1958,617,ISR
+France,1958,765,FRA
+Singapore,1958,1163,SGP
+China,1958,1186,CHN
+Hong Kong,1958,1229,HKG
+Malaysia,1958,1558,MYS
+Canada,1958,1646,CAN
+Poland,1958,1703,POL
+Papua New Guinea,1958,1834,PNG
+Malta,1958,2222,MLT
+United States of America,1958,2442,USA
+Finland,1958,2492,FIN
+Austria,1958,3593,AUT
+New Zealand,1958,4910,NZL
+Greece,1958,5510,GRC
+Germany,1958,7843,DEU
+Netherlands,1958,8311,NLD
+Italy,1958,16524,ITA
+United Kingdom ,1958,41623,GBR
+Albania ,1959,5,ALB
+Thailand,1959,5,THA
+Syria,1959,9,SYR
+Philippines,1959,10,PHL
+Pakistan,1959,16,PAK
+Bulgaria ,1959,16,BGR
+Japan,1959,24,JPN
+Lithuania ,1959,25,LTU
+Ukraine ,1959,27,UKR
+Estonia ,1959,28,EST
+Myanmar,1959,33,MMR
+Hong Kong,1959,45,HKG
+Turkey,1959,56,TUR
+Latvia ,1959,61,LVA
+Belgium,1959,72,BEL
+Papua New Guinea,1959,83,PNG
+Fiji,1959,84,FJI
+Portugal,1959,95,PRT
+Singapore,1959,120,SGP
+Israel,1959,164,ISR
+Norway,1959,182,NOR
+Romania,1959,184,ROU
+Cyprus,1959,201,CYP
+France,1959,208,FRA
+Malaysia,1959,232,MYS
+Sri Lanka,1959,258,LKA
+Indonesia,1959,293,IDN
+Egypt,1959,300,EGY
+Canada,1959,354,CAN
+Sweden,1959,382,SWE
+Denmark,1959,410,DNK
+India,1959,417,IND
+China,1959,433,CHN
+South Africa,1959,445,ZAF
+Switzerland,1959,520,CHE
+Lebanon,1959,521,LBN
+Spain,1959,535,ESP
+United States of America,1959,779,USA
+Hungary,1959,991,HUN
+New Zealand,1959,1327,NZL
+Malta,1959,1818,MLT
+Poland,1959,1836,POL
+Finland,1959,1935,FIN
+Austria,1959,2025,AUT
+Greece,1959,6214,GRC
+Netherlands,1959,9328,NLD
+Germany,1959,9406,DEU
+Italy,1959,16126,ITA
+United Kingdom ,1959,37851,GBR
+Syria,1960,5,SYR
+Thailand,1960,5,THA
+Albania ,1960,14,ALB
+Bulgaria ,1960,23,BGR
+Ukraine ,1960,27,UKR
+Japan,1960,28,JPN
+Myanmar,1960,35,MMR
+Estonia ,1960,36,EST
+Philippines,1960,37,PHL
+Lithuania ,1960,39,LTU
+Pakistan,1960,46,PAK
+Latvia ,1960,58,LVA
+Turkey,1960,70,TUR
+Hong Kong,1960,73,HKG
+Papua New Guinea,1960,83,PNG
+Fiji,1960,87,FJI
+Israel,1960,94,ISR
+Singapore,1960,124,SGP
+Portugal,1960,134,PRT
+Norway,1960,145,NOR
+Cyprus,1960,194,CYP
+Sweden,1960,196,SWE
+Romania,1960,227,ROU
+France,1960,228,FRA
+Malaysia,1960,262,MYS
+Indonesia,1960,290,IDN
+Sri Lanka,1960,302,LKA
+Egypt,1960,353,EGY
+Belgium,1960,387,BEL
+Denmark,1960,406,DNK
+India,1960,473,IND
+Finland,1960,515,FIN
+Switzerland,1960,552,CHE
+Canada,1960,602,CAN
+China,1960,611,CHN
+Lebanon,1960,668,LBN
+Hungary,1960,786,HUN
+United States of America,1960,885,USA
+South Africa,1960,1192,ZAF
+New Zealand,1960,1357,NZL
+Spain,1960,1465,ESP
+Austria,1960,1754,AUT
+Poland,1960,2028,POL
+Malta,1960,2056,MLT
+Netherlands,1960,6299,NLD
+Greece,1960,7619,GRC
+Germany,1960,9861,DEU
+Italy,1960,18360,ITA
+United Kingdom ,1960,38296,GBR
+Syria,1961,6,SYR
+Albania ,1961,8,ALB
+Thailand,1961,9,THA
+Ukraine ,1961,12,UKR
+Bulgaria ,1961,19,BGR
+Lithuania ,1961,21,LTU
+Estonia ,1961,22,EST
+Pakistan,1961,28,PAK
+Latvia ,1961,35,LVA
+Japan,1961,43,JPN
+Philippines,1961,46,PHL
+Fiji,1961,54,FJI
+Myanmar,1961,62,MMR
+Norway,1961,71,NOR
+Turkey,1961,73,TUR
+Papua New Guinea,1961,74,PNG
+Sweden,1961,74,SWE
+Hong Kong,1961,85,HKG
+Israel,1961,88,ISR
+Singapore,1961,88,SGP
+Denmark,1961,136,DNK
+Finland,1961,143,FIN
+Portugal,1961,147,PRT
+Indonesia,1961,172,IDN
+Romania,1961,174,ROU
+France,1961,201,FRA
+Switzerland,1961,280,CHE
+Hungary,1961,318,HUN
+Malaysia,1961,337,MYS
+Austria,1961,404,AUT
+Lebanon,1961,412,LBN
+India,1961,419,IND
+Egypt,1961,459,EGY
+Cyprus,1961,487,CYP
+Sri Lanka,1961,538,LKA
+Belgium,1961,581,BEL
+Canada,1961,589,CAN
+China,1961,680,CHN
+United States of America,1961,985,USA
+New Zealand,1961,1011,NZL
+South Africa,1961,1126,ZAF
+Malta,1961,1535,MLT
+Poland,1961,1588,POL
+Spain,1961,1808,ESP
+Germany,1961,2805,DEU
+Netherlands,1961,2860,NLD
+Greece,1961,11698,GRC
+Italy,1961,16795,ITA
+United Kingdom ,1961,30137,GBR
+Albania ,1962,7,ALB
+Syria,1962,8,SYR
+Thailand,1962,9,THA
+Ukraine ,1962,13,UKR
+Estonia ,1962,15,EST
+Bulgaria ,1962,18,BGR
+Lithuania ,1962,21,LTU
+Latvia ,1962,25,LVA
+Pakistan,1962,31,PAK
+Japan,1962,40,JPN
+Norway,1962,42,NOR
+Fiji,1962,46,FJI
+Myanmar,1962,47,MMR
+Sweden,1962,71,SWE
+Philippines,1962,72,PHL
+Finland,1962,77,FIN
+Romania,1962,92,ROU
+Turkey,1962,93,TUR
+Hong Kong,1962,99,HKG
+Singapore,1962,109,SGP
+Israel,1962,124,ISR
+Papua New Guinea,1962,126,PNG
+Portugal,1962,131,PRT
+Denmark,1962,137,DNK
+Indonesia,1962,157,IDN
+Switzerland,1962,191,CHE
+Malaysia,1962,223,MYS
+Hungary,1962,290,HUN
+France,1962,293,FRA
+Sri Lanka,1962,418,LKA
+Belgium,1962,433,BEL
+India,1962,527,IND
+Lebanon,1962,533,LBN
+Cyprus,1962,534,CYP
+Austria,1962,545,AUT
+Canada,1962,641,CAN
+South Africa,1962,643,ZAF
+United States of America,1962,1053,USA
+Poland,1962,1113,POL
+China,1962,1184,CHN
+Egypt,1962,1265,EGY
+New Zealand,1962,1313,NZL
+Netherlands,1962,1742,NLD
+Germany,1962,2704,DEU
+Malta,1962,3252,MLT
+Spain,1962,4585,ESP
+Greece,1962,10908,GRC
+Italy,1962,13427,ITA
+United Kingdom ,1962,45129,GBR
+Albania ,1963,5,ALB
+Thailand,1963,9,THA
+Lithuania ,1963,16,LTU
+Estonia ,1963,18,EST
+Bulgaria ,1963,20,BGR
+Ukraine ,1963,21,UKR
+Japan,1963,22,JPN
+Latvia ,1963,34,LVA
+Syria,1963,44,SYR
+Pakistan,1963,52,PAK
+Fiji,1963,80,FJI
+Hong Kong,1963,88,HKG
+Romania,1963,94,ROU
+Philippines,1963,94,PHL
+Sweden,1963,97,SWE
+Norway,1963,99,NOR
+Papua New Guinea,1963,107,PNG
+Singapore,1963,118,SGP
+Myanmar,1963,152,MMR
+Finland,1963,165,FIN
+Indonesia,1963,170,IDN
+Turkey,1963,171,TUR
+Israel,1963,180,ISR
+Portugal,1963,219,PRT
+Denmark,1963,246,DNK
+China,1963,248,CHN
+Switzerland,1963,321,CHE
+Hungary,1963,330,HUN
+Belgium,1963,353,BEL
+Malaysia,1963,414,MYS
+France,1963,533,FRA
+Cyprus,1963,543,CYP
+Spain,1963,555,ESP
+Sri Lanka,1963,574,LKA
+Canada,1963,614,CAN
+Lebanon,1963,656,LBN
+India,1963,671,IND
+South Africa,1963,711,ZAF
+Austria,1963,823,AUT
+Poland,1963,1085,POL
+United States of America,1963,1331,USA
+New Zealand,1963,1678,NZL
+Egypt,1963,1966,EGY
+Netherlands,1963,2298,NLD
+Germany,1963,3530,DEU
+Malta,1963,4525,MLT
+Italy,1963,12903,ITA
+Greece,1963,14894,GRC
+United Kingdom ,1963,59361,GBR
+Albania ,1964,6,ALB
+Thailand,1964,10,THA
+Bulgaria ,1964,11,BGR
+Lithuania ,1964,12,LTU
+Estonia ,1964,13,EST
+Latvia ,1964,27,LVA
+Ukraine ,1964,27,UKR
+Japan,1964,50,JPN
+Syria,1964,55,SYR
+Fiji,1964,61,FJI
+Pakistan,1964,68,PAK
+Hong Kong,1964,109,HKG
+Romania,1964,111,ROU
+Norway,1964,112,NOR
+Sweden,1964,121,SWE
+Israel,1964,125,ISR
+Philippines,1964,125,PHL
+Indonesia,1964,133,IDN
+Singapore,1964,155,SGP
+Papua New Guinea,1964,161,PNG
+Turkey,1964,178,TUR
+Belgium,1964,179,BEL
+Malaysia,1964,224,MYS
+Denmark,1964,260,DNK
+Myanmar,1964,266,MMR
+Portugal,1964,304,PRT
+Finland,1964,318,FIN
+Hungary,1964,331,HUN
+Cyprus,1964,352,CYP
+Switzerland,1964,355,CHE
+China,1964,373,CHN
+Sri Lanka,1964,393,LKA
+France,1964,395,FRA
+South Africa,1964,564,ZAF
+India,1964,800,IND
+Canada,1964,824,CAN
+Spain,1964,915,ESP
+Austria,1964,964,AUT
+Lebanon,1964,984,LBN
+Poland,1964,1157,POL
+Egypt,1964,1479,EGY
+United States of America,1964,1713,USA
+New Zealand,1964,2021,NZL
+Netherlands,1964,2106,NLD
+Germany,1964,3485,DEU
+Malta,1964,5864,MLT
+Italy,1964,10309,ITA
+Greece,1964,16991,GRC
+United Kingdom ,1964,74754,GBR
+Albania ,1965,13,ALB
+Estonia ,1965,15,EST
+Lithuania ,1965,16,LTU
+Bulgaria ,1965,20,BGR
+Thailand,1965,22,THA
+Ukraine ,1965,30,UKR
+Latvia ,1965,33,LVA
+Japan,1965,36,JPN
+Pakistan,1965,54,PAK
+Philippines,1965,67,PHL
+Fiji,1965,89,FJI
+Syria,1965,95,SYR
+Romania,1965,102,ROU
+Papua New Guinea,1965,109,PNG
+Norway,1965,129,NOR
+Hong Kong,1965,130,HKG
+Israel,1965,131,ISR
+Indonesia,1965,146,IDN
+Sweden,1965,199,SWE
+Finland,1965,200,FIN
+Singapore,1965,205,SGP
+Belgium,1965,226,BEL
+Turkey,1965,269,TUR
+Myanmar,1965,276,MMR
+Denmark,1965,325,DNK
+China,1965,352,CHN
+Hungary,1965,388,HUN
+Sri Lanka,1965,430,LKA
+Malaysia,1965,438,MYS
+Portugal,1965,445,PRT
+South Africa,1965,482,ZAF
+France,1965,486,FRA
+Switzerland,1965,501,CHE
+Cyprus,1965,827,CYP
+Canada,1965,865,CAN
+Austria,1965,968,AUT
+India,1965,1196,IND
+Spain,1965,1226,ESP
+Poland,1965,1275,POL
+Egypt,1965,1365,EGY
+Lebanon,1965,1625,LBN
+Netherlands,1965,2146,NLD
+New Zealand,1965,2200,NZL
+United States of America,1965,2326,USA
+Germany,1965,3751,DEU
+Malta,1965,4298,MLT
+Italy,1965,11420,ITA
+Greece,1965,15153,GRC
+United Kingdom ,1965,74749,GBR
+Albania ,1966,6,ALB
+Estonia ,1966,9,EST
+Lithuania ,1966,14,LTU
+Thailand,1966,17,THA
+Bulgaria ,1966,31,BGR
+Latvia ,1966,31,LVA
+Ukraine ,1966,32,UKR
+Japan,1966,53,JPN
+Romania,1966,68,ROU
+Pakistan,1966,82,PAK
+Papua New Guinea,1966,92,PNG
+Philippines,1966,98,PHL
+Fiji,1966,103,FJI
+Syria,1966,123,SYR
+Indonesia,1966,135,IDN
+Norway,1966,142,NOR
+Hong Kong,1966,158,HKG
+Israel,1966,172,ISR
+Singapore,1966,201,SGP
+Myanmar,1966,244,MMR
+China,1966,256,CHN
+Belgium,1966,259,BEL
+Turkey,1966,316,TUR
+Malaysia,1966,319,MYS
+Finland,1966,322,FIN
+Hungary,1966,342,HUN
+Sri Lanka,1966,395,LKA
+South Africa,1966,407,ZAF
+Denmark,1966,504,DNK
+Sweden,1966,516,SWE
+France,1966,545,FRA
+Cyprus,1966,574,CYP
+Poland,1966,664,POL
+Switzerland,1966,680,CHE
+Austria,1966,700,AUT
+Canada,1966,795,CAN
+Portugal,1966,852,PRT
+Spain,1966,1096,ESP
+Egypt,1966,1401,EGY
+Malta,1966,1632,MLT
+India,1966,1651,IND
+Lebanon,1966,1717,LBN
+Netherlands,1966,1870,NLD
+United States of America,1966,2337,USA
+New Zealand,1966,2751,NZL
+Germany,1966,3491,DEU
+Greece,1966,9826,GRC
+Italy,1966,12888,ITA
+United Kingdom ,1966,75514,GBR
+Albania ,1967,5,ALB
+Estonia ,1967,13,EST
+Lithuania ,1967,18,LTU
+Thailand,1967,20,THA
+Latvia ,1967,31,LVA
+Bulgaria ,1967,33,BGR
+Ukraine ,1967,36,UKR
+Japan,1967,56,JPN
+Romania,1967,83,ROU
+Syria,1967,88,SYR
+Pakistan,1967,131,PAK
+Fiji,1967,143,FJI
+Philippines,1967,147,PHL
+Papua New Guinea,1967,184,PNG
+Indonesia,1967,204,IDN
+Israel,1967,215,ISR
+Singapore,1967,237,SGP
+Norway,1967,241,NOR
+Belgium,1967,337,BEL
+Hungary,1967,366,HUN
+Hong Kong,1967,389,HKG
+Sweden,1967,445,SWE
+Cyprus,1967,485,CYP
+Turkey,1967,512,TUR
+China,1967,525,CHN
+South Africa,1967,527,ZAF
+Malaysia,1967,542,MYS
+Poland,1967,630,POL
+Sri Lanka,1967,642,LKA
+Austria,1967,681,AUT
+Myanmar,1967,731,MMR
+Finland,1967,748,FIN
+Denmark,1967,789,DNK
+Switzerland,1967,869,CHE
+Canada,1967,920,CAN
+France,1967,1018,FRA
+Egypt,1967,1101,EGY
+Portugal,1967,1142,PRT
+Spain,1967,1294,ESP
+Malta,1967,1654,MLT
+Lebanon,1967,1679,LBN
+India,1967,2129,IND
+Netherlands,1967,2262,NLD
+United States of America,1967,2466,USA
+Germany,1967,3900,DEU
+New Zealand,1967,5417,NZL
+Greece,1967,8750,GRC
+Italy,1967,15042,ITA
+United Kingdom ,1967,62308,GBR
+Estonia ,1968,14,EST
+Lithuania ,1968,21,LTU
+Latvia ,1968,25,LVA
+Ukraine ,1968,29,UKR
+Albania ,1968,30,ALB
+Thailand,1968,43,THA
+Bulgaria ,1968,45,BGR
+Japan,1968,64,JPN
+Romania,1968,71,ROU
+Pakistan,1968,94,PAK
+Syria,1968,125,SYR
+Fiji,1968,156,FJI
+Papua New Guinea,1968,198,PNG
+Philippines,1968,214,PHL
+Israel,1968,222,ISR
+Indonesia,1968,225,IDN
+Belgium,1968,315,BEL
+Norway,1968,318,NOR
+Singapore,1968,342,SGP
+Hungary,1968,354,HUN
+Hong Kong,1968,388,HKG
+China,1968,458,CHN
+Poland,1968,479,POL
+Sweden,1968,493,SWE
+Austria,1968,681,AUT
+South Africa,1968,701,ZAF
+Myanmar,1968,720,MMR
+Malaysia,1968,808,MYS
+Switzerland,1968,865,CHE
+Cyprus,1968,880,CYP
+Sri Lanka,1968,924,LKA
+Canada,1968,1082,CAN
+Portugal,1968,1149,PRT
+Denmark,1968,1231,DNK
+Malta,1968,1292,MLT
+France,1968,1498,FRA
+Egypt,1968,1851,EGY
+Spain,1968,2018,ESP
+Turkey,1968,2274,TUR
+Finland,1968,2555,FIN
+Lebanon,1968,2667,LBN
+Netherlands,1968,2870,NLD
+United States of America,1968,3126,USA
+Germany,1968,3490,DEU
+India,1968,3494,IND
+New Zealand,1968,6243,NZL
+Greece,1968,11489,GRC
+Italy,1968,13175,ITA
+United Kingdom ,1968,80205,GBR
+Estonia ,1969,10,EST
+Lithuania ,1969,17,LTU
+Latvia ,1969,23,LVA
+Ukraine ,1969,29,UKR
+Albania ,1969,33,ALB
+Bulgaria ,1969,41,BGR
+Thailand,1969,48,THA
+Japan,1969,66,JPN
+Romania,1969,88,ROU
+Pakistan,1969,129,PAK
+Fiji,1969,179,FJI
+Norway,1969,236,NOR
+Syria,1969,241,SYR
+Israel,1969,252,ISR
+Indonesia,1969,264,IDN
+Philippines,1969,270,PHL
+Belgium,1969,306,BEL
+Papua New Guinea,1969,326,PNG
+China,1969,352,CHN
+Hungary,1969,359,HUN
+Hong Kong,1969,404,HKG
+Singapore,1969,411,SGP
+Myanmar,1969,419,MMR
+Sweden,1969,490,SWE
+Poland,1969,520,POL
+Austria,1969,827,AUT
+Malaysia,1969,828,MYS
+Sri Lanka,1969,910,LKA
+Cyprus,1969,945,CYP
+Malta,1969,990,MLT
+South Africa,1969,990,ZAF
+Portugal,1969,1052,PRT
+Switzerland,1969,1062,CHE
+Denmark,1969,1081,DNK
+Canada,1969,1281,CAN
+Egypt,1969,1606,EGY
+Finland,1969,1796,FIN
+Spain,1969,2114,ESP
+France,1969,2215,FRA
+Netherlands,1969,2752,NLD
+United States of America,1969,3466,USA
+Lebanon,1969,3654,LBN
+Turkey,1969,3832,TUR
+India,1969,3838,IND
+Germany,1969,4029,DEU
+New Zealand,1969,5023,NZL
+Italy,1969,10224,ITA
+Greece,1969,10782,GRC
+United Kingdom ,1969,76336,GBR
+Albania ,1970,8,ALB
+Estonia ,1970,9,EST
+Lithuania ,1970,14,LTU
+Latvia ,1970,17,LVA
+Ukraine ,1970,20,UKR
+Bulgaria ,1970,47,BGR
+Thailand,1970,76,THA
+Romania,1970,89,ROU
+Japan,1970,96,JPN
+Pakistan,1970,132,PAK
+Fiji,1970,216,FJI
+Belgium,1970,226,BEL
+Indonesia,1970,239,IDN
+Norway,1970,249,NOR
+Israel,1970,269,ISR
+China,1970,287,CHN
+Hong Kong,1970,322,HKG
+Philippines,1970,328,PHL
+Syria,1970,333,SYR
+Hungary,1970,347,HUN
+Papua New Guinea,1970,353,PNG
+Poland,1970,419,POL
+Singapore,1970,512,SGP
+Sweden,1970,567,SWE
+Austria,1970,701,AUT
+Myanmar,1970,719,MMR
+Denmark,1970,748,DNK
+Sri Lanka,1970,904,LKA
+Malaysia,1970,946,MYS
+Finland,1970,1017,FIN
+Switzerland,1970,1109,CHE
+Cyprus,1970,1148,CYP
+Malta,1970,1274,MLT
+Egypt,1970,1350,EGY
+Portugal,1970,1405,PRT
+South Africa,1970,1593,ZAF
+Canada,1970,1736,CAN
+Spain,1970,1948,ESP
+France,1970,1954,FRA
+Netherlands,1970,2159,NLD
+Lebanon,1970,3578,LBN
+India,1970,3623,IND
+Germany,1970,3652,DEU
+Turkey,1970,3809,TUR
+New Zealand,1970,4558,NZL
+United States of America,1970,5233,USA
+Italy,1970,7573,ITA
+Greece,1970,9880,GRC
+United Kingdom ,1970,64986,GBR
+Albania ,1971,5,ALB
+Estonia ,1971,7,EST
+Lithuania ,1971,12,LTU
+Ukraine ,1971,13,UKR
+Latvia ,1971,29,LVA
+Bulgaria ,1971,43,BGR
+Thailand,1971,54,THA
+Romania,1971,89,ROU
+Japan,1971,100,JPN
+Norway,1971,161,NOR
+Pakistan,1971,165,PAK
+Indonesia,1971,183,IDN
+Fiji,1971,193,FJI
+Israel,1971,237,ISR
+Belgium,1971,251,BEL
+Hungary,1971,299,HUN
+Hong Kong,1971,299,HKG
+China,1971,333,CHN
+Syria,1971,335,SYR
+Philippines,1971,373,PHL
+Austria,1971,431,AUT
+Finland,1971,499,FIN
+Papua New Guinea,1971,524,PNG
+Myanmar,1971,575,MMR
+Denmark,1971,626,DNK
+Poland,1971,666,POL
+Singapore,1971,676,SGP
+Sweden,1971,679,SWE
+Switzerland,1971,1002,CHE
+Malaysia,1971,1067,MYS
+Cyprus,1971,1092,CYP
+Sri Lanka,1971,1296,LKA
+Spain,1971,1340,ESP
+South Africa,1971,1347,ZAF
+Portugal,1971,1382,PRT
+Malta,1971,1479,MLT
+Egypt,1971,1536,EGY
+Netherlands,1971,1570,NLD
+France,1971,1818,FRA
+Canada,1971,2264,CAN
+Turkey,1971,2438,TUR
+Lebanon,1971,2537,LBN
+Germany,1971,2564,DEU
+India,1971,2909,IND
+New Zealand,1971,3610,NZL
+Greece,1971,5618,GRC
+Italy,1971,5874,ITA
+United States of America,1971,6330,USA
+United Kingdom ,1971,55241,GBR
+Albania ,1972,6,ALB
+Estonia ,1972,8,EST
+Lithuania ,1972,9,LTU
+Ukraine ,1972,12,UKR
+Latvia ,1972,19,LVA
+Bulgaria ,1972,40,BGR
+Japan,1972,66,JPN
+Romania,1972,75,ROU
+Thailand,1972,76,THA
+Indonesia,1972,138,IDN
+Belgium,1972,148,BEL
+Pakistan,1972,164,PAK
+Norway,1972,165,NOR
+Israel,1972,204,ISR
+Fiji,1972,219,FJI
+Finland,1972,265,FIN
+Myanmar,1972,289,MMR
+Hungary,1972,315,HUN
+China,1972,322,CHN
+Syria,1972,323,SYR
+Hong Kong,1972,348,HKG
+Austria,1972,350,AUT
+Denmark,1972,362,DNK
+Poland,1972,496,POL
+Philippines,1972,504,PHL
+Switzerland,1972,555,CHE
+Singapore,1972,606,SGP
+Sweden,1972,693,SWE
+Papua New Guinea,1972,715,PNG
+Malaysia,1972,745,MYS
+Cyprus,1972,907,CYP
+Netherlands,1972,994,NLD
+Egypt,1972,994,EGY
+France,1972,1055,FRA
+South Africa,1972,1190,ZAF
+Portugal,1972,1223,PRT
+Spain,1972,1304,ESP
+Sri Lanka,1972,1481,LKA
+Canada,1972,1691,CAN
+Malta,1972,1904,MLT
+Germany,1972,2113,DEU
+Turkey,1972,2272,TUR
+India,1972,2273,IND
+Lebanon,1972,2320,LBN
+Greece,1972,3264,GRC
+Italy,1972,3426,ITA
+New Zealand,1972,3452,NZL
+United States of America,1972,3651,USA
+United Kingdom ,1972,48429,GBR
+Bangladesh ,1973,28,BGD
+Thailand,1973,93,THA
+Romania,1973,94,ROU
+Japan,1973,113,JPN
+Indonesia,1973,148,IDN
+Norway,1973,149,NOR
+Belgium,1973,160,BEL
+Peru ,1973,173,PER
+Myanmar,1973,179,MMR
+Pakistan,1973,196,PAK
+Fiji,1973,215,FJI
+Israel,1973,216,ISR
+Mauritius ,1973,249,MUS
+Hungary,1973,267,HUN
+Finland,1973,269,FIN
+Syria,1973,376,SYR
+Denmark,1973,384,DNK
+Austria,1973,406,AUT
+Sweden,1973,430,SWE
+Poland,1973,437,POL
+Philippines,1973,504,PHL
+China,1973,586,CHN
+Switzerland,1973,639,CHE
+Hong Kong,1973,664,HKG
+Argentina ,1973,830,ARG
+Malaysia,1973,841,MYS
+France,1973,870,FRA
+Egypt,1973,901,EGY
+Singapore,1973,930,SGP
+Papua New Guinea,1973,950,PNG
+Portugal,1973,1088,PRT
+Cyprus,1973,1102,CYP
+South Africa,1973,1154,ZAF
+Netherlands,1973,1175,NLD
+Chile ,1973,1203,CHL
+Canada,1973,1513,CAN
+Spain,1973,1609,ESP
+Uruguay ,1973,1840,URY
+Germany,1973,2054,DEU
+Sri Lanka,1973,2082,LKA
+Malta,1973,2302,MLT
+India,1973,2478,IND
+Italy,1973,2931,ITA
+Lebanon,1973,3141,LBN
+Turkey,1973,3188,TUR
+United States of America,1973,3277,USA
+Greece,1973,3883,GRC
+New Zealand,1973,4049,NZL
+United Kingdom ,1973,46509,GBR
+Bangladesh ,1974,62,BGD
+Romania,1974,78,ROU
+Thailand,1974,108,THA
+Japan,1974,110,JPN
+Norway,1974,111,NOR
+Belgium,1974,120,BEL
+Pakistan,1974,131,PAK
+Peru ,1974,140,PER
+Indonesia,1974,146,IDN
+Finland,1974,187,FIN
+Hungary,1974,191,HUN
+Syria,1974,251,SYR
+Mauritius ,1974,256,MUS
+Israel,1974,287,ISR
+Sweden,1974,330,SWE
+Fiji,1974,331,FJI
+Poland,1974,338,POL
+Austria,1974,343,AUT
+Denmark,1974,353,DNK
+Myanmar,1974,390,MMR
+Egypt,1974,473,EGY
+Switzerland,1974,500,CHE
+Portugal,1974,521,PRT
+Papua New Guinea,1974,597,PNG
+France,1974,631,FRA
+Spain,1974,681,ESP
+China,1974,721,CHN
+Netherlands,1974,741,NLD
+Argentina ,1974,758,ARG
+Singapore,1974,782,SGP
+Hong Kong,1974,875,HKG
+Sri Lanka,1974,999,LKA
+Philippines,1974,1030,PHL
+Malaysia,1974,1128,MYS
+Malta,1974,1224,MLT
+South Africa,1974,1297,ZAF
+Canada,1974,1305,CAN
+Germany,1974,1476,DEU
+Cyprus,1974,1633,CYP
+Turkey,1974,1744,TUR
+Chile ,1974,2002,CHL
+India,1974,2048,IND
+Uruguay ,1974,2117,URY
+Lebanon,1974,2271,LBN
+Italy,1974,2389,ITA
+Greece,1974,2399,GRC
+New Zealand,1974,2652,NZL
+United States of America,1974,3130,USA
+United Kingdom ,1974,37647,GBR
+Estonia,1975,5,EST
+Ukraine,1975,5,UKR
+French Polynesia,1975,5,PYF
+Guam,1975,5,GUM
+Monaco,1975,5,MCO
+Bahrain,1975,5,BHR
+Saudi Arabia,1975,5,SAU
+Yemen,1975,5,YEM
+Angola,1975,5,AGO
+Congo,1975,5,COG
+Equatorial Guinea,1975,5,GNQ
+Ghana,1975,5,GHA
+Lesotho,1975,5,LSO
+Madagascar,1975,5,MDG
+Mozambique,1975,5,MOZ
+Niger,1975,5,NGA
+Senegal,1975,5,SEN
+Sierra Leone,1975,5,SLE
+Somalia,1975,5,SOM
+Zaire,1975,5,AGO
+Afghanistan,1975,5,AFG
+Maldives,1975,5,MDV
+Nepal,1975,5,NPL
+Cuba,1975,5,CUB
+Dominican Republic,1975,5,DOM
+El Salvador,1975,5,SLV
+French Guiana,1975,5,GUF
+Honduras,1975,5,HND
+Martinique,1975,5,MTQ
+Nicaragua,1975,5,NIC
+Panama,1975,5,PAN
+Puerto Rico,1975,5,PRI
+Latvia,1975,6,LVA
+Iceland,1975,6,ISL
+Brunei,1975,6,BRN
+Costa Rica,1975,6,CRI
+Lithuania,1975,7,LTU
+Norfolk Island,1975,7,NFK
+Tunisia,1975,7,TUN
+Bermuda,1975,7,BMU
+Barbados,1975,7,BRB
+Gibraltar,1975,8,GIB
+Liberia,1975,8,LBR
+Bahamas,1975,8,BHS
+Nauru,1975,9,NRU
+Malawi,1975,9,MWI
+Guatemala,1975,9,GTM
+Cook Islands,1975,10,COK
+Vanuatu,1975,10,VUT
+Iraq,1975,10,IRQ
+Ethiopia,1975,10,ETH
+Kiribati,1975,11,KIR
+Nigeria,1975,11,NGA
+Kuwait,1975,12,KWT
+Libya,1975,13,LBY
+Bolivia,1975,13,BOL
+Jamaica,1975,13,JAM
+Venezuela,1975,13,VEN
+Bulgaria,1975,14,BGR
+Sudan,1975,15,SDN
+Paraguay,1975,15,PRY
+Albania,1975,18,ALB
+Guyana,1975,18,GUY
+Algeria,1975,19,DZA
+Uganda,1975,19,UGA
+Suriname,1975,19,SUR
+Trinidad and Tobago,1975,19,TTO
+Morocco,1975,21,MAR
+New Caledonia,1975,22,NCL
+Mexico,1975,22,MEX
+Solomon Islands,1975,23,SLB
+Norway,1975,33,NOR
+Tonga,1975,33,TON
+Seychelles,1975,34,SYC
+Tanzania,1975,35,TZA
+Bangladesh,1975,36,BGD
+Brazil,1975,43,BRA
+Zambia,1975,44,ZMB
+Jordan,1975,49,JOR
+Ecuador,1975,62,ECU
+Sweden,1975,68,SWE
+Cocos (Keeling) Is,1975,71,CCK
+Romania,1975,73,ROU
+Christmas Island,1975,79,CXR
+Iran,1975,80,IRN
+Japan,1975,89,JPN
+Belgium,1975,90,BEL
+Kenya,1975,93,KEN
+Korea,1975,95,PRK
+Colombia,1975,98,COL
+Pakistan,1975,99,PAK
+Zimbabwe,1975,104,ZWE
+Hungary,1975,109,HUN
+Peru,1975,109,PER
+Finland,1975,111,FIN
+Syria,1975,116,SYR
+Austria,1975,133,AUT
+Mauritius,1975,140,MUS
+Indonesia,1975,142,IDN
+Israel,1975,167,ISR
+Thailand,1975,170,THA
+Poland,1975,180,POL
+Switzerland,1975,219,CHE
+Cambodia,1975,238,KHM
+Denmark,1975,239,DNK
+Egypt,1975,244,EGY
+Spain,1975,294,ESP
+Fiji,1975,298,FJI
+France,1975,318,FRA
+Myanmar,1975,361,MMR
+Portugal,1975,393,PRT
+Malta,1975,397,MLT
+Netherlands,1975,405,NLD
+Sri Lanka,1975,515,LKA
+Viet Nam,1975,539,VNM
+Uruguay,1975,548,URY
+Singapore,1975,620,SGP
+Argentina,1975,629,ARG
+Canada,1975,649,CAN
+Ireland,1975,656,IRL
+Papua New Guinea,1975,664,PNG
+South Africa,1975,890,ZAF
+Hong Kong,1975,897,HKG
+India,1975,907,IND
+Turkey,1975,1062,TUR
+Philippines,1975,1111,PHL
+Malaysia,1975,1201,MYS
+Italy,1975,1365,ITA
+United States of America,1975,1432,USA
+Greece,1975,1489,GRC
+Lebanon,1975,1519,LBN
+Chile,1975,1905,CHL
+Cyprus,1975,2855,CYP
+New Zealand,1975,2921,NZL
+United Kingdom,1975,16687,GBR
+Albania,1976,5,ALB
+Estonia,1976,5,EST
+Latvia,1976,5,LVA
+Lithuania,1976,5,LTU
+Ukraine,1976,5,UKR
+French Polynesia,1976,5,PYF
+Norfolk Island,1976,5,NFK
+Luxembourg,1976,5,LUX
+Kuwait,1976,5,KWT
+United Arab Emirates,1976,5,ARE
+Yemen,1976,5,YEM
+Côte d'Ivoire,1976,5,CIV
+Congo,1976,5,COG
+Gambia,1976,5,GMB
+Liberia,1976,5,LBR
+Madagascar,1976,5,MDG
+Mali,1976,5,MLI
+Mozambique,1976,5,MOZ
+Reunion,1976,5,REU
+Sierra Leone,1976,5,SLE
+Nepal,1976,5,NPL
+Bolivia,1976,5,BOL
+Costa Rica,1976,5,CRI
+Cuba,1976,5,CUB
+French Guiana,1976,5,GUF
+Honduras,1976,5,HND
+Martinique,1976,5,MTQ
+Panama,1976,5,PAN
+Bahrain,1976,6,BHR
+Saudi Arabia,1976,6,SAU
+Gibraltar,1976,7,GIB
+Tunisia,1976,7,TUN
+Zaire,1976,7,AGO
+Bermuda,1976,7,BMU
+Guyana,1976,7,GUY
+Venezuela,1976,7,VEN
+Ghana,1976,8,GHA
+Malawi,1976,8,MWI
+Nauru,1976,9,NRU
+Niger,1976,9,NGA
+Bulgaria,1976,10,BGR
+Nigeria,1976,10,NGA
+Bahamas,1976,10,BHS
+Kiribati,1976,11,KIR
+Mexico,1976,11,MEX
+New Caledonia,1976,12,NCL
+Vanuatu,1976,12,VUT
+Iceland,1976,12,ISL
+Sudan,1976,13,SDN
+Barbados,1976,14,BRB
+El Salvador,1976,14,SLV
+Angola,1976,15,AGO
+Brunei,1976,15,BRN
+Senegal,1976,16,SEN
+Algeria,1976,17,DZA
+Paraguay,1976,19,PRY
+Ecuador,1976,22,ECU
+Jamaica,1976,22,JAM
+Cook Islands,1976,23,COK
+Morocco,1976,23,MAR
+Uganda,1976,23,UGA
+Seychelles,1976,28,SYC
+Colombia,1976,30,COL
+Ethiopia,1976,31,ETH
+Bangladesh,1976,32,BGD
+Tanzania,1976,33,TZA
+Solomon Islands,1976,36,SLB
+Jordan,1976,37,JOR
+Norway,1976,38,NOR
+Trinidad and Tobago,1976,38,TTO
+Peru,1976,46,PER
+Zambia,1976,48,ZMB
+Brazil,1976,48,BRA
+Libya,1976,53,LBY
+Belgium,1976,57,BEL
+Cambodia,1976,59,KHM
+Romania,1976,67,ROU
+Pakistan,1976,71,PAK
+Iran,1976,77,IRN
+Japan,1976,82,JPN
+Tonga,1976,93,TON
+Finland,1976,100,FIN
+Kenya,1976,103,KEN
+Sweden,1976,115,SWE
+Hungary,1976,127,HUN
+Iraq,1976,128,IRQ
+Denmark,1976,143,DNK
+Cocos (Keeling) Is,1976,148,CCK
+Zimbabwe,1976,153,ZWE
+Christmas Island,1976,154,CXR
+Mauritius,1976,166,MUS
+Austria,1976,181,AUT
+Israel,1976,205,ISR
+Poland,1976,240,POL
+Myanmar,1976,248,MMR
+Switzerland,1976,253,CHE
+Egypt,1976,283,EGY
+Spain,1976,289,ESP
+Thailand,1976,305,THA
+France,1976,309,FRA
+Syria,1976,311,SYR
+Portugal,1976,317,PRT
+Malta,1976,319,MLT
+Indonesia,1976,359,IDN
+Papua New Guinea,1976,412,PNG
+Fiji,1976,454,FJI
+Sri Lanka,1976,572,LKA
+Uruguay,1976,594,URY
+Canada,1976,606,CAN
+Netherlands,1976,611,NLD
+Ireland,1976,714,IRL
+Singapore,1976,730,SGP
+Korea,1976,798,PRK
+India,1976,868,IND
+Viet Nam,1976,951,VNM
+Argentina,1976,1065,ARG
+Hong Kong,1976,1102,HKG
+Turkey,1976,1199,TUR
+United States of America,1976,1220,USA
+Italy,1976,1318,ITA
+Greece,1976,1525,GRC
+South Africa,1976,1592,ZAF
+Philippines,1976,1681,PHL
+Chile,1976,1702,CHL
+Malaysia,1976,1777,MYS
+Cyprus,1976,2773,CYP
+New Zealand,1976,4842,NZL
+Lebanon,1976,12186,LBN
+United Kingdom,1976,18505,GBR
+Estonia,1977,5,EST
+Ukraine,1977,5,UKR
+French Polynesia,1977,5,PYF
+Guam,1977,5,GUM
+Luxembourg,1977,5,LUX
+Qatar,1977,5,QAT
+Saudi Arabia,1977,5,SAU
+United Arab Emirates,1977,5,ARE
+Yemen,1977,5,YEM
+Botswana,1977,5,BWA
+Congo,1977,5,COG
+Lesotho,1977,5,LSO
+Liberia,1977,5,LBR
+Madagascar,1977,5,MDG
+Malawi,1977,5,MWI
+Reunion,1977,5,REU
+Senegal,1977,5,SEN
+Sierra Leone,1977,5,SLE
+Maldives,1977,5,MDV
+Nepal,1977,5,NPL
+Bermuda,1977,5,BMU
+Bahamas,1977,5,BHS
+Cuba,1977,5,CUB
+Dominican Republic,1977,5,DOM
+Guatemala,1977,5,GTM
+Haiti,1977,5,HTI
+Honduras,1977,5,HND
+Martinique,1977,5,MTQ
+Nicaragua,1977,5,NIC
+Puerto Rico,1977,5,PRI
+Kiribati,1977,6,KIR
+Bahrain,1977,6,BHR
+Tunisia,1977,6,TUN
+Ghana,1977,6,GHA
+Zaire,1977,6,AGO
+Afghanistan,1977,6,AFG
+Panama,1977,6,PAN
+Vanuatu,1977,7,VUT
+Kuwait,1977,7,KWT
+Angola,1977,8,AGO
+Albania,1977,9,ALB
+Lithuania,1977,9,LTU
+Brunei,1977,9,BRN
+Venezuela,1977,9,VEN
+Nauru,1977,10,NRU
+Iceland,1977,11,ISL
+New Caledonia,1977,12,NCL
+Norfolk Island,1977,12,NFK
+Nigeria,1977,12,NGA
+Bolivia,1977,12,BOL
+Latvia,1977,13,LVA
+Gibraltar,1977,13,GIB
+Sudan,1977,13,SDN
+Libya,1977,14,LBY
+Cook Islands,1977,15,COK
+Mexico,1977,15,MEX
+Paraguay,1977,16,PRY
+Morocco,1977,17,MAR
+Uganda,1977,17,UGA
+Barbados,1977,18,BRB
+Algeria,1977,19,DZA
+Mozambique,1977,19,MOZ
+Guyana,1977,21,GUY
+Niger,1977,23,NGA
+Trinidad and Tobago,1977,25,TTO
+Ethiopia,1977,29,ETH
+Norway,1977,32,NOR
+Tanzania,1977,35,TZA
+Bulgaria,1977,36,BGR
+Jamaica,1977,37,JAM
+Bangladesh,1977,42,BGD
+Solomon Islands,1977,44,SLB
+Seychelles,1977,49,SYC
+Ecuador,1977,49,ECU
+Jordan,1977,50,JOR
+Cocos (Keeling) Is,1977,71,CCK
+Belgium,1977,75,BEL
+Iraq,1977,75,IRQ
+Japan,1977,79,JPN
+Iran,1977,82,IRN
+Zambia,1977,87,ZMB
+Peru,1977,90,PER
+Colombia,1977,95,COL
+Pakistan,1977,109,PAK
+Romania,1977,112,ROU
+Brazil,1977,112,BRA
+Kenya,1977,114,KEN
+Sweden,1977,122,SWE
+Tonga,1977,125,TON
+Hungary,1977,135,HUN
+Israel,1977,149,ISR
+Mauritius,1977,154,MUS
+Myanmar,1977,161,MMR
+Spain,1977,162,ESP
+Austria,1977,175,AUT
+Denmark,1977,176,DNK
+Syria,1977,189,SYR
+Finland,1977,212,FIN
+Christmas Island,1977,231,CXR
+Thailand,1977,232,THA
+France,1977,268,FRA
+Poland,1977,290,POL
+Zimbabwe,1977,294,ZWE
+Switzerland,1977,308,CHE
+Egypt,1977,315,EGY
+Cambodia,1977,338,KHM
+Papua New Guinea,1977,387,PNG
+Fiji,1977,405,FJI
+Korea,1977,425,PRK
+Malta,1977,444,MLT
+Portugal,1977,468,PRT
+Indonesia,1977,512,IDN
+Uruguay,1977,544,URY
+Cyprus,1977,549,CYP
+Sri Lanka,1977,562,LKA
+Canada,1977,724,CAN
+Singapore,1977,742,SGP
+Ireland,1977,850,IRL
+Argentina,1977,902,ARG
+Netherlands,1977,950,NLD
+United States of America,1977,1066,USA
+India,1977,1104,IND
+Turkey,1977,1159,TUR
+Greece,1977,1165,GRC
+Chile,1977,1261,CHL
+Philippines,1977,1462,PHL
+Hong Kong,1977,1489,HKG
+Italy,1977,1598,ITA
+Malaysia,1977,2118,MYS
+South Africa,1977,2463,ZAF
+Lebanon,1977,2554,LBN
+Viet Nam,1977,5400,VNM
+New Zealand,1977,8122,NZL
+United Kingdom,1977,21011,GBR
+Estonia,1978,5,EST
+Latvia,1978,5,LVA
+Cocos (Keeling) Is,1978,5,CCK
+French Polynesia,1978,5,PYF
+Guam,1978,5,GUM
+Kiribati,1978,5,KIR
+Nauru,1978,5,NRU
+Norfolk Island,1978,5,NFK
+Gibraltar,1978,5,GIB
+Iceland,1978,5,ISL
+Monaco,1978,5,MCO
+Oman,1978,5,OMN
+Qatar,1978,5,QAT
+Saudi Arabia,1978,5,SAU
+United Arab Emirates,1978,5,ARE
+Côte d'Ivoire,1978,5,CIV
+Cameroon,1978,5,CMR
+Chad,1978,5,TCD
+Djibouti,1978,5,DJI
+Ghana,1978,5,GHA
+Niger,1978,5,NGA
+Sierra Leone,1978,5,SLE
+Somalia,1978,5,SOM
+Zaire,1978,5,AGO
+Afghanistan,1978,5,AFG
+Maldives,1978,5,MDV
+Nepal,1978,5,NPL
+Bermuda,1978,5,BMU
+Bahamas,1978,5,BHS
+Belize,1978,5,BLZ
+Costa Rica,1978,5,CRI
+Cuba,1978,5,CUB
+Dominican Republic,1978,5,DOM
+Falkland Islands,1978,5,FLK
+French Guiana,1978,5,GUF
+Honduras,1978,5,HND
+Nicaragua,1978,5,NIC
+Puerto Rico,1978,5,PRI
+Suriname,1978,5,SUR
+Ukraine,1978,6,UKR
+Botswana,1978,6,BWA
+Barbados,1978,6,BRB
+Guyana,1978,6,GUY
+Martinique,1978,6,MTQ
+Bahrain,1978,7,BHR
+Angola,1978,7,AGO
+Senegal,1978,7,SEN
+Brunei,1978,7,BRN
+Lithuania,1978,8,LTU
+Algeria,1978,8,DZA
+Venezuela,1978,8,VEN
+Kuwait,1978,9,KWT
+Nigeria,1978,9,NGA
+Mexico,1978,9,MEX
+Libya,1978,10,LBY
+Ethiopia,1978,10,ETH
+Malawi,1978,10,MWI
+Panama,1978,10,PAN
+Jamaica,1978,11,JAM
+Paraguay,1978,11,PRY
+Tunisia,1978,14,TUN
+Madagascar,1978,16,MDG
+Cook Islands,1978,18,COK
+Bolivia,1978,19,BOL
+Sudan,1978,20,SDN
+Uganda,1978,20,UGA
+Trinidad and Tobago,1978,20,TTO
+Morocco,1978,21,MAR
+Mozambique,1978,21,MOZ
+Ecuador,1978,26,ECU
+Bangladesh,1978,29,BGD
+Vanuatu,1978,30,VUT
+New Caledonia,1978,31,NCL
+Norway,1978,33,NOR
+Albania,1978,34,ALB
+Bulgaria,1978,34,BGR
+Solomon Islands,1978,34,SLB
+Belgium,1978,43,BEL
+Tanzania,1978,47,TZA
+Jordan,1978,53,JOR
+Colombia,1978,58,COL
+Iraq,1978,61,IRQ
+Christmas Island,1978,68,CXR
+Pakistan,1978,70,PAK
+Zambia,1978,73,ZMB
+Seychelles,1978,75,SYC
+Peru,1978,88,PER
+Japan,1978,108,JPN
+Kenya,1978,111,KEN
+Sweden,1978,116,SWE
+Tonga,1978,116,TON
+Brazil,1978,118,BRA
+Iran,1978,124,IRN
+Syria,1978,132,SYR
+Spain,1978,135,ESP
+Hungary,1978,138,HUN
+Finland,1978,150,FIN
+Romania,1978,159,ROU
+Israel,1978,161,ISR
+Austria,1978,162,AUT
+Denmark,1978,169,DNK
+Myanmar,1978,177,MMR
+Cambodia,1978,200,KHM
+Thailand,1978,212,THA
+Mauritius,1978,235,MUS
+Switzerland,1978,247,CHE
+France,1978,268,FRA
+Egypt,1978,306,EGY
+Poland,1978,317,POL
+Cyprus,1978,335,CYP
+Sri Lanka,1978,383,LKA
+Fiji,1978,436,FJI
+Uruguay,1978,440,URY
+Portugal,1978,449,PRT
+Zimbabwe,1978,469,ZWE
+Korea,1978,491,PRK
+Malta,1978,508,MLT
+Singapore,1978,525,SGP
+Papua New Guinea,1978,527,PNG
+Ireland,1978,544,IRL
+Indonesia,1978,649,IDN
+Canada,1978,685,CAN
+Turkey,1978,743,TUR
+Argentina,1978,769,ARG
+Netherlands,1978,784,NLD
+Chile,1978,822,CHL
+Greece,1978,823,GRC
+India,1978,856,IND
+United States of America,1978,1098,USA
+Lebanon,1978,1134,LBN
+Hong Kong,1978,1180,HKG
+Philippines,1978,1256,PHL
+Italy,1978,1282,ITA
+Malaysia,1978,1683,MYS
+South Africa,1978,2509,ZAF
+New Zealand,1978,10776,NZL
+Viet Nam,1978,10828,VNM
+United Kingdom,1978,13256,GBR
+Cocos (Keeling) Is,1979,5,CCK
+Norfolk Island,1979,5,NFK
+Iceland,1979,5,ISL
+Oman,1979,5,OMN
+Qatar,1979,5,QAT
+Sudan,1979,5,SDN
+United Arab Emirates,1979,5,ARE
+Yemen,1979,5,YEM
+Botswana,1979,5,BWA
+Djibouti,1979,5,DJI
+Guinea,1979,5,GIN
+Liberia,1979,5,LBR
+Madagascar,1979,5,MDG
+Mozambique,1979,5,MOZ
+Reunion,1979,5,REU
+Senegal,1979,5,SEN
+Sierra Leone,1979,5,SLE
+Somalia,1979,5,SOM
+Zaire,1979,5,AGO
+Maldives,1979,5,MDV
+Bahamas,1979,5,BHS
+Costa Rica,1979,5,CRI
+Falkland Islands,1979,5,FLK
+Guatemala,1979,5,GTM
+Honduras,1979,5,HND
+Martinique,1979,5,MTQ
+Nicaragua,1979,5,NIC
+Panama,1979,5,PAN
+Puerto Rico,1979,5,PRI
+Suriname,1979,5,SUR
+Lithuania,1979,6,LTU
+French Polynesia,1979,6,PYF
+Nauru,1979,6,NRU
+Saudi Arabia,1979,6,SAU
+Angola,1979,6,AGO
+Ghana,1979,6,GHA
+Bermuda,1979,6,BMU
+Latvia,1979,7,LVA
+Tunisia,1979,7,TUN
+Niger,1979,7,NGA
+Guyana,1979,7,GUY
+Bahrain,1979,8,BHR
+Afghanistan,1979,8,AFG
+Nepal,1979,8,NPL
+Barbados,1979,8,BRB
+Paraguay,1979,8,PRY
+Luxembourg,1979,9,LUX
+Libya,1979,9,LBY
+Malawi,1979,9,MWI
+Gibraltar,1979,10,GIB
+Ukraine,1979,11,UKR
+Solomon Islands,1979,11,SLB
+Algeria,1979,11,DZA
+Kiribati,1979,12,KIR
+Jamaica,1979,12,JAM
+Kuwait,1979,13,KWT
+Bolivia,1979,13,BOL
+Brunei,1979,16,BRN
+Cuba,1979,16,CUB
+New Caledonia,1979,17,NCL
+Vanuatu,1979,18,VUT
+Ethiopia,1979,18,ETH
+Nigeria,1979,18,NGA
+Trinidad and Tobago,1979,18,TTO
+Uganda,1979,20,UGA
+Mexico,1979,20,MEX
+Albania,1979,22,ALB
+Venezuela,1979,24,VEN
+Ecuador,1979,25,ECU
+Morocco,1979,26,MAR
+Cook Islands,1979,37,COK
+Jordan,1979,37,JOR
+Christmas Island,1979,39,CXR
+Tanzania,1979,40,TZA
+Seychelles,1979,49,SYC
+Bangladesh,1979,54,BGD
+Belgium,1979,60,BEL
+Colombia,1979,62,COL
+Norway,1979,65,NOR
+Brazil,1979,70,BRA
+Tonga,1979,88,TON
+Syria,1979,90,SYR
+Zambia,1979,97,ZMB
+Bulgaria,1979,103,BGR
+Myanmar,1979,107,MMR
+Kenya,1979,114,KEN
+Pakistan,1979,115,PAK
+Japan,1979,119,JPN
+Peru,1979,133,PER
+Sweden,1979,139,SWE
+Finland,1979,153,FIN
+Thailand,1979,196,THA
+Mauritius,1979,203,MUS
+Israel,1979,204,ISR
+Austria,1979,210,AUT
+Egypt,1979,215,EGY
+Iraq,1979,215,IRQ
+Denmark,1979,237,DNK
+Portugal,1979,250,PRT
+Iran,1979,272,IRN
+Uruguay,1979,278,URY
+Spain,1979,301,ESP
+Sri Lanka,1979,301,LKA
+Cyprus,1979,305,CYP
+Zimbabwe,1979,383,ZWE
+Hungary,1979,397,HUN
+Korea,1979,397,PRK
+Fiji,1979,400,FJI
+France,1979,405,FRA
+Papua New Guinea,1979,430,PNG
+Switzerland,1979,435,CHE
+Chile,1979,480,CHL
+Singapore,1979,503,SGP
+Malta,1979,512,MLT
+Argentina,1979,531,ARG
+Romania,1979,572,ROU
+Cambodia,1979,583,KHM
+Ireland,1979,600,IRL
+Indonesia,1979,631,IDN
+Canada,1979,726,CAN
+Hong Kong,1979,799,HKG
+Turkey,1979,830,TUR
+India,1979,844,IND
+Greece,1979,861,GRC
+Lebanon,1979,967,LBN
+Italy,1979,1044,ITA
+Netherlands,1979,1197,NLD
+United States of America,1979,1332,USA
+Poland,1979,1337,POL
+Malaysia,1979,1585,MYS
+Philippines,1979,2013,PHL
+South Africa,1979,2765,ZAF
+Viet Nam,1979,12915,VNM
+New Zealand,1979,13181,NZL
+United Kingdom,1979,16738,GBR
+Ukraine,1980,5,UKR
+Cocos (Keeling) Is,1980,5,CCK
+Luxembourg,1980,5,LUX
+Monaco,1980,5,MCO
+Oman,1980,5,OMN
+Qatar,1980,5,QAT
+Yemen,1980,5,YEM
+Angola,1980,5,AGO
+Botswana,1980,5,BWA
+Côte d'Ivoire,1980,5,CIV
+Congo,1980,5,COG
+Ethiopia,1980,5,ETH
+Gambia,1980,5,GMB
+Liberia,1980,5,LBR
+Madagascar,1980,5,MDG
+Mali,1980,5,MLI
+Niger,1980,5,NGA
+Reunion,1980,5,REU
+Senegal,1980,5,SEN
+Sierra Leone,1980,5,SLE
+Somalia,1980,5,SOM
+Zaire,1980,5,AGO
+Maldives,1980,5,MDV
+Nepal,1980,5,NPL
+Bahamas,1980,5,BHS
+El Salvador,1980,5,SLV
+Falkland Islands,1980,5,FLK
+Haiti,1980,5,HTI
+Honduras,1980,5,HND
+Nicaragua,1980,5,NIC
+Panama,1980,5,PAN
+Paraguay,1980,5,PRY
+Puerto Rico,1980,5,PRI
+Suriname,1980,5,SUR
+Estonia,1980,6,EST
+Mozambique,1980,6,MOZ
+Saudi Arabia,1980,7,SAU
+Malawi,1980,7,MWI
+Guatemala,1980,7,GTM
+Lithuania,1980,8,LTU
+French Polynesia,1980,8,PYF
+Kiribati,1980,8,KIR
+Norfolk Island,1980,8,NFK
+Costa Rica,1980,8,CRI
+Bahrain,1980,9,BHR
+Bolivia,1980,9,BOL
+Gibraltar,1980,10,GIB
+Bermuda,1980,10,BMU
+Barbados,1980,10,BRB
+United Arab Emirates,1980,11,ARE
+Nauru,1980,12,NRU
+Kuwait,1980,12,KWT
+Latvia,1980,14,LVA
+Iceland,1980,15,ISL
+Solomon Islands,1980,16,SLB
+Sudan,1980,16,SDN
+Brunei,1980,16,BRN
+Guyana,1980,16,GUY
+Tunisia,1980,18,TUN
+Venezuela,1980,19,VEN
+Christmas Island,1980,21,CXR
+Nigeria,1980,21,NGA
+Mexico,1980,21,MEX
+Albania,1980,22,ALB
+Algeria,1980,22,DZA
+Uganda,1980,22,UGA
+Jordan,1980,23,JOR
+Vanuatu,1980,25,VUT
+Ecuador,1980,25,ECU
+Trinidad and Tobago,1980,26,TTO
+Morocco,1980,27,MAR
+Jamaica,1980,28,JAM
+Bangladesh,1980,29,BGD
+Ghana,1980,30,GHA
+New Caledonia,1980,34,NCL
+Afghanistan,1980,35,AFG
+Seychelles,1980,36,SYC
+Tanzania,1980,36,TZA
+Libya,1980,41,LBY
+Cuba,1980,45,CUB
+Colombia,1980,52,COL
+Cook Islands,1980,73,COK
+Bulgaria,1980,75,BGR
+Brazil,1980,76,BRA
+Norway,1980,78,NOR
+Syria,1980,92,SYR
+Myanmar,1980,100,MMR
+Tonga,1980,110,TON
+Zambia,1980,113,ZMB
+Peru,1980,115,PER
+Belgium,1980,138,BEL
+Kenya,1980,149,KEN
+Uruguay,1980,200,URY
+Korea,1980,204,PRK
+Thailand,1980,209,THA
+Finland,1980,215,FIN
+Pakistan,1980,223,PAK
+Israel,1980,233,ISR
+Mauritius,1980,252,MUS
+Egypt,1980,255,EGY
+Sweden,1980,262,SWE
+Japan,1980,274,JPN
+Austria,1980,276,AUT
+Argentina,1980,311,ARG
+Sri Lanka,1980,333,LKA
+Iraq,1980,355,IRQ
+Iran,1980,360,IRN
+Cyprus,1980,400,CYP
+Papua New Guinea,1980,438,PNG
+Chile,1980,441,CHL
+France,1980,556,FRA
+Singapore,1980,561,SGP
+Switzerland,1980,563,CHE
+Fiji,1980,565,FJI
+Denmark,1980,588,DNK
+Portugal,1980,616,PRT
+Hungary,1980,683,HUN
+Spain,1980,708,ESP
+Romania,1980,731,ROU
+Zimbabwe,1980,732,ZWE
+Lebanon,1980,741,LBN
+Hong Kong,1980,775,HKG
+Canada,1980,815,CAN
+Ireland,1980,979,IRL
+Greece,1980,1005,GRC
+Turkey,1980,1005,TUR
+India,1980,1009,IND
+Malta,1980,1337,MLT
+Indonesia,1980,1358,IDN
+United States of America,1980,1695,USA
+Italy,1980,1696,ITA
+Malaysia,1980,1865,MYS
+Cambodia,1980,1938,KHM
+Netherlands,1980,2037,NLD
+Philippines,1980,2792,PHL
+Poland,1980,2914,POL
+South Africa,1980,3254,ZAF
+Viet Nam,1980,12172,VNM
+New Zealand,1980,17387,NZL
+United Kingdom,1980,31465,GBR
+Albania,1981,5,ALB
+Estonia,1981,5,EST
+Cocos (Keeling) Is,1981,5,CCK
+Palau,1981,5,PLW
+Greenland,1981,5,GRL
+Liechtenstein,1981,5,LIE
+Luxembourg,1981,5,LUX
+Monaco,1981,5,MCO
+Oman,1981,5,OMN
+Qatar,1981,5,QAT
+Côte d'Ivoire,1981,5,CIV
+Congo,1981,5,COG
+Djibouti,1981,5,DJI
+Guinea,1981,5,GIN
+Lesotho,1981,5,LSO
+Liberia,1981,5,LBR
+Madagascar,1981,5,MDG
+Niger,1981,5,NGA
+Reunion,1981,5,REU
+Senegal,1981,5,SEN
+Sierra Leone,1981,5,SLE
+Somalia,1981,5,SOM
+Mongolia,1981,5,MNG
+Maldives,1981,5,MDV
+Nepal,1981,5,NPL
+Barbados,1981,5,BRB
+Belize,1981,5,BLZ
+Cuba,1981,5,CUB
+Dominican Republic,1981,5,DOM
+El Salvador,1981,5,SLV
+Guadeloupe,1981,5,FRA
+Guatemala,1981,5,GTM
+Panama,1981,5,PAN
+Puerto Rico,1981,5,PRI
+Suriname,1981,5,SUR
+Ukraine,1981,6,UKR
+Nicaragua,1981,6,NIC
+Nauru,1981,7,NRU
+Angola,1981,7,AGO
+Bahamas,1981,7,BHS
+Falkland Islands,1981,7,FLK
+Honduras,1981,7,HND
+Martinique,1981,7,MTQ
+French Polynesia,1981,8,PYF
+Zaire,1981,8,AGO
+Yemen,1981,9,YEM
+Solomon Islands,1981,10,SLB
+Gibraltar,1981,10,GIB
+Botswana,1981,10,BWA
+Costa Rica,1981,10,CRI
+Norfolk Island,1981,11,NFK
+Bermuda,1981,11,BMU
+Latvia,1981,12,LVA
+Lithuania,1981,12,LTU
+Kuwait,1981,12,KWT
+Ethiopia,1981,12,ETH
+Kiribati,1981,13,KIR
+Paraguay,1981,13,PRY
+Tunisia,1981,14,TUN
+United Arab Emirates,1981,14,ARE
+Bolivia,1981,15,BOL
+Christmas Island,1981,16,CXR
+Bahrain,1981,16,BHR
+Libya,1981,17,LBY
+Venezuela,1981,17,VEN
+Saudi Arabia,1981,18,SAU
+Nigeria,1981,18,NGA
+Iceland,1981,19,ISL
+Mozambique,1981,19,MOZ
+Sudan,1981,21,SDN
+Jamaica,1981,21,JAM
+Algeria,1981,22,DZA
+Malawi,1981,26,MWI
+Vanuatu,1981,28,VUT
+Mexico,1981,29,MEX
+Trinidad and Tobago,1981,29,TTO
+Ecuador,1981,30,ECU
+Guyana,1981,32,GUY
+Jordan,1981,33,JOR
+Ghana,1981,33,GHA
+Uganda,1981,33,UGA
+Brunei,1981,35,BRN
+Bangladesh,1981,35,BGD
+New Caledonia,1981,42,NCL
+Morocco,1981,42,MAR
+Tanzania,1981,48,TZA
+Cook Islands,1981,54,COK
+Seychelles,1981,54,SYC
+Brazil,1981,54,BRA
+Bulgaria,1981,55,BGR
+Norway,1981,67,NOR
+Afghanistan,1981,67,AFG
+Colombia,1981,84,COL
+Myanmar,1981,105,MMR
+Peru,1981,121,PER
+Syria,1981,136,SYR
+Finland,1981,147,FIN
+Kenya,1981,160,KEN
+Zambia,1981,163,ZMB
+Belgium,1981,171,BEL
+Uruguay,1981,175,URY
+Japan,1981,197,JPN
+Tonga,1981,209,TON
+Pakistan,1981,215,PAK
+Israel,1981,222,ISR
+Mauritius,1981,230,MUS
+Egypt,1981,248,EGY
+Sweden,1981,250,SWE
+Chile,1981,280,CHL
+Thailand,1981,299,THA
+Austria,1981,343,AUT
+Iran,1981,388,IRN
+Argentina,1981,446,ARG
+Iraq,1981,454,IRQ
+Cyprus,1981,464,CYP
+Romania,1981,500,ROU
+Hungary,1981,526,HUN
+Sri Lanka,1981,538,LKA
+Papua New Guinea,1981,551,PNG
+France,1981,594,FRA
+Korea,1981,717,PRK
+Switzerland,1981,735,CHE
+Singapore,1981,759,SGP
+Denmark,1981,771,DNK
+Fiji,1981,821,FJI
+Turkey,1981,831,TUR
+Zimbabwe,1981,872,ZWE
+Lebanon,1981,894,LBN
+Canada,1981,967,CAN
+Portugal,1981,988,PRT
+Malta,1981,991,MLT
+Spain,1981,1112,ESP
+Greece,1981,1140,GRC
+Hong Kong,1981,1295,HKG
+Italy,1981,1381,ITA
+Ireland,1981,1384,IRL
+India,1981,1475,IND
+Indonesia,1981,1520,IDN
+United States of America,1981,1900,USA
+Cambodia,1981,2154,KHM
+Malaysia,1981,2393,MYS
+Netherlands,1981,2408,NLD
+Philippines,1981,3251,PHL
+South Africa,1981,3332,ZAF
+Poland,1981,5732,POL
+Viet Nam,1981,11088,VNM
+New Zealand,1981,11637,NZL
+United Kingdom,1981,36994,GBR
+Albania,1982,5,ALB
+Estonia,1982,5,EST
+Latvia,1982,5,LVA
+Lithuania,1982,5,LTU
+Ukraine,1982,5,UKR
+Cocos (Keeling) Is,1982,5,CCK
+French Polynesia,1982,5,PYF
+Nauru,1982,5,NRU
+Palau,1982,5,PLW
+Mauritania,1982,5,MRT
+Oman,1982,5,OMN
+Yemen,1982,5,YEM
+Burundi,1982,5,BDI
+Côte d'Ivoire,1982,5,CIV
+Cameroon,1982,5,CMR
+Congo,1982,5,COG
+Equatorial Guinea,1982,5,GNQ
+Liberia,1982,5,LBR
+Madagascar,1982,5,MDG
+Niger,1982,5,NGA
+Sierra Leone,1982,5,SLE
+Somalia,1982,5,SOM
+Nepal,1982,5,NPL
+Belize,1982,5,BLZ
+Dominican Republic,1982,5,DOM
+Falkland Islands,1982,5,FLK
+Guatemala,1982,5,GTM
+Haiti,1982,5,HTI
+Nicaragua,1982,5,NIC
+Puerto Rico,1982,5,PRI
+Norfolk Island,1982,6,NFK
+Luxembourg,1982,7,LUX
+Lesotho,1982,7,LSO
+Honduras,1982,7,HND
+Zaire,1982,8,AGO
+Bahamas,1982,8,BHS
+Gibraltar,1982,9,GIB
+Botswana,1982,9,BWA
+Bermuda,1982,9,BMU
+Paraguay,1982,9,PRY
+United Arab Emirates,1982,10,ARE
+El Salvador,1982,10,SLV
+Guyana,1982,10,GUY
+Panama,1982,10,PAN
+Christmas Island,1982,11,CXR
+Bahrain,1982,11,BHR
+Tunisia,1982,11,TUN
+Barbados,1982,11,BRB
+Iceland,1982,12,ISL
+Saudi Arabia,1982,12,SAU
+Costa Rica,1982,12,CRI
+Jamaica,1982,12,JAM
+Kiribati,1982,13,KIR
+Mozambique,1982,13,MOZ
+Bolivia,1982,13,BOL
+Ethiopia,1982,14,ETH
+Ghana,1982,14,GHA
+Nigeria,1982,15,NGA
+Ecuador,1982,15,ECU
+Vanuatu,1982,17,VUT
+Libya,1982,17,LBY
+Solomon Islands,1982,19,SLB
+Malawi,1982,20,MWI
+Algeria,1982,21,DZA
+Cuba,1982,21,CUB
+Sudan,1982,22,SDN
+Kuwait,1982,23,KWT
+Trinidad and Tobago,1982,24,TTO
+Venezuela,1982,24,VEN
+Angola,1982,27,AGO
+Uganda,1982,29,UGA
+Bulgaria,1982,31,BGR
+Jordan,1982,31,JOR
+Tanzania,1982,35,TZA
+Morocco,1982,36,MAR
+Cook Islands,1982,37,COK
+Bangladesh,1982,41,BGD
+Brunei,1982,42,BRN
+Mexico,1982,42,MEX
+Seychelles,1982,55,SYC
+Colombia,1982,57,COL
+New Caledonia,1982,63,NCL
+Norway,1982,65,NOR
+Zambia,1982,90,ZMB
+Iraq,1982,94,IRQ
+Syria,1982,95,SYR
+Afghanistan,1982,97,AFG
+Peru,1982,103,PER
+Brazil,1982,113,BRA
+Myanmar,1982,126,MMR
+Israel,1982,128,ISR
+Finland,1982,131,FIN
+Uruguay,1982,135,URY
+Tonga,1982,139,TON
+Kenya,1982,158,KEN
+Pakistan,1982,164,PAK
+Belgium,1982,165,BEL
+Japan,1982,225,JPN
+Thailand,1982,236,THA
+Sweden,1982,261,SWE
+Egypt,1982,263,EGY
+Cyprus,1982,277,CYP
+Mauritius,1982,284,MUS
+Austria,1982,363,AUT
+Malta,1982,390,MLT
+Papua New Guinea,1982,395,PNG
+Hungary,1982,435,HUN
+Iran,1982,463,IRN
+Turkey,1982,490,TUR
+Chile,1982,493,CHL
+Greece,1982,503,GRC
+Argentina,1982,535,ARG
+Italy,1982,572,ITA
+France,1982,573,FRA
+Sri Lanka,1982,580,LKA
+Korea,1982,588,PRK
+Fiji,1982,589,FJI
+Spain,1982,613,ESP
+Singapore,1982,623,SGP
+Romania,1982,628,ROU
+Denmark,1982,640,DNK
+Lebanon,1982,675,LBN
+Switzerland,1982,744,CHE
+Zimbabwe,1982,762,ZWE
+Indonesia,1982,869,IDN
+Canada,1982,955,CAN
+Ireland,1982,1142,IRL
+Portugal,1982,1285,PRT
+Hong Kong,1982,1369,HKG
+Netherlands,1982,1564,NLD
+India,1982,1673,IND
+United States of America,1982,1803,USA
+Malaysia,1982,1937,MYS
+Philippines,1982,2735,PHL
+South Africa,1982,2758,ZAF
+Cambodia,1982,4070,KHM
+Poland,1982,4095,POL
+New Zealand,1982,6867,NZL
+Viet Nam,1982,8690,VNM
+United Kingdom,1982,26444,GBR
+Albania,1983,5,ALB
+Estonia,1983,5,EST
+Ukraine,1983,5,UKR
+Cocos (Keeling) Is,1983,5,CCK
+Nauru,1983,5,NRU
+Palau,1983,5,PLW
+Gibraltar,1983,5,GIB
+Monaco,1983,5,MCO
+Oman,1983,5,OMN
+Qatar,1983,5,QAT
+Yemen,1983,5,YEM
+Botswana,1983,5,BWA
+Burundi,1983,5,BDI
+Cameroon,1983,5,CMR
+Equatorial Guinea,1983,5,GNQ
+Liberia,1983,5,LBR
+Mali,1983,5,MLI
+Niger,1983,5,NGA
+Senegal,1983,5,SEN
+Sierra Leone,1983,5,SLE
+Somalia,1983,5,SOM
+Zaire,1983,5,AGO
+Maldives,1983,5,MDV
+Nepal,1983,5,NPL
+Bermuda,1983,5,BMU
+Barbados,1983,5,BRB
+Belize,1983,5,BLZ
+Dominican Republic,1983,5,DOM
+Falkland Islands,1983,5,FLK
+French Guiana,1983,5,GUF
+Honduras,1983,5,HND
+Paraguay,1983,5,PRY
+Puerto Rico,1983,5,PRI
+Suriname,1983,5,SUR
+Kiribati,1983,6,KIR
+Panama,1983,6,PAN
+Tunisia,1983,7,TUN
+Haiti,1983,7,HTI
+Luxembourg,1983,8,LUX
+Nigeria,1983,8,NGA
+Latvia,1983,9,LVA
+Christmas Island,1983,9,CXR
+Norfolk Island,1983,11,NFK
+Vanuatu,1983,11,VUT
+French Polynesia,1983,12,PYF
+Iceland,1983,12,ISL
+Angola,1983,13,AGO
+Ghana,1983,14,GHA
+Malawi,1983,14,MWI
+Bahamas,1983,14,BHS
+Costa Rica,1983,14,CRI
+Guyana,1983,14,GUY
+Jamaica,1983,14,JAM
+Cuba,1983,15,CUB
+Lithuania,1983,17,LTU
+Algeria,1983,17,DZA
+Libya,1983,17,LBY
+Mozambique,1983,18,MOZ
+Cook Islands,1983,19,COK
+Madagascar,1983,19,MDG
+Bahrain,1983,20,BHR
+United Arab Emirates,1983,20,ARE
+Uganda,1983,21,UGA
+Kuwait,1983,23,KWT
+Saudi Arabia,1983,23,SAU
+Guatemala,1983,23,GTM
+Trinidad and Tobago,1983,24,TTO
+Bolivia,1983,25,BOL
+Solomon Islands,1983,26,SLB
+Venezuela,1983,26,VEN
+Ecuador,1983,29,ECU
+Sudan,1983,31,SDN
+Morocco,1983,32,MAR
+Bangladesh,1983,34,BGD
+Colombia,1983,38,COL
+Bulgaria,1983,40,BGR
+Brunei,1983,42,BRN
+Mexico,1983,42,MEX
+New Caledonia,1983,45,NCL
+Norway,1983,46,NOR
+Nicaragua,1983,52,NIC
+Jordan,1983,64,JOR
+Seychelles,1983,64,SYC
+Finland,1983,66,FIN
+Peru,1983,67,PER
+Tanzania,1983,69,TZA
+Zambia,1983,74,ZMB
+Brazil,1983,83,BRA
+Ethiopia,1983,96,ETH
+Belgium,1983,100,BEL
+Afghanistan,1983,101,AFG
+Sweden,1983,127,SWE
+Myanmar,1983,128,MMR
+Tonga,1983,133,TON
+Pakistan,1983,142,PAK
+Israel,1983,145,ISR
+Austria,1983,148,AUT
+Denmark,1983,167,DNK
+Syria,1983,175,SYR
+Spain,1983,186,ESP
+Kenya,1983,187,KEN
+Argentina,1983,201,ARG
+Japan,1983,204,JPN
+Uruguay,1983,263,URY
+Cyprus,1983,273,CYP
+Thailand,1983,276,THA
+Switzerland,1983,277,CHE
+Iraq,1983,304,IRQ
+Hungary,1983,305,HUN
+Malta,1983,318,MLT
+Papua New Guinea,1983,322,PNG
+Egypt,1983,350,EGY
+Zimbabwe,1983,397,ZWE
+France,1983,411,FRA
+El Salvador,1983,426,SLV
+Mauritius,1983,434,MUS
+Portugal,1983,482,PRT
+Italy,1983,501,ITA
+Fiji,1983,543,FJI
+Korea,1983,557,PRK
+Netherlands,1983,570,NLD
+Singapore,1983,573,SGP
+Iran,1983,575,IRN
+Greece,1983,630,GRC
+Chile,1983,682,CHL
+Ireland,1983,683,IRL
+Romania,1983,695,ROU
+Turkey,1983,729,TUR
+Canada,1983,784,CAN
+Indonesia,1983,979,IDN
+Lebanon,1983,1384,LBN
+Sri Lanka,1983,1451,LKA
+United States of America,1983,1483,USA
+Poland,1983,1517,POL
+India,1983,1586,IND
+South Africa,1983,1637,ZAF
+Malaysia,1983,1652,MYS
+Cambodia,1983,1659,KHM
+Hong Kong,1983,2017,HKG
+Philippines,1983,2874,PHL
+New Zealand,1983,5771,NZL
+Viet Nam,1983,9513,VNM
+United Kingdom,1983,12954,GBR
+Albania,1984,5,ALB
+Estonia,1984,5,EST
+Ukraine,1984,5,UKR
+Cocos (Keeling) Is,1984,5,CCK
+Kiribati,1984,5,KIR
+Norfolk Island,1984,5,NFK
+Luxembourg,1984,5,LUX
+Monaco,1984,5,MCO
+Mauritania,1984,5,MRT
+Oman,1984,5,OMN
+Tunisia,1984,5,TUN
+Western Sahara,1984,5,ESH
+Yemen,1984,5,YEM
+Botswana,1984,5,BWA
+Burundi,1984,5,BDI
+Congo,1984,5,COG
+Gabon,1984,5,GAB
+Liberia,1984,5,LBR
+Niger,1984,5,NGA
+Reunion,1984,5,REU
+Sierra Leone,1984,5,SLE
+Zaire,1984,5,AGO
+Maldives,1984,5,MDV
+Bermuda,1984,5,BMU
+Dominican Republic,1984,5,DOM
+Falkland Islands,1984,5,FLK
+Martinique,1984,5,MTQ
+Panama,1984,5,PAN
+Puerto Rico,1984,5,PRI
+Suriname,1984,5,SUR
+French Polynesia,1984,6,PYF
+Latvia,1984,7,LVA
+Senegal,1984,7,SEN
+Paraguay,1984,7,PRY
+Honduras,1984,8,HND
+Lithuania,1984,9,LTU
+Nauru,1984,9,NRU
+Gibraltar,1984,9,GIB
+Somalia,1984,9,SOM
+Nepal,1984,9,NPL
+Madagascar,1984,11,MDG
+Malawi,1984,11,MWI
+Trinidad and Tobago,1984,11,TTO
+Christmas Island,1984,12,CXR
+Solomon Islands,1984,12,SLB
+Libya,1984,12,LBY
+Iceland,1984,13,ISL
+Saudi Arabia,1984,13,SAU
+United Arab Emirates,1984,14,ARE
+Guyana,1984,14,GUY
+Barbados,1984,15,BRB
+Algeria,1984,17,DZA
+Ghana,1984,17,GHA
+Nigeria,1984,17,NGA
+Mongolia,1984,17,MNG
+Costa Rica,1984,17,CRI
+Vanuatu,1984,18,VUT
+Bahamas,1984,18,BHS
+Bolivia,1984,18,BOL
+Ecuador,1984,18,ECU
+Venezuela,1984,18,VEN
+Mozambique,1984,20,MOZ
+Haiti,1984,21,HTI
+New Caledonia,1984,23,NCL
+Jamaica,1984,24,JAM
+Morocco,1984,25,MAR
+Bulgaria,1984,28,BGR
+Cuba,1984,30,CUB
+Norway,1984,31,NOR
+Bahrain,1984,31,BHR
+Angola,1984,31,AGO
+Guatemala,1984,31,GTM
+Uganda,1984,34,UGA
+Kuwait,1984,37,KWT
+Brunei,1984,41,BRN
+Seychelles,1984,42,SYC
+Cook Islands,1984,44,COK
+Mexico,1984,44,MEX
+Sudan,1984,48,SDN
+Tanzania,1984,48,TZA
+Colombia,1984,51,COL
+Finland,1984,52,FIN
+Bangladesh,1984,55,BGD
+Zambia,1984,66,ZMB
+Jordan,1984,71,JOR
+Peru,1984,80,PER
+Belgium,1984,82,BEL
+Ethiopia,1984,99,ETH
+Tonga,1984,127,TON
+Austria,1984,130,AUT
+Kenya,1984,130,KEN
+Brazil,1984,137,BRA
+Nicaragua,1984,142,NIC
+Denmark,1984,146,DNK
+Sweden,1984,152,SWE
+Iraq,1984,154,IRQ
+Myanmar,1984,161,MMR
+Syria,1984,166,SYR
+Japan,1984,188,JPN
+Pakistan,1984,200,PAK
+Israel,1984,206,ISR
+Argentina,1984,215,ARG
+Switzerland,1984,217,CHE
+Papua New Guinea,1984,219,PNG
+Hungary,1984,221,HUN
+Uruguay,1984,233,URY
+Spain,1984,234,ESP
+Afghanistan,1984,236,AFG
+Cyprus,1984,256,CYP
+Malta,1984,304,MLT
+France,1984,327,FRA
+Zimbabwe,1984,344,ZWE
+Egypt,1984,392,EGY
+Romania,1984,410,ROU
+Mauritius,1984,427,MUS
+Thailand,1984,494,THA
+Netherlands,1984,497,NLD
+Italy,1984,553,ITA
+Korea,1984,660,PRK
+Fiji,1984,670,FJI
+Greece,1984,682,GRC
+Ireland,1984,699,IRL
+Turkey,1984,739,TUR
+Singapore,1984,759,SGP
+El Salvador,1984,772,SLV
+Canada,1984,826,CAN
+Iran,1984,901,IRN
+Portugal,1984,932,PRT
+Cambodia,1984,1172,KHM
+Poland,1984,1263,POL
+Indonesia,1984,1304,IDN
+South Africa,1984,1435,ZAF
+United States of America,1984,1536,USA
+Chile,1984,1695,CHL
+India,1984,1948,IND
+Sri Lanka,1984,2315,LKA
+Lebanon,1984,2382,LBN
+Malaysia,1984,2413,MYS
+Philippines,1984,3162,PHL
+Hong Kong,1984,3289,HKG
+Viet Nam,1984,8487,VNM
+New Zealand,1984,9077,NZL
+United Kingdom,1984,11606,GBR
+Lithuania,1985,5,LTU
+Christmas Island,1985,5,CXR
+Cocos (Keeling) Is,1985,5,CCK
+French Polynesia,1985,5,PYF
+Guam,1985,5,GUM
+Norfolk Island,1985,5,NFK
+Palau,1985,5,PLW
+Gibraltar,1985,5,GIB
+Monaco,1985,5,MCO
+Mauritania,1985,5,MRT
+Oman,1985,5,OMN
+Yemen,1985,5,YEM
+Burkina Faso,1985,5,BFA
+Côte d'Ivoire,1985,5,CIV
+Equatorial Guinea,1985,5,GNQ
+Gabon,1985,5,GAB
+Guinea-Bissau,1985,5,GNB
+Lesotho,1985,5,LSO
+Liberia,1985,5,LBR
+Rwanda,1985,5,RWA
+Senegal,1985,5,SEN
+Sierra Leone,1985,5,SLE
+Mongolia,1985,5,MNG
+Falkland Islands,1985,5,FLK
+Honduras,1985,5,HND
+Martinique,1985,5,MTQ
+Panama,1985,5,PAN
+Suriname,1985,5,SUR
+Albania,1985,6,ALB
+Barbados,1985,6,BRB
+Haiti,1985,6,HTI
+Luxembourg,1985,7,LUX
+Tunisia,1985,7,TUN
+Somalia,1985,7,SOM
+Botswana,1985,8,BWA
+Bermuda,1985,8,BMU
+Zaire,1985,9,AGO
+Cuba,1985,9,CUB
+Kiribati,1985,10,KIR
+Madagascar,1985,10,MDG
+Qatar,1985,11,QAT
+Guyana,1985,11,GUY
+Latvia,1985,12,LVA
+Nepal,1985,13,NPL
+Niger,1985,14,NGA
+Paraguay,1985,15,PRY
+Iceland,1985,16,ISL
+Algeria,1985,16,DZA
+Guatemala,1985,19,GTM
+Libya,1985,20,LBY
+Angola,1985,21,AGO
+Bolivia,1985,21,BOL
+Jamaica,1985,22,JAM
+Malawi,1985,23,MWI
+Nigeria,1985,24,NGA
+Saudi Arabia,1985,26,SAU
+Vanuatu,1985,27,VUT
+Bahrain,1985,27,BHR
+Costa Rica,1985,27,CRI
+Venezuela,1985,27,VEN
+Ghana,1985,29,GHA
+Morocco,1985,30,MAR
+Norway,1985,31,NOR
+Mozambique,1985,32,MOZ
+Bulgaria,1985,34,BGR
+United Arab Emirates,1985,35,ARE
+Ecuador,1985,35,ECU
+Solomon Islands,1985,38,SLB
+Trinidad and Tobago,1985,39,TTO
+Kuwait,1985,41,KWT
+Uganda,1985,42,UGA
+Ethiopia,1985,48,ETH
+Tanzania,1985,52,TZA
+Seychelles,1985,53,SYC
+Mexico,1985,56,MEX
+New Caledonia,1985,59,NCL
+Brunei,1985,62,BRN
+Bangladesh,1985,71,BGD
+Sudan,1985,74,SDN
+Finland,1985,75,FIN
+Zambia,1985,75,ZMB
+Cook Islands,1985,76,COK
+Colombia,1985,81,COL
+Nicaragua,1985,92,NIC
+Iraq,1985,98,IRQ
+Belgium,1985,115,BEL
+Peru,1985,134,PER
+Myanmar,1985,148,MMR
+Jordan,1985,152,JOR
+Tonga,1985,160,TON
+Brazil,1985,167,BRA
+Austria,1985,176,AUT
+Kenya,1985,176,KEN
+Bahamas,1985,184,BHS
+Sweden,1985,194,SWE
+Denmark,1985,204,DNK
+Japan,1985,250,JPN
+Syria,1985,254,SYR
+Uruguay,1985,283,URY
+Switzerland,1985,286,CHE
+Pakistan,1985,287,PAK
+Argentina,1985,295,ARG
+Papua New Guinea,1985,300,PNG
+Israel,1985,312,ISR
+Hungary,1985,331,HUN
+Afghanistan,1985,332,AFG
+Cyprus,1985,353,CYP
+France,1985,394,FRA
+Zimbabwe,1985,401,ZWE
+Spain,1985,419,ESP
+El Salvador,1985,481,SLV
+Malta,1985,546,MLT
+Netherlands,1985,613,NLD
+Romania,1985,616,ROU
+Egypt,1985,657,EGY
+Italy,1985,679,ITA
+Mauritius,1985,713,MUS
+Thailand,1985,776,THA
+Cambodia,1985,866,KHM
+Singapore,1985,870,SGP
+Greece,1985,875,GRC
+Canada,1985,930,CAN
+Iran,1985,985,IRN
+Turkey,1985,994,TUR
+Portugal,1985,1001,PRT
+Indonesia,1985,1083,IDN
+Fiji,1985,1104,FJI
+Korea,1985,1212,PRK
+Poland,1985,1337,POL
+Ireland,1985,1450,IRL
+Sri Lanka,1985,1648,LKA
+United States of America,1985,1715,USA
+Chile,1985,2037,CHL
+India,1985,2135,IND
+Malaysia,1985,2284,MYS
+Lebanon,1985,2757,LBN
+Hong Kong,1985,3118,HKG
+South Africa,1985,3132,ZAF
+Philippines,1985,4128,PHL
+Viet Nam,1985,7168,VNM
+New Zealand,1985,13284,NZL
+United Kingdom,1985,14709,GBR
+Estonia,1986,5,EST
+Latvia,1986,5,LVA
+Cocos (Keeling) Is,1986,5,CCK
+Nauru,1986,5,NRU
+Norfolk Island,1986,5,NFK
+Palau,1986,5,PLW
+Liechtenstein,1986,5,LIE
+Luxembourg,1986,5,LUX
+Mauritania,1986,5,MRT
+Western Sahara,1986,5,ESH
+Burundi,1986,5,BDI
+Côte d'Ivoire,1986,5,CIV
+Congo,1986,5,COG
+Djibouti,1986,5,DJI
+Gambia,1986,5,GMB
+Liberia,1986,5,LBR
+Reunion,1986,5,REU
+Senegal,1986,5,SEN
+Maldives,1986,5,MDV
+Bermuda,1986,5,BMU
+Belize,1986,5,BLZ
+Cuba,1986,5,CUB
+Guatemala,1986,5,GTM
+Haiti,1986,5,HTI
+Honduras,1986,5,HND
+Martinique,1986,5,MTQ
+Panama,1986,5,PAN
+Suriname,1986,5,SUR
+Albania,1986,6,ALB
+Tunisia,1986,6,TUN
+Ukraine,1986,7,UKR
+Cameroon,1986,7,CMR
+Lesotho,1986,7,LSO
+Niger,1986,7,NGA
+Paraguay,1986,8,PRY
+Christmas Island,1986,9,CXR
+Barbados,1986,9,BRB
+Gibraltar,1986,10,GIB
+Oman,1986,10,OMN
+Yemen,1986,11,YEM
+Nepal,1986,11,NPL
+Vanuatu,1986,12,VUT
+Sierra Leone,1986,12,SLE
+Lithuania,1986,14,LTU
+Botswana,1986,14,BWA
+Kiribati,1986,15,KIR
+Bahamas,1986,15,BHS
+French Polynesia,1986,17,PYF
+Iceland,1986,17,ISL
+Algeria,1986,17,DZA
+Qatar,1986,17,QAT
+Somalia,1986,17,SOM
+Solomon Islands,1986,18,SLB
+Madagascar,1986,19,MDG
+Costa Rica,1986,19,CRI
+Bolivia,1986,20,BOL
+Guyana,1986,24,GUY
+Jamaica,1986,24,JAM
+Libya,1986,25,LBY
+Zaire,1986,25,AGO
+Ecuador,1986,26,ECU
+Morocco,1986,27,MAR
+Angola,1986,27,AGO
+Ghana,1986,28,GHA
+Venezuela,1986,30,VEN
+United Arab Emirates,1986,31,ARE
+Malawi,1986,31,MWI
+Mozambique,1986,31,MOZ
+Nigeria,1986,31,NGA
+Bahrain,1986,37,BHR
+Uganda,1986,38,UGA
+Trinidad and Tobago,1986,38,TTO
+Saudi Arabia,1986,43,SAU
+Mexico,1986,56,MEX
+Norway,1986,57,NOR
+Sudan,1986,61,SDN
+Bulgaria,1986,62,BGR
+Tanzania,1986,64,TZA
+Bangladesh,1986,66,BGD
+New Caledonia,1986,68,NCL
+Kuwait,1986,77,KWT
+Finland,1986,89,FIN
+Belgium,1986,96,BEL
+Seychelles,1986,98,SYC
+Cook Islands,1986,99,COK
+Colombia,1986,109,COL
+Tonga,1986,126,TON
+Zambia,1986,126,ZMB
+Iraq,1986,127,IRQ
+Brunei,1986,127,BRN
+Brazil,1986,139,BRA
+Ethiopia,1986,144,ETH
+Kenya,1986,153,KEN
+Nicaragua,1986,162,NIC
+Uruguay,1986,185,URY
+Myanmar,1986,236,MMR
+Jordan,1986,239,JOR
+Austria,1986,243,AUT
+Papua New Guinea,1986,245,PNG
+Spain,1986,261,ESP
+Sweden,1986,272,SWE
+Peru,1986,306,PER
+Syria,1986,314,SYR
+Switzerland,1986,320,CHE
+Pakistan,1986,325,PAK
+Denmark,1986,337,DNK
+Israel,1986,377,ISR
+Japan,1986,393,JPN
+France,1986,398,FRA
+Argentina,1986,398,ARG
+Zimbabwe,1986,471,ZWE
+Cyprus,1986,473,CYP
+Malta,1986,484,MLT
+Hungary,1986,492,HUN
+Afghanistan,1986,518,AFG
+Netherlands,1986,564,NLD
+Italy,1986,591,ITA
+El Salvador,1986,645,SLV
+Romania,1986,739,ROU
+Thailand,1986,864,THA
+Egypt,1986,941,EGY
+Greece,1986,949,GRC
+Canada,1986,1036,CAN
+Iran,1986,1114,IRN
+Turkey,1986,1153,TUR
+Portugal,1986,1166,PRT
+Cambodia,1986,1374,KHM
+Indonesia,1986,1385,IDN
+Mauritius,1986,1454,MUS
+Singapore,1986,1530,SGP
+Korea,1986,1550,PRK
+Fiji,1986,1584,FJI
+Poland,1986,1618,POL
+United States of America,1986,1823,USA
+Chile,1986,2018,CHL
+Ireland,1986,2346,IRL
+India,1986,2540,IND
+Sri Lanka,1986,2795,LKA
+Lebanon,1986,2871,LBN
+Hong Kong,1986,3403,HKG
+Malaysia,1986,3946,MYS
+South Africa,1986,4671,ZAF
+Philippines,1986,6409,PHL
+Viet Nam,1986,6645,VNM
+New Zealand,1986,13584,NZL
+United Kingdom,1986,20235,GBR
+Albania,1987,5,ALB
+Ukraine,1987,5,UKR
+Christmas Island,1987,5,CXR
+Cocos (Keeling) Is,1987,5,CCK
+Guam,1987,5,GUM
+Norfolk Island,1987,5,NFK
+Liechtenstein,1987,5,LIE
+Monaco,1987,5,MCO
+Yemen,1987,5,YEM
+Benin,1987,5,BEN
+Côte d'Ivoire,1987,5,CIV
+Cameroon,1987,5,CMR
+Congo,1987,5,COG
+Equatorial Guinea,1987,5,GNQ
+Gabon,1987,5,GAB
+Gambia,1987,5,GMB
+Guinea,1987,5,GIN
+Lesotho,1987,5,LSO
+Reunion,1987,5,REU
+Senegal,1987,5,SEN
+Mongolia,1987,5,MNG
+Belize,1987,5,BLZ
+Cuba,1987,5,CUB
+Dominican Republic,1987,5,DOM
+Falkland Islands,1987,5,FLK
+Haiti,1987,5,HTI
+Martinique,1987,5,MTQ
+Paraguay,1987,5,PRY
+Puerto Rico,1987,5,PRI
+Virgin Islands,1987,5,USA
+Nauru,1987,6,NRU
+Palau,1987,6,PLW
+Gibraltar,1987,6,GIB
+Oman,1987,6,OMN
+Panama,1987,6,PAN
+Kiribati,1987,7,KIR
+Mauritania,1987,7,MRT
+Zaire,1987,7,AGO
+Liberia,1987,8,LBR
+Niger,1987,8,NGA
+Sierra Leone,1987,8,SLE
+Barbados,1987,8,BRB
+Estonia,1987,9,EST
+Botswana,1987,9,BWA
+Mali,1987,9,MLI
+Iceland,1987,10,ISL
+Bermuda,1987,10,BMU
+Bahamas,1987,10,BHS
+Luxembourg,1987,11,LUX
+Qatar,1987,11,QAT
+Lithuania,1987,12,LTU
+Latvia,1987,14,LVA
+Honduras,1987,14,HND
+Jamaica,1987,17,JAM
+Tunisia,1987,18,TUN
+Somalia,1987,18,SOM
+Malawi,1987,20,MWI
+Costa Rica,1987,21,CRI
+French Polynesia,1987,22,PYF
+Vanuatu,1987,23,VUT
+Nigeria,1987,24,NGA
+Nepal,1987,25,NPL
+Guyana,1987,25,GUY
+Ecuador,1987,27,ECU
+Guatemala,1987,27,GTM
+Algeria,1987,28,DZA
+Libya,1987,29,LBY
+Bolivia,1987,29,BOL
+Uganda,1987,32,UGA
+Venezuela,1987,33,VEN
+Solomon Islands,1987,34,SLB
+Ghana,1987,39,GHA
+Bahrain,1987,44,BHR
+Morocco,1987,45,MAR
+Bulgaria,1987,47,BGR
+Angola,1987,49,AGO
+Saudi Arabia,1987,51,SAU
+Mozambique,1987,55,MOZ
+Nicaragua,1987,58,NIC
+Trinidad and Tobago,1987,58,TTO
+New Caledonia,1987,60,NCL
+Norway,1987,65,NOR
+Mexico,1987,71,MEX
+Tanzania,1987,74,TZA
+Sudan,1987,77,SDN
+United Arab Emirates,1987,79,ARE
+Colombia,1987,85,COL
+Finland,1987,96,FIN
+Belgium,1987,104,BEL
+Zambia,1987,114,ZMB
+Bangladesh,1987,116,BGD
+Ethiopia,1987,119,ETH
+Kuwait,1987,122,KWT
+Madagascar,1987,123,MDG
+Cook Islands,1987,126,COK
+Iraq,1987,129,IRQ
+Seychelles,1987,184,SYC
+Uruguay,1987,194,URY
+Brazil,1987,201,BRA
+Jordan,1987,214,JOR
+Kenya,1987,220,KEN
+Spain,1987,245,ESP
+Papua New Guinea,1987,272,PNG
+Austria,1987,279,AUT
+Afghanistan,1987,281,AFG
+Peru,1987,294,PER
+Tonga,1987,295,TON
+Myanmar,1987,298,MMR
+Brunei,1987,343,BRN
+Sweden,1987,364,SWE
+Pakistan,1987,367,PAK
+Israel,1987,371,ISR
+Argentina,1987,393,ARG
+Malta,1987,432,MLT
+France,1987,463,FRA
+Switzerland,1987,467,CHE
+Syria,1987,513,SYR
+Zimbabwe,1987,523,ZWE
+Italy,1987,528,ITA
+Cyprus,1987,528,CYP
+Denmark,1987,538,DNK
+Netherlands,1987,567,NLD
+Hungary,1987,666,HUN
+Japan,1987,722,JPN
+Greece,1987,885,GRC
+Thailand,1987,930,THA
+Romania,1987,973,ROU
+Canada,1987,1044,CAN
+El Salvador,1987,1049,SLV
+Cambodia,1987,1224,KHM
+Indonesia,1987,1243,IDN
+Egypt,1987,1315,EGY
+Iran,1987,1355,IRN
+Portugal,1987,1377,PRT
+Turkey,1987,1382,TUR
+Korea,1987,1810,PRK
+Poland,1987,1927,POL
+Chile,1987,1965,CHL
+United States of America,1987,2031,USA
+Singapore,1987,2070,SGP
+Mauritius,1987,2143,MUS
+Ireland,1987,2658,IRL
+Sri Lanka,1987,2886,LKA
+Fiji,1987,2980,FJI
+India,1987,3041,IND
+South Africa,1987,3791,ZAF
+Lebanon,1987,4249,LBN
+Hong Kong,1987,5571,HKG
+Viet Nam,1987,5962,VNM
+Malaysia,1987,6239,MYS
+Philippines,1987,10429,PHL
+New Zealand,1987,20907,NZL
+United Kingdom,1987,24587,GBR
+Estonia,1988,5,EST
+Ukraine,1988,5,UKR
+Christmas Island,1988,5,CXR
+Cocos (Keeling) Is,1988,5,CCK
+Palau,1988,5,PLW
+Gibraltar,1988,5,GIB
+Greenland,1988,5,GRL
+Liechtenstein,1988,5,LIE
+Luxembourg,1988,5,LUX
+Monaco,1988,5,MCO
+Botswana,1988,5,BWA
+Burundi,1988,5,BDI
+Côte d'Ivoire,1988,5,CIV
+Congo,1988,5,COG
+Djibouti,1988,5,DJI
+Gambia,1988,5,GMB
+Guinea,1988,5,GIN
+Lesotho,1988,5,LSO
+Liberia,1988,5,LBR
+Madagascar,1988,5,MDG
+Rwanda,1988,5,RWA
+Senegal,1988,5,SEN
+Sierra Leone,1988,5,SLE
+Togo,1988,5,TGO
+Bhutan,1988,5,BTN
+Maldives,1988,5,MDV
+Bahamas,1988,5,BHS
+Dominican Republic,1988,5,DOM
+French Guiana,1988,5,GUF
+Guadeloupe,1988,5,FRA
+Haiti,1988,5,HTI
+Martinique,1988,5,MTQ
+Panama,1988,5,PAN
+Suriname,1988,5,SUR
+Latvia,1988,6,LVA
+Nauru,1988,6,NRU
+Zaire,1988,6,AGO
+Kiribati,1988,7,KIR
+Iceland,1988,7,ISL
+Yemen,1988,7,YEM
+Honduras,1988,7,HND
+Qatar,1988,8,QAT
+Costa Rica,1988,8,CRI
+Cuba,1988,9,CUB
+Tunisia,1988,10,TUN
+Niger,1988,10,NGA
+Oman,1988,11,OMN
+Lithuania,1988,12,LTU
+French Polynesia,1988,13,PYF
+Barbados,1988,13,BRB
+Guatemala,1988,13,GTM
+Guyana,1988,13,GUY
+Bermuda,1988,14,BMU
+Angola,1988,18,AGO
+Mozambique,1988,18,MOZ
+Libya,1988,20,LBY
+Bolivia,1988,20,BOL
+Jamaica,1988,20,JAM
+Malawi,1988,21,MWI
+Somalia,1988,21,SOM
+Vanuatu,1988,22,VUT
+Nigeria,1988,24,NGA
+Paraguay,1988,25,PRY
+Solomon Islands,1988,31,SLB
+Uganda,1988,31,UGA
+Algeria,1988,32,DZA
+Nepal,1988,35,NPL
+Morocco,1988,36,MAR
+Venezuela,1988,36,VEN
+Ghana,1988,38,GHA
+Bahrain,1988,44,BHR
+Ecuador,1988,44,ECU
+Bulgaria,1988,45,BGR
+Trinidad and Tobago,1988,45,TTO
+Mexico,1988,53,MEX
+New Caledonia,1988,62,NCL
+Tanzania,1988,66,TZA
+Saudi Arabia,1988,75,SAU
+Norway,1988,83,NOR
+Nicaragua,1988,90,NIC
+Ethiopia,1988,98,ETH
+Belgium,1988,104,BEL
+Cook Islands,1988,107,COK
+Finland,1988,108,FIN
+Zambia,1988,108,ZMB
+Sudan,1988,112,SDN
+Kuwait,1988,113,KWT
+Seychelles,1988,115,SYC
+United Arab Emirates,1988,116,ARE
+Colombia,1988,137,COL
+Iraq,1988,143,IRQ
+Uruguay,1988,149,URY
+Spain,1988,158,ESP
+Brazil,1988,163,BRA
+Jordan,1988,181,JOR
+Tonga,1988,187,TON
+Kenya,1988,204,KEN
+Bangladesh,1988,219,BGD
+Myanmar,1988,220,MMR
+Austria,1988,224,AUT
+Papua New Guinea,1988,235,PNG
+Peru,1988,246,PER
+Israel,1988,264,ISR
+Malta,1988,265,MLT
+Argentina,1988,313,ARG
+Brunei,1988,333,BRN
+Afghanistan,1988,338,AFG
+Sweden,1988,374,SWE
+Pakistan,1988,385,PAK
+Italy,1988,421,ITA
+Syria,1988,427,SYR
+Zimbabwe,1988,444,ZWE
+Cyprus,1988,447,CYP
+France,1988,448,FRA
+Mauritius,1988,497,MUS
+Denmark,1988,498,DNK
+Switzerland,1988,514,CHE
+Hungary,1988,548,HUN
+Netherlands,1988,561,NLD
+Greece,1988,597,GRC
+Japan,1988,806,JPN
+Romania,1988,902,ROU
+Canada,1988,993,CAN
+Thailand,1988,1017,THA
+Portugal,1988,1042,PRT
+Iran,1988,1148,IRN
+Turkey,1988,1227,TUR
+Egypt,1988,1285,EGY
+Chile,1988,1358,CHL
+Indonesia,1988,1422,IDN
+Cambodia,1988,1480,KHM
+El Salvador,1988,1539,SLV
+Poland,1988,1601,POL
+Korea,1988,1666,PRK
+Singapore,1988,1946,SGP
+United States of America,1988,2061,USA
+Fiji,1988,2690,FJI
+Lebanon,1988,2785,LBN
+Sri Lanka,1988,2937,LKA
+South Africa,1988,3024,ZAF
+India,1988,3109,IND
+Ireland,1988,4045,IRL
+Hong Kong,1988,7307,HKG
+Malaysia,1988,7681,MYS
+Viet Nam,1988,7971,VNM
+Philippines,1988,9204,PHL
+New Zealand,1988,23539,NZL
+United Kingdom,1988,23933,GBR
+Albania,1989,5,ALB
+Latvia,1989,5,LVA
+Lithuania,1989,5,LTU
+Ukraine,1989,5,UKR
+Guam,1989,5,GUM
+Nauru,1989,5,NRU
+Norfolk Island,1989,5,NFK
+Palau,1989,5,PLW
+Andorra,1989,5,AND
+Gibraltar,1989,5,GIB
+Monaco,1989,5,MCO
+Mauritania,1989,5,MRT
+Qatar,1989,5,QAT
+Tunisia,1989,5,TUN
+Cameroon,1989,5,CMR
+Central African Republic,1989,5,CAF
+Congo,1989,5,COG
+Djibouti,1989,5,DJI
+Guinea,1989,5,GIN
+Guinea-Bissau,1989,5,GNB
+Reunion,1989,5,REU
+Senegal,1989,5,SEN
+Maldives,1989,5,MDV
+Bahamas,1989,5,BHS
+Cuba,1989,5,CUB
+Dominican Republic,1989,5,DOM
+Falkland Islands,1989,5,FLK
+French Guiana,1989,5,GUF
+Haiti,1989,5,HTI
+Martinique,1989,5,MTQ
+Panama,1989,5,PAN
+Suriname,1989,5,SUR
+Estonia,1989,6,EST
+Yemen,1989,6,YEM
+Sierra Leone,1989,6,SLE
+Costa Rica,1989,6,CRI
+Luxembourg,1989,7,LUX
+Madagascar,1989,7,MDG
+Niger,1989,7,NGA
+Zaire,1989,7,AGO
+Bermuda,1989,8,BMU
+Barbados,1989,8,BRB
+Kiribati,1989,9,KIR
+Oman,1989,10,OMN
+Angola,1989,10,AGO
+French Polynesia,1989,11,PYF
+Botswana,1989,11,BWA
+Paraguay,1989,11,PRY
+Libya,1989,12,LBY
+Guyana,1989,15,GUY
+Honduras,1989,16,HND
+Vanuatu,1989,17,VUT
+Mozambique,1989,17,MOZ
+Somalia,1989,17,SOM
+Algeria,1989,20,DZA
+Jamaica,1989,21,JAM
+Iceland,1989,22,ISL
+Guatemala,1989,22,GTM
+Ghana,1989,23,GHA
+Bolivia,1989,25,BOL
+Bahrain,1989,26,BHR
+Malawi,1989,26,MWI
+Solomon Islands,1989,28,SLB
+Morocco,1989,28,MAR
+Seychelles,1989,28,SYC
+Nepal,1989,32,NPL
+Venezuela,1989,32,VEN
+Ecuador,1989,33,ECU
+Trinidad and Tobago,1989,34,TTO
+Saudi Arabia,1989,40,SAU
+Mexico,1989,40,MEX
+Nigeria,1989,41,NGA
+Uganda,1989,42,UGA
+New Caledonia,1989,49,NCL
+Tanzania,1989,51,TZA
+Bulgaria,1989,61,BGR
+Sudan,1989,64,SDN
+Nicaragua,1989,73,NIC
+Kuwait,1989,76,KWT
+Spain,1989,87,ESP
+Norway,1989,88,NOR
+Belgium,1989,94,BEL
+United Arab Emirates,1989,96,ARE
+Cook Islands,1989,97,COK
+Uruguay,1989,97,URY
+Brunei,1989,109,BRN
+Zambia,1989,117,ZMB
+Finland,1989,120,FIN
+Iraq,1989,123,IRQ
+Tonga,1989,130,TON
+Jordan,1989,133,JOR
+Myanmar,1989,141,MMR
+Colombia,1989,142,COL
+Brazil,1989,149,BRA
+Ethiopia,1989,154,ETH
+Malta,1989,156,MLT
+Bangladesh,1989,167,BGD
+Austria,1989,189,AUT
+Hungary,1989,195,HUN
+Kenya,1989,201,KEN
+Mauritius,1989,204,MUS
+Afghanistan,1989,239,AFG
+Peru,1989,240,PER
+Cyprus,1989,253,CYP
+Israel,1989,255,ISR
+Papua New Guinea,1989,267,PNG
+Syria,1989,286,SYR
+Italy,1989,306,ITA
+Cambodia,1989,309,KHM
+Pakistan,1989,311,PAK
+Denmark,1989,312,DNK
+France,1989,325,FRA
+Sweden,1989,365,SWE
+Greece,1989,417,GRC
+Switzerland,1989,425,CHE
+Netherlands,1989,428,NLD
+Argentina,1989,480,ARG
+Zimbabwe,1989,625,ZWE
+Japan,1989,634,JPN
+Egypt,1989,667,EGY
+Chile,1989,735,CHL
+Iran,1989,796,IRN
+Turkey,1989,882,TUR
+Thailand,1989,889,THA
+Portugal,1989,957,PRT
+Romania,1989,1115,ROU
+Canada,1989,1118,CAN
+Indonesia,1989,1252,IDN
+Korea,1989,1378,PRK
+Singapore,1989,1567,SGP
+Poland,1989,1672,POL
+United States of America,1989,1889,USA
+El Salvador,1989,1922,SLV
+Ireland,1989,2070,IRL
+Lebanon,1989,2225,LBN
+Sri Lanka,1989,2245,LKA
+South Africa,1989,2424,ZAF
+Fiji,1989,2632,FJI
+India,1989,3016,IND
+Philippines,1989,6080,PHL
+Malaysia,1989,6417,MYS
+Hong Kong,1989,8054,HKG
+Viet Nam,1989,11156,VNM
+New Zealand,1989,11178,NZL
+United Kingdom,1989,23521,GBR
+Albania,1990,5,ALB
+Estonia,1990,5,EST
+Latvia,1990,5,LVA
+Lithuania,1990,5,LTU
+Christmas Island,1990,5,CXR
+Federated States of Micronesia,1990,5,FSM
+Guam,1990,5,GUM
+Niue,1990,5,NIU
+Norfolk Island,1990,5,NFK
+Tokelau,1990,5,TKL
+Andorra,1990,5,AND
+Gibraltar,1990,5,GIB
+Luxembourg,1990,5,LUX
+Mauritania,1990,5,MRT
+Oman,1990,5,OMN
+Burundi,1990,5,BDI
+Côte d'Ivoire,1990,5,CIV
+Gabon,1990,5,GAB
+Guinea-Bissau,1990,5,GNB
+Lesotho,1990,5,LSO
+Madagascar,1990,5,MDG
+Namibia,1990,5,NAM
+Reunion,1990,5,REU
+Rwanda,1990,5,RWA
+Sao Tome and Principe,1990,5,STP
+Sierra Leone,1990,5,SLE
+Togo,1990,5,TGO
+Zaire,1990,5,AGO
+Maldives,1990,5,MDV
+Bahamas,1990,5,BHS
+Barbados,1990,5,BRB
+Belize,1990,5,BLZ
+Cuba,1990,5,CUB
+Dominica,1990,5,DMA
+Dominican Republic,1990,5,DOM
+French Guiana,1990,5,GUF
+Guadeloupe,1990,5,FRA
+Haiti,1990,5,HTI
+Martinique,1990,5,MTQ
+Panama,1990,5,PAN
+Puerto Rico,1990,5,PRI
+Suriname,1990,5,SUR
+Kiribati,1990,6,KIR
+Djibouti,1990,6,DJI
+Yemen,1990,7,YEM
+Botswana,1990,7,BWA
+Senegal,1990,7,SEN
+Nauru,1990,8,NRU
+Costa Rica,1990,8,CRI
+Tunisia,1990,9,TUN
+Paraguay,1990,9,PRY
+Bolivia,1990,10,BOL
+Bermuda,1990,11,BMU
+Jamaica,1990,11,JAM
+Solomon Islands,1990,12,SLB
+Malawi,1990,12,MWI
+Guatemala,1990,12,GTM
+Niger,1990,13,NGA
+New Caledonia,1990,15,NCL
+Qatar,1990,16,QAT
+Angola,1990,17,AGO
+Mozambique,1990,17,MOZ
+Libya,1990,19,LBY
+Guyana,1990,19,GUY
+Vanuatu,1990,20,VUT
+Iceland,1990,20,ISL
+French Polynesia,1990,26,PYF
+Algeria,1990,27,DZA
+Bahrain,1990,27,BHR
+Honduras,1990,27,HND
+Seychelles,1990,32,SYC
+Trinidad and Tobago,1990,32,TTO
+Mexico,1990,34,MEX
+Nigeria,1990,38,NGA
+Cook Islands,1990,40,COK
+Morocco,1990,41,MAR
+Ecuador,1990,42,ECU
+Venezuela,1990,46,VEN
+Uganda,1990,48,UGA
+Sudan,1990,52,SDN
+Tanzania,1990,52,TZA
+Nepal,1990,54,NPL
+Bulgaria,1990,57,BGR
+Saudi Arabia,1990,60,SAU
+Ghana,1990,60,GHA
+Nicaragua,1990,62,NIC
+United Arab Emirates,1990,63,ARE
+Kuwait,1990,66,KWT
+Belgium,1990,67,BEL
+Somalia,1990,76,SOM
+Spain,1990,78,ESP
+Brunei,1990,88,BRN
+Colombia,1990,95,COL
+Norway,1990,101,NOR
+Malta,1990,102,MLT
+Zambia,1990,106,ZMB
+Tonga,1990,114,TON
+Myanmar,1990,116,MMR
+Uruguay,1990,116,URY
+Finland,1990,121,FIN
+Brazil,1990,137,BRA
+Cyprus,1990,145,CYP
+Austria,1990,164,AUT
+Papua New Guinea,1990,190,PNG
+Iraq,1990,191,IRQ
+Cambodia,1990,193,KHM
+Hungary,1990,216,HUN
+Kenya,1990,217,KEN
+Jordan,1990,221,JOR
+Israel,1990,246,ISR
+Mauritius,1990,259,MUS
+Peru,1990,295,PER
+Pakistan,1990,300,PAK
+Denmark,1990,304,DNK
+Netherlands,1990,308,NLD
+Afghanistan,1990,324,AFG
+Syria,1990,341,SYR
+France,1990,342,FRA
+Greece,1990,351,GRC
+Italy,1990,353,ITA
+Bangladesh,1990,358,BGD
+Sweden,1990,387,SWE
+Switzerland,1990,409,CHE
+Zimbabwe,1990,473,ZWE
+Argentina,1990,520,ARG
+Japan,1990,574,JPN
+Romania,1990,637,ROU
+Chile,1990,704,CHL
+Egypt,1990,802,EGY
+Portugal,1990,867,PRT
+Canada,1990,910,CAN
+Thailand,1990,945,THA
+Iran,1990,977,IRN
+Korea,1990,982,PRK
+Indonesia,1990,1071,IDN
+Turkey,1990,1090,TUR
+Ireland,1990,1115,IRL
+Singapore,1990,1275,SGP
+El Salvador,1990,1538,SLV
+Poland,1990,1597,POL
+United States of America,1990,1890,USA
+South Africa,1990,2084,ZAF
+Fiji,1990,2440,FJI
+Lebanon,1990,2891,LBN
+Sri Lanka,1990,3271,LKA
+India,1990,5081,IND
+Malaysia,1990,5744,MYS
+Philippines,1990,6388,PHL
+New Zealand,1990,7467,NZL
+Viet Nam,1990,13248,VNM
+Hong Kong,1990,13541,HKG
+United Kingdom,1990,20746,GBR
+Estonia,1991,5,EST
+Latvia,1991,5,LVA
+Lithuania,1991,5,LTU
+Tokelau,1991,5,TKL
+Wallis and Futuna,1991,5,WLF
+Andorra,1991,5,AND
+Gibraltar,1991,5,GIB
+Luxembourg,1991,5,LUX
+Russian Federation,1991,5,RUS
+Yemen,1991,5,YEM
+Botswana,1991,5,BWA
+Djibouti,1991,5,DJI
+Lesotho,1991,5,LSO
+Liberia,1991,5,LBR
+Madagascar,1991,5,MDG
+Mali,1991,5,MLI
+Namibia,1991,5,NAM
+Reunion,1991,5,REU
+Rwanda,1991,5,RWA
+Senegal,1991,5,SEN
+Antigua and Barbuda,1991,5,ATG
+Barbados,1991,5,BRB
+Dominica,1991,5,DMA
+Dominican Republic,1991,5,DOM
+Falkland Islands,1991,5,FLK
+French Guiana,1991,5,GUF
+Martinique,1991,5,MTQ
+Panama,1991,5,PAN
+Puerto Rico,1991,5,PRI
+Suriname,1991,5,SUR
+Nauru,1991,6,NRU
+Sierra Leone,1991,6,SLE
+Bermuda,1991,6,BMU
+Belize,1991,6,BLZ
+Paraguay,1991,6,PRY
+Kiribati,1991,7,KIR
+Vanuatu,1991,7,VUT
+Niger,1991,7,NGA
+Costa Rica,1991,7,CRI
+Tunisia,1991,8,TUN
+Cuba,1991,8,CUB
+Guyana,1991,8,GUY
+Libya,1991,9,LBY
+Niue,1991,10,NIU
+Oman,1991,10,OMN
+Zaire,1991,10,AGO
+Angola,1991,11,AGO
+Trinidad and Tobago,1991,12,TTO
+Ukraine,1991,13,UKR
+Solomon Islands,1991,14,SLB
+Qatar,1991,14,QAT
+Honduras,1991,15,HND
+French Polynesia,1991,16,PYF
+Bahrain,1991,17,BHR
+Malawi,1991,18,MWI
+Mozambique,1991,18,MOZ
+Jamaica,1991,18,JAM
+Iceland,1991,20,ISL
+Guatemala,1991,20,GTM
+Bolivia,1991,21,BOL
+Belgium,1991,28,BEL
+New Caledonia,1991,28,NCL
+Seychelles,1991,29,SYC
+Nicaragua,1991,29,NIC
+Algeria,1991,30,DZA
+Morocco,1991,30,MAR
+Ecuador,1991,34,ECU
+Venezuela,1991,38,VEN
+Mexico,1991,41,MEX
+Norway,1991,42,NOR
+Zambia,1991,50,ZMB
+Cook Islands,1991,51,COK
+Uganda,1991,53,UGA
+Tanzania,1991,54,TZA
+Nepal,1991,54,NPL
+Nigeria,1991,59,NGA
+Spain,1991,68,ESP
+Cyprus,1991,79,CYP
+Finland,1991,80,FIN
+United Arab Emirates,1991,81,ARE
+Saudi Arabia,1991,82,SAU
+Colombia,1991,88,COL
+Sudan,1991,92,SDN
+Ghana,1991,96,GHA
+Brunei,1991,98,BRN
+Albania,1991,101,ALB
+Tonga,1991,106,TON
+Somalia,1991,107,SOM
+Malta,1991,118,MLT
+Uruguay,1991,131,URY
+Papua New Guinea,1991,132,PNG
+Austria,1991,135,AUT
+Brazil,1991,147,BRA
+Myanmar,1991,162,MMR
+Kenya,1991,184,KEN
+Sweden,1991,194,SWE
+Hungary,1991,203,HUN
+Denmark,1991,211,DNK
+Bulgaria,1991,213,BGR
+Kuwait,1991,221,KWT
+Israel,1991,228,ISR
+Greece,1991,233,GRC
+Zimbabwe,1991,253,ZWE
+Netherlands,1991,257,NLD
+France,1991,266,FRA
+Italy,1991,285,ITA
+Mauritius,1991,291,MUS
+Switzerland,1991,302,CHE
+Syria,1991,315,SYR
+Cambodia,1991,322,KHM
+Jordan,1991,356,JOR
+Peru,1991,365,PER
+Portugal,1991,424,PRT
+Argentina,1991,514,ARG
+Japan,1991,536,JPN
+Chile,1991,536,CHL
+Pakistan,1991,601,PAK
+Bangladesh,1991,605,BGD
+Romania,1991,615,ROU
+Iran,1991,668,IRN
+Ireland,1991,722,IRL
+Thailand,1991,863,THA
+Singapore,1991,867,SGP
+Canada,1991,877,CAN
+Turkey,1991,888,TUR
+Egypt,1991,938,EGY
+Afghanistan,1991,949,AFG
+Indonesia,1991,1145,IDN
+Korea,1991,1224,PRK
+El Salvador,1991,1239,SLV
+South Africa,1991,1274,ZAF
+Iraq,1991,1407,IRQ
+Lebanon,1991,1617,LBN
+United States of America,1991,1687,USA
+Poland,1991,1852,POL
+Fiji,1991,2145,FJI
+Sri Lanka,1991,2777,LKA
+Malaysia,1991,3123,MYS
+India,1991,5608,IND
+Philippines,1991,5917,PHL
+New Zealand,1991,7242,NZL
+Viet Nam,1991,9592,VNM
+Hong Kong,1991,12913,HKG
+United Kingdom,1991,14465,GBR
+Estonia,1992,5,EST
+Norfolk Island,1992,5,NFK
+Gibraltar,1992,5,GIB
+Liechtenstein,1992,5,LIE
+Monaco,1992,5,MCO
+Georgia,1992,5,GEO
+Kyrgyzstan,1992,5,KGZ
+Tajikistan,1992,5,TJK
+Mauritania,1992,5,MRT
+Oman,1992,5,OMN
+Yemen,1992,5,YEM
+Botswana,1992,5,BWA
+Côte d'Ivoire,1992,5,CIV
+Cameroon,1992,5,CMR
+Congo,1992,5,COG
+Madagascar,1992,5,MDG
+Namibia,1992,5,NAM
+Niger,1992,5,NGA
+Reunion,1992,5,REU
+Rwanda,1992,5,RWA
+Sao Tome and Principe,1992,5,STP
+Senegal,1992,5,SEN
+Sierra Leone,1992,5,SLE
+Togo,1992,5,TGO
+Bermuda,1992,5,BMU
+Bahamas,1992,5,BHS
+Barbados,1992,5,BRB
+Belize,1992,5,BLZ
+Cuba,1992,5,CUB
+Dominican Republic,1992,5,DOM
+Grenada,1992,5,GRD
+Guyana,1992,5,GUY
+Haiti,1992,5,HTI
+Nicaragua,1992,5,NIC
+Suriname,1992,5,SUR
+Kiribati,1992,6,KIR
+Nauru,1992,6,NRU
+Tunisia,1992,6,TUN
+New Caledonia,1992,7,NCL
+Libya,1992,7,LBY
+Qatar,1992,7,QAT
+French Guiana,1992,7,GUF
+Vanuatu,1992,8,VUT
+Seychelles,1992,8,SYC
+Jamaica,1992,8,JAM
+French Polynesia,1992,9,PYF
+Niue,1992,9,NIU
+Guatemala,1992,9,GTM
+Malawi,1992,10,MWI
+Latvia,1992,11,LVA
+Solomon Islands,1992,11,SLB
+Iceland,1992,12,ISL
+Azerbaijan,1992,12,AZE
+Angola,1992,12,AGO
+Zaire,1992,13,AGO
+Costa Rica,1992,13,CRI
+Tokelau,1992,14,TKL
+Bahrain,1992,14,BHR
+Mozambique,1992,14,MOZ
+Algeria,1992,16,DZA
+Bolivia,1992,16,BOL
+Djibouti,1992,17,DJI
+Lithuania,1992,18,LTU
+Trinidad and Tobago,1992,18,TTO
+Tanzania,1992,19,TZA
+Venezuela,1992,20,VEN
+Morocco,1992,22,MAR
+Kazakhstan,1992,24,KAZ
+Honduras,1992,25,HND
+Mexico,1992,26,MEX
+United Arab Emirates,1992,27,ARE
+Belgium,1992,32,BEL
+Cook Islands,1992,33,COK
+Ecuador,1992,33,ECU
+Norway,1992,34,NOR
+Spain,1992,44,ESP
+Armenia,1992,45,ARM
+Uzbekistan,1992,47,UZB
+Nepal,1992,47,NPL
+Belarus,1992,49,BLR
+Brunei,1992,51,BRN
+Albania,1992,52,ALB
+Zambia,1992,53,ZMB
+Uganda,1992,56,UGA
+Moldova,1992,59,MDA
+Nigeria,1992,59,NGA
+Malta,1992,60,MLT
+Finland,1992,61,FIN
+Saudi Arabia,1992,70,SAU
+Ghana,1992,71,GHA
+Uruguay,1992,79,URY
+Cyprus,1992,80,CYP
+Austria,1992,93,AUT
+Mauritius,1992,109,MUS
+Sudan,1992,112,SDN
+Myanmar,1992,116,MMR
+Colombia,1992,118,COL
+Hungary,1992,134,HUN
+Kenya,1992,136,KEN
+Papua New Guinea,1992,141,PNG
+Brazil,1992,144,BRA
+Denmark,1992,150,DNK
+Tonga,1992,161,TON
+Sweden,1992,164,SWE
+Zimbabwe,1992,168,ZWE
+Argentina,1992,174,ARG
+Israel,1992,185,ISR
+France,1992,186,FRA
+Portugal,1992,198,PRT
+Netherlands,1992,213,NLD
+Switzerland,1992,214,CHE
+Syria,1992,217,SYR
+Somalia,1992,220,SOM
+Peru,1992,232,PER
+Russian Federation,1992,233,RUS
+Bulgaria,1992,239,BGR
+Greece,1992,240,GRC
+Chile,1992,245,CHL
+Jordan,1992,264,JOR
+Italy,1992,283,ITA
+Kuwait,1992,285,KWT
+Iran,1992,310,IRN
+Cambodia,1992,343,KHM
+Bangladesh,1992,344,BGD
+Pakistan,1992,346,PAK
+Romania,1992,372,ROU
+El Salvador,1992,373,SLV
+Japan,1992,435,JPN
+Singapore,1992,472,SGP
+Ukraine,1992,489,UKR
+Ireland,1992,561,IRL
+Turkey,1992,625,TUR
+Egypt,1992,654,EGY
+Thailand,1992,686,THA
+Canada,1992,696,CAN
+Afghanistan,1992,764,AFG
+Korea,1992,929,PRK
+Poland,1992,959,POL
+South Africa,1992,1021,ZAF
+Lebanon,1992,1042,LBN
+Indonesia,1992,1184,IDN
+United States of America,1992,1322,USA
+Iraq,1992,1539,IRQ
+Malaysia,1992,1555,MYS
+Sri Lanka,1992,1578,LKA
+Fiji,1992,1593,FJI
+India,1992,3553,IND
+Philippines,1992,3731,PHL
+Viet Nam,1992,5651,VNM
+Hong Kong,1992,6520,HKG
+New Zealand,1992,6694,NZL
+United Kingdom,1992,9484,GBR
+Estonia,1993,5,EST
+French Polynesia,1993,5,PYF
+Kiribati,1993,5,KIR
+Norfolk Island,1993,5,NFK
+Tokelau,1993,5,TKL
+Tuvalu,1993,5,TUV
+Czech Republic,1993,5,CZE
+Gibraltar,1993,5,GIB
+Luxembourg,1993,5,LUX
+Monaco,1993,5,MCO
+Slovak Republic,1993,5,SVK
+Tajikistan,1993,5,TJK
+Turkmenistan,1993,5,TKM
+Western Sahara,1993,5,ESH
+Yemen,1993,5,YEM
+Angola,1993,5,AGO
+Burundi,1993,5,BDI
+Côte d'Ivoire,1993,5,CIV
+Cameroon,1993,5,CMR
+Djibouti,1993,5,DJI
+Lesotho,1993,5,LSO
+Malawi,1993,5,MWI
+Mali,1993,5,MLI
+Reunion,1993,5,REU
+Rwanda,1993,5,RWA
+Sierra Leone,1993,5,SLE
+Zaire,1993,5,AGO
+Bhutan,1993,5,BTN
+Bermuda,1993,5,BMU
+Antigua and Barbuda,1993,5,ATG
+Costa Rica,1993,5,CRI
+Dominican Republic,1993,5,DOM
+Falkland Islands,1993,5,FLK
+Grenada,1993,5,GRD
+Guatemala,1993,5,GTM
+Guyana,1993,5,GUY
+Haiti,1993,5,HTI
+Honduras,1993,5,HND
+Paraguay,1993,5,PRY
+Puerto Rico,1993,5,PRI
+Virgin Islands,1993,5,USA
+Mozambique,1993,6,MOZ
+Trinidad and Tobago,1993,6,TTO
+Niue,1993,7,NIU
+Kyrgyzstan,1993,7,KGZ
+Jamaica,1993,7,JAM
+Nauru,1993,8,NRU
+Oman,1993,8,OMN
+Namibia,1993,8,NAM
+Cuba,1993,8,CUB
+Nicaragua,1993,8,NIC
+Vanuatu,1993,9,VUT
+New Caledonia,1993,10,NCL
+Libya,1993,10,LBY
+Tunisia,1993,10,TUN
+Azerbaijan,1993,11,AZE
+Bahrain,1993,11,BHR
+Qatar,1993,11,QAT
+Iceland,1993,12,ISL
+Niger,1993,12,NGA
+Kazakhstan,1993,14,KAZ
+Algeria,1993,15,DZA
+Bolivia,1993,15,BOL
+Belarus,1993,16,BLR
+Georgia,1993,16,GEO
+Uzbekistan,1993,16,UZB
+Seychelles,1993,16,SYC
+Tanzania,1993,16,TZA
+Latvia,1993,18,LVA
+Ecuador,1993,20,ECU
+Moldova,1993,21,MDA
+Albania,1993,25,ALB
+Lithuania,1993,27,LTU
+Mexico,1993,27,MEX
+Morocco,1993,29,MAR
+Uganda,1993,30,UGA
+Solomon Islands,1993,31,SLB
+Nepal,1993,32,NPL
+Botswana,1993,33,BWA
+Venezuela,1993,35,VEN
+Norway,1993,37,NOR
+Armenia,1993,37,ARM
+Belgium,1993,38,BEL
+Malta,1993,38,MLT
+United Arab Emirates,1993,38,ARE
+Brunei,1993,38,BRN
+Nigeria,1993,42,NGA
+Saudi Arabia,1993,43,SAU
+Zambia,1993,44,ZMB
+Finland,1993,46,FIN
+Cook Islands,1993,50,COK
+Cyprus,1993,60,CYP
+Ghana,1993,61,GHA
+Uruguay,1993,66,URY
+Bulgaria,1993,69,BGR
+Spain,1993,79,ESP
+Argentina,1993,82,ARG
+Hungary,1993,96,HUN
+Portugal,1993,103,PRT
+Colombia,1993,104,COL
+Kuwait,1993,107,KWT
+Austria,1993,108,AUT
+Mauritius,1993,108,MUS
+Kenya,1993,110,KEN
+El Salvador,1993,117,SLV
+Tonga,1993,118,TON
+Brazil,1993,135,BRA
+Zimbabwe,1993,143,ZWE
+Papua New Guinea,1993,145,PNG
+Israel,1993,160,ISR
+Denmark,1993,165,DNK
+Russian Federation,1993,167,RUS
+Jordan,1993,176,JOR
+Sweden,1993,184,SWE
+Switzerland,1993,214,CHE
+Syria,1993,226,SYR
+France,1993,244,FRA
+Chile,1993,244,CHL
+Peru,1993,247,PER
+Greece,1993,280,GRC
+Netherlands,1993,282,NLD
+Italy,1993,286,ITA
+Bangladesh,1993,300,BGD
+Romania,1993,335,ROU
+Sudan,1993,340,SDN
+Somalia,1993,350,SOM
+Japan,1993,409,JPN
+Iran,1993,409,IRN
+Pakistan,1993,415,PAK
+Myanmar,1993,489,MMR
+Ukraine,1993,501,UKR
+Singapore,1993,502,SGP
+Egypt,1993,505,EGY
+Turkey,1993,556,TUR
+Ireland,1993,600,IRL
+Indonesia,1993,622,IDN
+Canada,1993,628,CAN
+Poland,1993,660,POL
+Afghanistan,1993,660,AFG
+Korea,1993,673,PRK
+Thailand,1993,735,THA
+Cambodia,1993,927,KHM
+Lebanon,1993,1064,LBN
+Iraq,1993,1092,IRQ
+Malaysia,1993,1252,MYS
+Fiji,1993,1324,FJI
+United States of America,1993,1373,USA
+Sri Lanka,1993,1431,LKA
+South Africa,1993,1654,ZAF
+India,1993,2643,IND
+Hong Kong,1993,3333,HKG
+Philippines,1993,4179,PHL
+Viet Nam,1993,5434,VNM
+New Zealand,1993,7772,NZL
+United Kingdom,1993,8963,GBR
+French Polynesia,1994,5,PYF
+Marshall Islands,1994,5,MHL
+New Caledonia,1994,5,NCL
+Norfolk Island,1994,5,NFK
+Palau,1994,5,PLW
+Tuvalu,1994,5,TUV
+Czech Republic,1994,5,CZE
+Gibraltar,1994,5,GIB
+Iceland,1994,5,ISL
+Luxembourg,1994,5,LUX
+Azerbaijan,1994,5,AZE
+Georgia,1994,5,GEO
+Kyrgyzstan,1994,5,KGZ
+Tajikistan,1994,5,TJK
+Turkmenistan,1994,5,TKM
+Yemen,1994,5,YEM
+Angola,1994,5,AGO
+Côte d'Ivoire,1994,5,CIV
+Djibouti,1994,5,DJI
+Gabon,1994,5,GAB
+Gambia,1994,5,GMB
+Guinea-Bissau,1994,5,GNB
+Lesotho,1994,5,LSO
+Madagascar,1994,5,MDG
+Reunion,1994,5,REU
+Senegal,1994,5,SEN
+Mongolia,1994,5,MNG
+Maldives,1994,5,MDV
+Bermuda,1994,5,BMU
+Bahamas,1994,5,BHS
+Barbados,1994,5,BRB
+Belize,1994,5,BLZ
+Costa Rica,1994,5,CRI
+Dominica,1994,5,DMA
+Dominican Republic,1994,5,DOM
+Falkland Islands,1994,5,FLK
+French Guiana,1994,5,GUF
+Guadeloupe,1994,5,FRA
+Honduras,1994,5,HND
+Nicaragua,1994,5,NIC
+Panama,1994,5,PAN
+Paraguay,1994,5,PRY
+Virgin Islands,1994,5,USA
+Western Sahara,1994,7,ESH
+Zaire,1994,7,AGO
+Cuba,1994,7,CUB
+Nauru,1994,9,NRU
+Tokelau,1994,9,TKL
+Vanuatu,1994,9,VUT
+Namibia,1994,10,NAM
+Guyana,1994,10,GUY
+Tunisia,1994,11,TUN
+Mozambique,1994,11,MOZ
+Niue,1994,12,NIU
+Seychelles,1994,12,SYC
+Jamaica,1994,12,JAM
+Kiribati,1994,13,KIR
+Malawi,1994,13,MWI
+Bolivia,1994,13,BOL
+Sierra Leone,1994,14,SLE
+Guatemala,1994,16,GTM
+Qatar,1994,17,QAT
+Libya,1994,18,LBY
+Niger,1994,18,NGA
+Bahrain,1994,19,BHR
+Oman,1994,19,OMN
+Uzbekistan,1994,20,UZB
+Uganda,1994,23,UGA
+Mexico,1994,23,MEX
+Kazakhstan,1994,24,KAZ
+Algeria,1994,24,DZA
+Trinidad and Tobago,1994,24,TTO
+Slovak Republic,1994,25,SVK
+Moldova,1994,28,MDA
+Belarus,1994,29,BLR
+Lithuania,1994,30,LTU
+Solomon Islands,1994,31,SLB
+Morocco,1994,32,MAR
+Latvia,1994,37,LVA
+Armenia,1994,38,ARM
+Tanzania,1994,38,TZA
+Brunei,1994,38,BRN
+Ecuador,1994,43,ECU
+Venezuela,1994,44,VEN
+Albania,1994,46,ALB
+United Arab Emirates,1994,46,ARE
+Norway,1994,48,NOR
+Cyprus,1994,49,CYP
+Nepal,1994,54,NPL
+Nigeria,1994,55,NGA
+Cook Islands,1994,59,COK
+Uruguay,1994,59,URY
+Malta,1994,62,MLT
+Finland,1994,68,FIN
+Zambia,1994,75,ZMB
+Russian Federation,1994,82,RUS
+Mauritius,1994,87,MUS
+Belgium,1994,90,BEL
+Spain,1994,96,ESP
+Austria,1994,106,AUT
+Botswana,1994,113,BWA
+Bulgaria,1994,114,BGR
+Argentina,1994,117,ARG
+Saudi Arabia,1994,122,SAU
+Tonga,1994,124,TON
+Hungary,1994,128,HUN
+Kuwait,1994,130,KWT
+Ghana,1994,136,GHA
+Papua New Guinea,1994,140,PNG
+Colombia,1994,141,COL
+Portugal,1994,147,PRT
+Israel,1994,149,ISR
+Brazil,1994,164,BRA
+Sweden,1994,175,SWE
+El Salvador,1994,183,SLV
+Denmark,1994,191,DNK
+Jordan,1994,198,JOR
+Peru,1994,215,PER
+Kenya,1994,219,KEN
+Chile,1994,223,CHL
+Zimbabwe,1994,236,ZWE
+Syria,1994,249,SYR
+Greece,1994,261,GRC
+Switzerland,1994,264,CHE
+Romania,1994,310,ROU
+Italy,1994,336,ITA
+France,1994,359,FRA
+Sudan,1994,361,SDN
+Netherlands,1994,366,NLD
+Somalia,1994,384,SOM
+Afghanistan,1994,392,AFG
+Japan,1994,527,JPN
+Myanmar,1994,598,MMR
+Pakistan,1994,598,PAK
+Egypt,1994,620,EGY
+Singapore,1994,650,SGP
+Iran,1994,654,IRN
+Korea,1994,666,PRK
+Ukraine,1994,687,UKR
+Bangladesh,1994,709,BGD
+Turkey,1994,718,TUR
+Poland,1994,746,POL
+Thailand,1994,799,THA
+Canada,1994,808,CAN
+Ireland,1994,904,IRL
+Indonesia,1994,1013,IDN
+Malaysia,1994,1107,MYS
+Lebanon,1994,1197,LBN
+Cambodia,1994,1356,KHM
+Fiji,1994,1504,FJI
+United States of America,1994,1765,USA
+Sri Lanka,1994,1953,LKA
+Iraq,1994,2539,IRQ
+South Africa,1994,2792,ZAF
+India,1994,3908,IND
+Philippines,1994,4116,PHL
+Hong Kong,1994,4135,HKG
+Viet Nam,1994,5097,VNM
+New Zealand,1994,10498,NZL
+United Kingdom,1994,10689,GBR
+Federated States of Micronesia,1995,5,FSM
+Guam,1995,5,GUM
+Marshall Islands,1995,5,MHL
+Norfolk Island,1995,5,NFK
+Palau,1995,5,PLW
+Tuvalu,1995,5,TUV
+Andorra,1995,5,AND
+Gibraltar,1995,5,GIB
+Monaco,1995,5,MCO
+Kyrgyzstan,1995,5,KGZ
+Turkmenistan,1995,5,TKM
+Mauritania,1995,5,MRT
+Tunisia,1995,5,TUN
+Yemen,1995,5,YEM
+Angola,1995,5,AGO
+Chad,1995,5,TCD
+Djibouti,1995,5,DJI
+Gambia,1995,5,GMB
+Lesotho,1995,5,LSO
+Madagascar,1995,5,MDG
+Malawi,1995,5,MWI
+Reunion,1995,5,REU
+Rwanda,1995,5,RWA
+Sierra Leone,1995,5,SLE
+Togo,1995,5,TGO
+Mongolia,1995,5,MNG
+Bahamas,1995,5,BHS
+Cayman Islands,1995,5,CYM
+Dominican Republic,1995,5,DOM
+Falkland Islands,1995,5,FLK
+Grenada,1995,5,GRD
+Haiti,1995,5,HTI
+Martinique,1995,5,MTQ
+Montserrat,1995,5,MSR
+Panama,1995,5,PAN
+Puerto Rico,1995,5,PRI
+Suriname,1995,5,SUR
+Estonia,1995,6,EST
+Nauru,1995,6,NRU
+Iceland,1995,6,ISL
+Luxembourg,1995,6,LUX
+Azerbaijan,1995,6,AZE
+Mozambique,1995,6,MOZ
+Barbados,1995,6,BRB
+Paraguay,1995,6,PRY
+Belize,1995,7,BLZ
+Kiribati,1995,8,KIR
+Oman,1995,8,OMN
+Senegal,1995,8,SEN
+Bermuda,1995,8,BMU
+Cuba,1995,8,CUB
+Guyana,1995,8,GUY
+Lithuania,1995,10,LTU
+French Polynesia,1995,10,PYF
+New Caledonia,1995,11,NCL
+Niue,1995,11,NIU
+Tokelau,1995,11,TKL
+Niger,1995,11,NGA
+Costa Rica,1995,11,CRI
+Honduras,1995,11,HND
+Moldova,1995,12,MDA
+Georgia,1995,13,GEO
+Qatar,1995,14,QAT
+Jamaica,1995,14,JAM
+Vanuatu,1995,15,VUT
+Belarus,1995,15,BLR
+Zaire,1995,15,AGO
+Libya,1995,16,LBY
+Namibia,1995,16,NAM
+Bolivia,1995,16,BOL
+Guatemala,1995,16,GTM
+Trinidad and Tobago,1995,19,TTO
+Latvia,1995,20,LVA
+Nicaragua,1995,20,NIC
+Bahrain,1995,22,BHR
+Seychelles,1995,22,SYC
+Slovenia,1995,23,SVN
+Kazakhstan,1995,24,KAZ
+Solomon Islands,1995,26,SLB
+Algeria,1995,27,DZA
+Slovak Republic,1995,28,SVK
+Uganda,1995,29,UGA
+Brunei,1995,29,BRN
+Armenia,1995,31,ARM
+Tanzania,1995,33,TZA
+Mexico,1995,38,MEX
+Uzbekistan,1995,39,UZB
+Morocco,1995,39,MAR
+Norway,1995,40,NOR
+Czech Republic,1995,48,CZE
+Nigeria,1995,48,NGA
+Venezuela,1995,48,VEN
+Uruguay,1995,49,URY
+Ecuador,1995,52,ECU
+Albania,1995,53,ALB
+United Arab Emirates,1995,53,ARE
+Nepal,1995,60,NPL
+Zambia,1995,62,ZMB
+Finland,1995,65,FIN
+Malta,1995,66,MLT
+Belgium,1995,73,BEL
+Cyprus,1995,76,CYP
+Russian Federation,1995,81,RUS
+Saudi Arabia,1995,94,SAU
+Kuwait,1995,95,KWT
+Spain,1995,96,ESP
+Ghana,1995,101,GHA
+Colombia,1995,101,COL
+Brazil,1995,105,BRA
+Mauritius,1995,111,MUS
+Austria,1995,112,AUT
+Bulgaria,1995,113,BGR
+Argentina,1995,113,ARG
+Hungary,1995,121,HUN
+Denmark,1995,146,DNK
+Jordan,1995,146,JOR
+Israel,1995,154,ISR
+Botswana,1995,161,BWA
+Cook Islands,1995,170,COK
+Tonga,1995,179,TON
+Eritrea,1995,185,ERI
+Sweden,1995,187,SWE
+El Salvador,1995,191,SLV
+Kenya,1995,194,KEN
+Peru,1995,199,PER
+Syria,1995,204,SYR
+Portugal,1995,216,PRT
+Papua New Guinea,1995,217,PNG
+Zimbabwe,1995,261,ZWE
+Chile,1995,263,CHL
+Switzerland,1995,280,CHE
+Greece,1995,281,GRC
+Italy,1995,304,ITA
+France,1995,309,FRA
+Romania,1995,368,ROU
+Ukraine,1995,407,UKR
+Netherlands,1995,408,NLD
+Ethiopia,1995,441,ETH
+Myanmar,1995,448,MMR
+Sudan,1995,452,SDN
+Egypt,1995,504,EGY
+Somalia,1995,521,SOM
+Japan,1995,593,JPN
+Pakistan,1995,603,PAK
+Poland,1995,617,POL
+Afghanistan,1995,636,AFG
+Korea,1995,704,PRK
+Croatia,1995,710,HRV
+Thailand,1995,736,THA
+Bangladesh,1995,759,BGD
+Turkey,1995,803,TUR
+Ireland,1995,813,IRL
+Singapore,1995,841,SGP
+Canada,1995,866,CAN
+Iran,1995,1018,IRN
+Malaysia,1995,1081,MYS
+Lebanon,1995,1326,LBN
+Cambodia,1995,1357,KHM
+United States of America,1995,1625,USA
+Fiji,1995,1714,FJI
+Indonesia,1995,1793,IDN
+Sri Lanka,1995,1951,LKA
+Iraq,1995,2617,IRQ
+South Africa,1995,3190,ZAF
+Philippines,1995,3232,PHL
+Viet Nam,1995,3567,VNM
+India,1995,3700,IND
+Hong Kong,1995,4361,HKG
+United Kingdom,1995,11268,GBR
+New Zealand,1995,12265,NZL
+Guam,1996,5,GUM
+Andorra,1996,5,AND
+Greenland,1996,5,GRL
+Iceland,1996,5,ISL
+Luxembourg,1996,5,LUX
+Azerbaijan,1996,5,AZE
+Kyrgyzstan,1996,5,KGZ
+Mauritania,1996,5,MRT
+Western Sahara,1996,5,ESH
+Benin,1996,5,BEN
+Burkina Faso,1996,5,BFA
+Burundi,1996,5,BDI
+Côte d'Ivoire,1996,5,CIV
+Cameroon,1996,5,CMR
+Central African Republic,1996,5,CAF
+Chad,1996,5,TCD
+Congo,1996,5,COG
+Djibouti,1996,5,DJI
+Gabon,1996,5,GAB
+Gambia,1996,5,GMB
+Lesotho,1996,5,LSO
+Liberia,1996,5,LBR
+Madagascar,1996,5,MDG
+Rwanda,1996,5,RWA
+Togo,1996,5,TGO
+Mongolia,1996,5,MNG
+Bhutan,1996,5,BTN
+Aruba,1996,5,ABW
+Bahamas,1996,5,BHS
+Belize,1996,5,BLZ
+Cayman Islands,1996,5,CYM
+Costa Rica,1996,5,CRI
+Dominica,1996,5,DMA
+Falkland Islands,1996,5,FLK
+French Guiana,1996,5,GUF
+Guadeloupe,1996,5,FRA
+Honduras,1996,5,HND
+Puerto Rico,1996,5,PRI
+Suriname,1996,5,SUR
+Cote d'Ivoire,1996,5,CIV
+"Micronesia, Federated States of",1996,5,FSM
+Comoros,1996,5,COM
+Réunion,1996,5,REU
+American Samoa,1996,5,ASM
+Bahrain,1996,5,BHR
+Bolivia,1996,5,BOL
+Botswana,1996,5,BWA
+Brunei Darussalam,1996,5,BRN
+Cuba,1996,5,CUB
+Cyprus,1996,5,CYP
+Dominican Republic,1996,5,DOM
+Estonia,1996,5,EST
+Guatemala,1996,5,GTM
+Guyana,1996,5,GUY
+Jamaica,1996,5,JAM
+Kiribati,1996,5,KIR
+Korea,1996,5,PRK
+Kuwait,1996,5,KWT
+Latvia,1996,5,LVA
+Lithuania,1996,5,LTU
+Malawi,1996,5,MWI
+Malta,1996,5,MLT
+Morocco,1996,5,MAR
+Mozambique,1996,5,MOZ
+Namibia,1996,5,NAM
+Panama,1996,5,PAN
+Paraguay,1996,5,PRY
+Samoa,1996,5,WSM
+Saudi Arabia,1996,5,SAU
+Seychelles,1996,5,SYC
+Solomon Islands,1996,5,SLB
+Somalia,1996,5,SOM
+Tanzania,1996,5,TZA
+Trinidad and Tobago,1996,5,TTO
+Tunisia,1996,5,TUN
+Uruguay,1996,5,URY
+Vanuatu,1996,5,VUT
+Albania,1996,5,ALB
+Argentina,1996,5,ARG
+Belgium,1996,5,BEL
+Brazil,1996,5,BRA
+Chile,1996,5,CHL
+China,1996,5,CHN
+Croatia,1996,5,HRV
+Czech Republic,1996,5,CZE
+Denmark,1996,5,DNK
+France,1996,5,FRA
+Ghana,1996,5,GHA
+Greece,1996,5,GRC
+Israel,1996,5,ISR
+Japan,1996,5,JPN
+Jordan,1996,5,JOR
+Myanmar,1996,5,MMR
+Papua New Guinea,1996,5,PNG
+Peru,1996,5,PER
+Poland,1996,5,POL
+Singapore,1996,5,SGP
+Spain,1996,5,ESP
+Vietnam,1996,5,VNM
+Gibraltar,1996,6,GIB
+Tajikistan,1996,6,TJK
+Maldives,1996,6,MDV
+Barbados,1996,6,BRB
+Ethiopia,1996,6,ETH
+Sierra Leone,1996,6,SLE
+Austria,1996,6,AUT
+Switzerland,1996,6,CHE
+Syria,1996,6,SYR
+Zimbabwe,1996,6,ZWE
+Tokelau,1996,7,TKL
+Tuvalu,1996,7,TUV
+Angola,1996,7,AGO
+Uganda,1996,7,UGA
+French Polynesia,1996,8,PYF
+Nauru,1996,8,NRU
+Canada,1996,8,CAN
+Niue,1996,10,NIU
+Bermuda,1996,10,BMU
+Taiwan,1996,10,TWN
+Senegal,1996,11,SEN
+Nicaragua,1996,11,NIC
+Georgia,1996,11,GEO
+Niger,1996,12,NGA
+Qatar,1996,13,QAT
+Algeria,1996,13,DZA
+Ecuador,1996,13,ECU
+Netherlands,1996,13,NLD
+Sweden,1996,13,SWE
+Thailand,1996,13,THA
+Turkey,1996,13,TUR
+Moldova,1996,14,MDA
+Ireland,1996,14,IRL
+Zambia,1996,15,ZMB
+Bangladesh,1996,15,BGD
+Oman,1996,17,OMN
+Sudan,1996,17,SDN
+Libya,1996,18,LBY
+Yemen,1996,18,YEM
+Slovenia,1996,18,SVN
+Italy,1996,18,ITA
+Norway,1996,19,NOR
+Tonga,1996,20,TON
+Armenia,1996,21,ARM
+Mexico,1996,21,MEX
+Lebanon,1996,21,LBN
+Uzbekistan,1996,22,UZB
+Malaysia,1996,23,MYS
+Belarus,1996,24,BLR
+Pakistan,1996,24,PAK
+Colombia,1996,26,COL
+Finland,1996,28,FIN
+Nigeria,1996,28,NGA
+Nepal,1996,30,NPL
+New Caledonia,1996,31,NCL
+United States of America,1996,34,USA
+Kazakhstan,1996,35,KAZ
+Philippines,1996,40,PHL
+India,1996,42,IND
+Mauritius,1996,43,MUS
+Hungary,1996,44,HUN
+Slovakia,1996,50,SVK
+Bulgaria,1996,54,BGR
+Kenya,1996,55,KEN
+Iraq,1996,60,IRQ
+United Arab Emirates,1996,64,ARE
+Indonesia,1996,67,IDN
+Venezuela,1996,89,VEN
+Eritrea,1996,133,ERI
+Portugal,1996,138,PRT
+El Salvador,1996,154,SLV
+Romania,1996,171,ROU
+Iran,1996,193,IRN
+"Korea, Republic of",1996,239,KOR
+United Kingdom,1996,246,GBR
+Ukraine,1996,247,UKR
+Cook Islands,1996,293,COK
+Russian Federation,1996,304,RUS
+Afghanistan,1996,368,AFG
+Fiji,1996,407,FJI
+Egypt,1996,482,EGY
+Sri Lanka,1996,707,LKA
+Cambodia,1996,858,KHM
+Germany,1996,1159,DEU
+Bosnia and Herzegovina,1996,2065,BIH
+South Africa,1996,3631,ZAF
+New Zealand,1996,13077,NZL
+Guam,1997,5,GUM
+Nauru,1997,5,NRU
+Palau,1997,5,PLW
+Wallis and Futuna,1997,5,WLF
+Gibraltar,1997,5,GIB
+Iceland,1997,5,ISL
+Luxembourg,1997,5,LUX
+Monaco,1997,5,MCO
+Tajikistan,1997,5,TJK
+Mauritania,1997,5,MRT
+Angola,1997,5,AGO
+Benin,1997,5,BEN
+Burundi,1997,5,BDI
+Côte d'Ivoire,1997,5,CIV
+Cameroon,1997,5,CMR
+Chad,1997,5,TCD
+Congo,1997,5,COG
+Djibouti,1997,5,DJI
+Gambia,1997,5,GMB
+Guinea,1997,5,GIN
+Guinea-Bissau,1997,5,GNB
+Lesotho,1997,5,LSO
+Liberia,1997,5,LBR
+Madagascar,1997,5,MDG
+Malawi,1997,5,MWI
+Rwanda,1997,5,RWA
+Mongolia,1997,5,MNG
+Maldives,1997,5,MDV
+Anguilla,1997,5,AIA
+Aruba,1997,5,ABW
+Bahamas,1997,5,BHS
+Belize,1997,5,BLZ
+Cayman Islands,1997,5,CYM
+Dominican Republic,1997,5,DOM
+Falkland Islands,1997,5,FLK
+Grenada,1997,5,GRD
+Guadeloupe,1997,5,FRA
+Guatemala,1997,5,GTM
+Haiti,1997,5,HTI
+Honduras,1997,5,HND
+Nicaragua,1997,5,NIC
+Panama,1997,5,PAN
+Paraguay,1997,5,PRY
+Puerto Rico,1997,5,PRI
+Suriname,1997,5,SUR
+Cote d'Ivoire,1997,5,CIV
+"Micronesia, Federated States of",1997,5,FSM
+Algeria,1997,5,DZA
+Azerbaijan,1997,5,AZE
+Bahrain,1997,5,BHR
+Bermuda,1997,5,BMU
+Bhutan,1997,5,BTN
+Bolivia,1997,5,BOL
+Botswana,1997,5,BWA
+Costa Rica,1997,5,CRI
+Ecuador,1997,5,ECU
+El Salvador,1997,5,SLV
+Eritrea,1997,5,ERI
+Kuwait,1997,5,KWT
+Lithuania,1997,5,LTU
+Marshall Islands,1997,5,MHL
+Namibia,1997,5,NAM
+Oman,1997,5,OMN
+Qatar,1997,5,QAT
+Senegal,1997,5,SEN
+Sudan,1997,5,SDN
+Tanzania,1997,5,TZA
+United Arab Emirates,1997,5,ARE
+Brazil,1997,5,BRA
+Chile,1997,5,CHL
+China,1997,5,CHN
+Colombia,1997,5,COL
+Finland,1997,5,FIN
+Hungary,1997,5,HUN
+Iran,1997,5,IRN
+Ireland,1997,5,IRL
+Italy,1997,5,ITA
+Japan,1997,5,JPN
+Malta,1997,5,MLT
+Mexico,1997,5,MEX
+New Caledonia,1997,5,NCL
+Portugal,1997,5,PRT
+Samoa,1997,5,WSM
+Singapore,1997,5,SGP
+Sri Lanka,1997,5,LKA
+Sweden,1997,5,SWE
+Switzerland,1997,5,CHE
+Taiwan,1997,5,TWN
+Thailand,1997,5,THA
+French Polynesia,1997,6,PYF
+Tuvalu,1997,6,TUV
+Morocco,1997,6,MAR
+Canada,1997,6,CAN
+Georgia,1997,7,GEO
+Moldova,1997,7,MDA
+Guyana,1997,7,GUY
+Albania,1997,7,ALB
+Ethiopia,1997,7,ETH
+Jamaica,1997,7,JAM
+Argentina,1997,7,ARG
+Niue,1997,8,NIU
+Yemen,1997,8,YEM
+Somalia,1997,8,SOM
+Tunisia,1997,8,TUN
+Bangladesh,1997,8,BGD
+Ghana,1997,8,GHA
+Netherlands,1997,8,NLD
+Kiribati,1997,9,KIR
+Kyrgyzstan,1997,9,KGZ
+Barbados,1997,9,BRB
+Brunei Darussalam,1997,9,BRN
+Mozambique,1997,9,MOZ
+Uruguay,1997,9,URY
+Zambia,1997,9,ZMB
+France,1997,9,FRA
+Malaysia,1997,9,MYS
+Papua New Guinea,1997,9,PNG
+Saudi Arabia,1997,10,SAU
+Seychelles,1997,10,SYC
+Cuba,1997,11,CUB
+Estonia,1997,12,EST
+Tokelau,1997,12,TKL
+Sierra Leone,1997,12,SLE
+Armenia,1997,12,ARM
+Spain,1997,12,ESP
+Uzbekistan,1997,12,UZB
+Turkey,1997,12,TUR
+Belarus,1997,13,BLR
+Kazakhstan,1997,13,KAZ
+Slovenia,1997,13,SVN
+Tonga,1997,13,TON
+Lebanon,1997,14,LBN
+Czech Republic,1997,15,CZE
+Norway,1997,15,NOR
+Libya,1997,17,LBY
+India,1997,17,IND
+Vanuatu,1997,19,VUT
+Cyprus,1997,19,CYP
+Niger,1997,21,NGA
+Solomon Islands,1997,22,SLB
+United States of America,1997,23,USA
+Uganda,1997,24,UGA
+Myanmar,1997,25,MMR
+Peru,1997,26,PER
+Trinidad and Tobago,1997,26,TTO
+Latvia,1997,29,LVA
+Iraq,1997,31,IRQ
+Syria,1997,31,SYR
+Philippines,1997,31,PHL
+Greece,1997,32,GRC
+Pakistan,1997,32,PAK
+Slovakia,1997,36,SVK
+Croatia,1997,40,HRV
+Austria,1997,41,AUT
+Denmark,1997,45,DNK
+Mauritius,1997,47,MUS
+Belgium,1997,48,BEL
+Venezuela,1997,48,VEN
+Vietnam,1997,48,VNM
+Nepal,1997,53,NPL
+Zimbabwe,1997,59,ZWE
+Nigeria,1997,60,NGA
+Indonesia,1997,66,IDN
+Bulgaria,1997,77,BGR
+Israel,1997,96,ISR
+Jordan,1997,112,JOR
+Ukraine,1997,122,UKR
+Poland,1997,128,POL
+Russian Federation,1997,136,RUS
+"Korea, Republic of",1997,161,KOR
+United Kingdom,1997,165,GBR
+Romania,1997,171,ROU
+Kenya,1997,174,KEN
+Cook Islands,1997,228,COK
+Fiji,1997,321,FJI
+Egypt,1997,388,EGY
+Afghanistan,1997,602,AFG
+Cambodia,1997,622,KHM
+Germany,1997,1049,DEU
+Korea,1997,1110,PRK
+Bosnia and Herzegovina,1997,2144,BIH
+South Africa,1997,4903,ZAF
+New Zealand,1997,14725,NZL
+Guam,1998,5,GUM
+Marshall Islands,1998,5,MHL
+Nauru,1998,5,NRU
+Northern Mariana Islands,1998,5,MNP
+Palau,1998,5,PLW
+Tuvalu,1998,5,TUV
+Iceland,1998,5,ISL
+Luxembourg,1998,5,LUX
+Monaco,1998,5,MCO
+Azerbaijan,1998,5,AZE
+Mauritania,1998,5,MRT
+Burundi,1998,5,BDI
+Côte d'Ivoire,1998,5,CIV
+Cameroon,1998,5,CMR
+Congo,1998,5,COG
+Guinea,1998,5,GIN
+Guinea-Bissau,1998,5,GNB
+Liberia,1998,5,LBR
+Niger,1998,5,NGA
+Rwanda,1998,5,RWA
+Mongolia,1998,5,MNG
+Bermuda,1998,5,BMU
+Aruba,1998,5,ABW
+Bahamas,1998,5,BHS
+Barbados,1998,5,BRB
+Belize,1998,5,BLZ
+Cayman Islands,1998,5,CYM
+Costa Rica,1998,5,CRI
+Falkland Islands,1998,5,FLK
+French Guiana,1998,5,GUF
+Guyana,1998,5,GUY
+Haiti,1998,5,HTI
+Honduras,1998,5,HND
+Puerto Rico,1998,5,PRI
+Suriname,1998,5,SUR
+Cote d'Ivoire,1998,5,CIV
+"Micronesia, Federated States of",1998,5,FSM
+Afghanistan,1998,5,AFG
+Albania,1998,5,ALB
+Algeria,1998,5,DZA
+Angola,1998,5,AGO
+Bhutan,1998,5,BTN
+Bolivia,1998,5,BOL
+Cuba,1998,5,CUB
+Ecuador,1998,5,ECU
+El Salvador,1998,5,SLV
+Estonia,1998,5,EST
+Georgia,1998,5,GEO
+Kiribati,1998,5,KIR
+Kuwait,1998,5,KWT
+Latvia,1998,5,LVA
+Malawi,1998,5,MWI
+Maldives,1998,5,MDV
+Morocco,1998,5,MAR
+Panama,1998,5,PAN
+Reunion,1998,5,REU
+Saudi Arabia,1998,5,SAU
+Senegal,1998,5,SEN
+Sierra Leone,1998,5,SLE
+Slovenia,1998,5,SVN
+Solomon Islands,1998,5,SLB
+Tanzania,1998,5,TZA
+Tunisia,1998,5,TUN
+Uganda,1998,5,UGA
+United Arab Emirates,1998,5,ARE
+Uruguay,1998,5,URY
+Vanuatu,1998,5,VUT
+Yemen,1998,5,YEM
+Zambia,1998,5,ZMB
+Argentina,1998,5,ARG
+Denmark,1998,5,DNK
+Finland,1998,5,FIN
+France,1998,5,FRA
+Gambia,1998,5,GMB
+Iraq,1998,5,IRQ
+Jordan,1998,5,JOR
+Korea,1998,5,PRK
+Malaysia,1998,5,MYS
+Nepal,1998,5,NPL
+Poland,1998,5,POL
+Portugal,1998,5,PRT
+Singapore,1998,5,SGP
+Sweden,1998,5,SWE
+Switzerland,1998,5,CHE
+Vietnam,1998,5,VNM
+Dominican Republic,1998,6,DOM
+Paraguay,1998,6,PRY
+Bahrain,1998,6,BHR
+Ethiopia,1998,6,ETH
+French Polynesia,1998,6,PYF
+Bangladesh,1998,6,BGD
+Netherlands,1998,6,NLD
+Nigeria,1998,6,NGA
+Guatemala,1998,7,GTM
+Réunion,1998,7,REU
+Lithuania,1998,7,LTU
+Oman,1998,7,OMN
+Ireland,1998,7,IRL
+Malta,1998,7,MLT
+Pakistan,1998,7,PAK
+Papua New Guinea,1998,7,PNG
+Samoa,1998,7,WSM
+Madagascar,1998,8,MDG
+Nicaragua,1998,8,NIC
+Greece,1998,8,GRC
+India,1998,8,IND
+Taiwan,1998,8,TWN
+Turkey,1998,8,TUR
+Kyrgyzstan,1998,9,KGZ
+Djibouti,1998,9,DJI
+Brunei Darussalam,1998,9,BRN
+Uzbekistan,1998,9,UZB
+Venezuela,1998,9,VEN
+Gibraltar,1998,10,GIB
+Libya,1998,10,LBY
+Somalia,1998,10,SOM
+Spain,1998,10,ESP
+Croatia,1998,11,HRV
+Qatar,1998,12,QAT
+Botswana,1998,12,BWA
+Trinidad and Tobago,1998,12,TTO
+Mexico,1998,12,MEX
+Lebanon,1998,12,LBN
+Armenia,1998,13,ARM
+Ghana,1998,13,GHA
+Namibia,1998,13,NAM
+Jamaica,1998,14,JAM
+Myanmar,1998,14,MMR
+Canada,1998,14,CAN
+United States of America,1998,14,USA
+Mozambique,1998,15,MOZ
+Norway,1998,15,NOR
+Tonga,1998,15,TON
+Belarus,1998,16,BLR
+Sudan,1998,16,SDN
+Italy,1998,17,ITA
+Czech Republic,1998,18,CZE
+Kazakhstan,1998,18,KAZ
+Tokelau,1998,19,TKL
+Seychelles,1998,19,SYC
+Colombia,1998,20,COL
+Cyprus,1998,21,CYP
+China,1998,21,CHN
+Syria,1998,22,SYR
+Sri Lanka,1998,22,LKA
+New Caledonia,1998,23,NCL
+Moldova,1998,23,MDA
+Philippines,1998,23,PHL
+Hungary,1998,24,HUN
+Slovakia,1998,24,SVK
+Peru,1998,29,PER
+Brazil,1998,45,BRA
+Belgium,1998,54,BEL
+Niue,1998,55,NIU
+Indonesia,1998,58,IDN
+Thailand,1998,59,THA
+Austria,1998,61,AUT
+Mauritius,1998,69,MUS
+Bulgaria,1998,74,BGR
+Israel,1998,75,ISR
+"Korea, Republic of",1998,77,KOR
+Chile,1998,106,CHL
+Iran,1998,114,IRN
+United Kingdom,1998,120,GBR
+Kenya,1998,148,KEN
+Zimbabwe,1998,152,ZWE
+Ukraine,1998,156,UKR
+Eritrea,1998,189,ERI
+Romania,1998,194,ROU
+Cook Islands,1998,207,COK
+Fiji,1998,207,FJI
+Russian Federation,1998,223,RUS
+Japan,1998,363,JPN
+Egypt,1998,418,EGY
+Cambodia,1998,420,KHM
+Germany,1998,1053,DEU
+Bosnia and Herzegovina,1998,1401,BIH
+South Africa,1998,5931,ZAF
+New Zealand,1998,18682,NZL
+Guam,1999,5,GUM
+Marshall Islands,1999,5,MHL
+Nauru,1999,5,NRU
+Palau,1999,5,PLW
+Gibraltar,1999,5,GIB
+Liechtenstein,1999,5,LIE
+Luxembourg,1999,5,LUX
+Tajikistan,1999,5,TJK
+Turkmenistan,1999,5,TKM
+Burkina Faso,1999,5,BFA
+Burundi,1999,5,BDI
+Côte d'Ivoire,1999,5,CIV
+Cameroon,1999,5,CMR
+Chad,1999,5,TCD
+Congo,1999,5,COG
+Djibouti,1999,5,DJI
+Gambia,1999,5,GMB
+Guinea,1999,5,GIN
+Liberia,1999,5,LBR
+Madagascar,1999,5,MDG
+Mali,1999,5,MLI
+Rwanda,1999,5,RWA
+Mongolia,1999,5,MNG
+Maldives,1999,5,MDV
+Bermuda,1999,5,BMU
+Antigua and Barbuda,1999,5,ATG
+Aruba,1999,5,ABW
+Bahamas,1999,5,BHS
+Barbados,1999,5,BRB
+Belize,1999,5,BLZ
+Cayman Islands,1999,5,CYM
+Costa Rica,1999,5,CRI
+Dominican Republic,1999,5,DOM
+French Guiana,1999,5,GUF
+Grenada,1999,5,GRD
+Haiti,1999,5,HTI
+Honduras,1999,5,HND
+Martinique,1999,5,MTQ
+Nicaragua,1999,5,NIC
+Panama,1999,5,PAN
+Puerto Rico,1999,5,PRI
+Suriname,1999,5,SUR
+Cote d'Ivoire,1999,5,CIV
+Korea,1999,5,PRK
+Albania,1999,5,ALB
+Angola,1999,5,AGO
+Azerbaijan,1999,5,AZE
+Botswana,1999,5,BWA
+El Salvador,1999,5,SLV
+Estonia,1999,5,EST
+Ethiopia,1999,5,ETH
+Greece,1999,5,GRC
+Iceland,1999,5,ISL
+Kuwait,1999,5,KWT
+Kyrgyzstan,1999,5,KGZ
+Lithuania,1999,5,LTU
+Malawi,1999,5,MWI
+Malta,1999,5,MLT
+New Caledonia,1999,5,NCL
+Oman,1999,5,OMN
+Samoa,1999,5,WSM
+Saudi Arabia,1999,5,SAU
+Senegal,1999,5,SEN
+Slovenia,1999,5,SVN
+Sudan,1999,5,SDN
+Trinidad and Tobago,1999,5,TTO
+Uganda,1999,5,UGA
+United Arab Emirates,1999,5,ARE
+Zambia,1999,5,ZMB
+Austria,1999,5,AUT
+Bangladesh,1999,5,BGD
+Canada,1999,5,CAN
+Chile,1999,5,CHL
+Croatia,1999,5,HRV
+Cyprus,1999,5,CYP
+Denmark,1999,5,DNK
+France,1999,5,FRA
+Ghana,1999,5,GHA
+Guyana,1999,5,GUY
+India,1999,5,IND
+Iraq,1999,5,IRQ
+Ireland,1999,5,IRL
+Malaysia,1999,5,MYS
+Pakistan,1999,5,PAK
+Portugal,1999,5,PRT
+Spain,1999,5,ESP
+Syria,1999,5,SYR
+Taiwan,1999,5,TWN
+Thailand,1999,5,THA
+Tonga,1999,5,TON
+Vietnam,1999,5,VNM
+Paraguay,1999,6,PRY
+Réunion,1999,6,REU
+Finland,1999,6,FIN
+Netherlands,1999,6,NLD
+Afghanistan,1999,7,AFG
+Myanmar,1999,7,MMR
+Tanzania,1999,7,TZA
+Vanuatu,1999,7,VUT
+Italy,1999,7,ITA
+Japan,1999,7,JPN
+Algeria,1999,8,DZA
+Armenia,1999,8,ARM
+Cuba,1999,8,CUB
+Moldova,1999,8,MDA
+Tuvalu,1999,8,TUV
+Qatar,1999,9,QAT
+Tunisia,1999,9,TUN
+Guatemala,1999,9,GTM
+Belarus,1999,9,BLR
+Morocco,1999,9,MAR
+Jamaica,1999,10,JAM
+Mexico,1999,10,MEX
+Niger,1999,10,NGA
+Philippines,1999,10,PHL
+Kiribati,1999,11,KIR
+Norway,1999,11,NOR
+Brunei Darussalam,1999,12,BRN
+Papua New Guinea,1999,12,PNG
+Seychelles,1999,12,SYC
+Uzbekistan,1999,13,UZB
+United States of America,1999,13,USA
+Bahrain,1999,14,BHR
+Mozambique,1999,14,MOZ
+Georgia,1999,14,GEO
+Solomon Islands,1999,14,SLB
+Venezuela,1999,14,VEN
+Turkey,1999,14,TUR
+Libya,1999,15,LBY
+Namibia,1999,15,NAM
+French Polynesia,1999,16,PYF
+Bolivia,1999,16,BOL
+Czech Republic,1999,16,CZE
+Peru,1999,17,PER
+Slovakia,1999,18,SVK
+Tokelau,1999,19,TKL
+Yemen,1999,20,YEM
+Indonesia,1999,20,IDN
+Uruguay,1999,21,URY
+"Korea, Republic of",1999,21,KOR
+Hungary,1999,23,HUN
+Colombia,1999,24,COL
+Latvia,1999,25,LVA
+Kazakhstan,1999,27,KAZ
+Lebanon,1999,27,LBN
+Ecuador,1999,30,ECU
+Argentina,1999,30,ARG
+Sweden,1999,36,SWE
+Nigeria,1999,37,NGA
+Niue,1999,48,NIU
+Brazil,1999,48,BRA
+Fiji,1999,48,FJI
+Belgium,1999,54,BEL
+United Kingdom,1999,61,GBR
+Sierra Leone,1999,67,SLE
+Poland,1999,68,POL
+Israel,1999,75,ISR
+Mauritius,1999,80,MUS
+Ukraine,1999,89,UKR
+Bulgaria,1999,91,BGR
+Nepal,1999,93,NPL
+Jordan,1999,101,JOR
+Switzerland,1999,122,CHE
+Sri Lanka,1999,122,LKA
+Russian Federation,1999,135,RUS
+Kenya,1999,140,KEN
+Romania,1999,140,ROU
+Eritrea,1999,144,ERI
+Cook Islands,1999,200,COK
+Iran,1999,209,IRN
+Somalia,1999,295,SOM
+Zimbabwe,1999,295,ZWE
+Cambodia,1999,314,KHM
+Egypt,1999,424,EGY
+Bosnia and Herzegovina,1999,675,BIH
+Singapore,1999,729,SGP
+Germany,1999,1130,DEU
+China,1999,2006,CHN
+South Africa,1999,6682,ZAF
+New Zealand,1999,21889,NZL
+Guam,2000,5,GUM
+Palau,2000,5,PLW
+Gibraltar,2000,5,GIB
+Greenland,2000,5,GRL
+Luxembourg,2000,5,LUX
+Tajikistan,2000,5,TJK
+Turkmenistan,2000,5,TKM
+Western Sahara,2000,5,ESH
+Côte d'Ivoire,2000,5,CIV
+Gabon,2000,5,GAB
+Gambia,2000,5,GMB
+Guinea,2000,5,GIN
+Lesotho,2000,5,LSO
+Mali,2000,5,MLI
+Rwanda,2000,5,RWA
+Senegal,2000,5,SEN
+Togo,2000,5,TGO
+Bhutan,2000,5,BTN
+Maldives,2000,5,MDV
+Bahamas,2000,5,BHS
+Belize,2000,5,BLZ
+Cayman Islands,2000,5,CYM
+Costa Rica,2000,5,CRI
+French Guiana,2000,5,GUF
+Grenada,2000,5,GRD
+Haiti,2000,5,HTI
+Honduras,2000,5,HND
+Martinique,2000,5,MTQ
+Montserrat,2000,5,MSR
+Nicaragua,2000,5,NIC
+Panama,2000,5,PAN
+Puerto Rico,2000,5,PRI
+Cote d'Ivoire,2000,5,CIV
+Comoros,2000,5,COM
+Réunion,2000,5,REU
+Korea,2000,5,PRK
+Algeria,2000,5,DZA
+Azerbaijan,2000,5,AZE
+Barbados,2000,5,BRB
+Bolivia,2000,5,BOL
+Cuba,2000,5,CUB
+Estonia,2000,5,EST
+French Polynesia,2000,5,PYF
+Guyana,2000,5,GUY
+Iceland,2000,5,ISL
+Jamaica,2000,5,JAM
+Kuwait,2000,5,KWT
+Latvia,2000,5,LVA
+Liechtenstein,2000,5,LIE
+Mongolia,2000,5,MNG
+Morocco,2000,5,MAR
+Mozambique,2000,5,MOZ
+Nauru,2000,5,NRU
+New Caledonia,2000,5,NCL
+Niger,2000,5,NGA
+Qatar,2000,5,QAT
+Saudi Arabia,2000,5,SAU
+Seychelles,2000,5,SYC
+Sierra Leone,2000,5,SLE
+Somalia,2000,5,SOM
+Tunisia,2000,5,TUN
+Tuvalu,2000,5,TUV
+Uganda,2000,5,UGA
+United Arab Emirates,2000,5,ARE
+Uruguay,2000,5,URY
+Uzbekistan,2000,5,UZB
+Vanuatu,2000,5,VUT
+Argentina,2000,5,ARG
+Chile,2000,5,CHL
+Croatia,2000,5,HRV
+Denmark,2000,5,DNK
+Dominican Republic,2000,5,DOM
+El Salvador,2000,5,SLV
+Ethiopia,2000,5,ETH
+France,2000,5,FRA
+Greece,2000,5,GRC
+India,2000,5,IND
+Iran,2000,5,IRN
+Iraq,2000,5,IRQ
+Ireland,2000,5,IRL
+Israel,2000,5,ISR
+Japan,2000,5,JPN
+Jordan,2000,5,JOR
+Kazakhstan,2000,5,KAZ
+Malta,2000,5,MLT
+Papua New Guinea,2000,5,PNG
+Romania,2000,5,ROU
+Samoa,2000,5,WSM
+Singapore,2000,5,SGP
+Taiwan,2000,5,TWN
+Tanzania,2000,5,TZA
+Ukraine,2000,5,UKR
+Vietnam,2000,5,VNM
+Burundi,2000,6,BDI
+Madagascar,2000,6,MDG
+Bermuda,2000,6,BMU
+Paraguay,2000,6,PRY
+Trinidad and Tobago,2000,6,TTO
+Angola,2000,7,AGO
+Cameroon,2000,7,CMR
+Djibouti,2000,7,DJI
+Georgia,2000,7,GEO
+Kyrgyzstan,2000,7,KGZ
+Turkey,2000,7,TUR
+Albania,2000,8,ALB
+Namibia,2000,8,NAM
+Norway,2000,8,NOR
+Slovenia,2000,8,SVN
+Yemen,2000,8,YEM
+Kiribati,2000,9,KIR
+Moldova,2000,9,MDA
+Cyprus,2000,9,CYP
+Solomon Islands,2000,9,SLB
+Zambia,2000,9,ZMB
+Spain,2000,9,ESP
+Sudan,2000,10,SDN
+Malaysia,2000,10,MYS
+Netherlands,2000,10,NLD
+Guatemala,2000,11,GTM
+Oman,2000,13,OMN
+Armenia,2000,13,ARM
+Italy,2000,13,ITA
+Belarus,2000,14,BLR
+Philippines,2000,14,PHL
+Lithuania,2000,15,LTU
+United States of America,2000,15,USA
+Bahrain,2000,16,BHR
+Tonga,2000,16,TON
+Malawi,2000,17,MWI
+Libya,2000,18,LBY
+Liberia,2000,18,LBR
+Botswana,2000,20,BWA
+"Korea, Republic of",2000,20,KOR
+Peru,2000,22,PER
+Congo,2000,24,COG
+Mexico,2000,24,MEX
+Ghana,2000,25,GHA
+Czech Republic,2000,27,CZE
+Tokelau,2000,30,TKL
+Lebanon,2000,30,LBN
+Brunei Darussalam,2000,32,BRN
+Venezuela,2000,32,VEN
+Indonesia,2000,32,IDN
+Syria,2000,34,SYR
+Fiji,2000,35,FJI
+Myanmar,2000,38,MMR
+Slovakia,2000,39,SVK
+Ecuador,2000,42,ECU
+Finland,2000,43,FIN
+Hungary,2000,50,HUN
+Portugal,2000,53,PRT
+Austria,2000,56,AUT
+Sweden,2000,56,SWE
+Niue,2000,57,NIU
+Nigeria,2000,64,NGA
+Poland,2000,66,POL
+Colombia,2000,68,COL
+Belgium,2000,71,BEL
+Bulgaria,2000,71,BGR
+Mauritius,2000,79,MUS
+Brazil,2000,81,BRA
+United Kingdom,2000,118,GBR
+Switzerland,2000,136,CHE
+Sri Lanka,2000,143,LKA
+Eritrea,2000,144,ERI
+Nepal,2000,156,NPL
+Thailand,2000,163,THA
+Bangladesh,2000,164,BGD
+Kenya,2000,179,KEN
+Cook Islands,2000,236,COK
+Russian Federation,2000,269,RUS
+Canada,2000,440,CAN
+Afghanistan,2000,490,AFG
+Zimbabwe,2000,499,ZWE
+Egypt,2000,523,EGY
+Cambodia,2000,547,KHM
+Pakistan,2000,747,PAK
+Bosnia and Herzegovina,2000,771,BIH
+Germany,2000,1199,DEU
+China,2000,1700,CHN
+South Africa,2000,7456,ZAF
+New Zealand,2000,25165,NZL
+Guam,2001,5,GUM
+Marshall Islands,2001,5,MHL
+Tuvalu,2001,5,TUV
+Wallis and Futuna,2001,5,WLF
+Gibraltar,2001,5,GIB
+Iceland,2001,5,ISL
+Liechtenstein,2001,5,LIE
+Luxembourg,2001,5,LUX
+Monaco,2001,5,MCO
+San Marino,2001,5,SMR
+Turkmenistan,2001,5,TKM
+Mauritania,2001,5,MRT
+Benin,2001,5,BEN
+Burkina Faso,2001,5,BFA
+Côte d'Ivoire,2001,5,CIV
+Gabon,2001,5,GAB
+Gambia,2001,5,GMB
+Guinea-Bissau,2001,5,GNB
+Mali,2001,5,MLI
+Rwanda,2001,5,RWA
+Togo,2001,5,TGO
+Antigua and Barbuda,2001,5,ATG
+Barbados,2001,5,BRB
+Belize,2001,5,BLZ
+Cayman Islands,2001,5,CYM
+Falkland Islands,2001,5,FLK
+Guadeloupe,2001,5,FRA
+Honduras,2001,5,HND
+Nicaragua,2001,5,NIC
+Panama,2001,5,PAN
+Puerto Rico,2001,5,PRI
+Suriname,2001,5,SUR
+Turks and Caicos Islands,2001,5,TCA
+Cote d'Ivoire,2001,5,CIV
+"Micronesia, Federated States of",2001,5,FSM
+"Virgin Islands, British ",2001,5,VGB
+Comoros,2001,5,COM
+Réunion,2001,5,REU
+American Samoa,2001,5,ASM
+Korea,2001,5,PRK
+Albania,2001,5,ALB
+Algeria,2001,5,DZA
+Azerbaijan,2001,5,AZE
+Bahrain,2001,5,BHR
+Bermuda,2001,5,BMU
+Bolivia,2001,5,BOL
+Costa Rica,2001,5,CRI
+Cuba,2001,5,CUB
+Dominican Republic,2001,5,DOM
+El Salvador,2001,5,SLV
+Georgia,2001,5,GEO
+Guatemala,2001,5,GTM
+Guyana,2001,5,GUY
+Jamaica,2001,5,JAM
+Kazakhstan,2001,5,KAZ
+Kuwait,2001,5,KWT
+Kyrgyzstan,2001,5,KGZ
+Latvia,2001,5,LVA
+Lesotho,2001,5,LSO
+Malawi,2001,5,MWI
+Maldives,2001,5,MDV
+Mongolia,2001,5,MNG
+Morocco,2001,5,MAR
+Mozambique,2001,5,MOZ
+New Caledonia,2001,5,NCL
+Paraguay,2001,5,PRY
+Qatar,2001,5,QAT
+Samoa,2001,5,WSM
+Saudi Arabia,2001,5,SAU
+Senegal,2001,5,SEN
+Sudan,2001,5,SDN
+Tajikistan,2001,5,TJK
+Vanuatu,2001,5,VUT
+Austria,2001,5,AUT
+Bangladesh,2001,5,BGD
+Brazil,2001,5,BRA
+Canada,2001,5,CAN
+Chile,2001,5,CHL
+Colombia,2001,5,COL
+Croatia,2001,5,HRV
+Ecuador,2001,5,ECU
+Ethiopia,2001,5,ETH
+France,2001,5,FRA
+Greece,2001,5,GRC
+Iran,2001,5,IRN
+Iraq,2001,5,IRQ
+Ireland,2001,5,IRL
+Israel,2001,5,ISR
+Italy,2001,5,ITA
+Kiribati,2001,5,KIR
+Malta,2001,5,MLT
+Mexico,2001,5,MEX
+Myanmar,2001,5,MMR
+Nepal,2001,5,NPL
+Netherlands,2001,5,NLD
+Pakistan,2001,5,PAK
+Peru,2001,5,PER
+Philippines,2001,5,PHL
+Portugal,2001,5,PRT
+Romania,2001,5,ROU
+Somalia,2001,5,SOM
+Syria,2001,5,SYR
+Taiwan,2001,5,TWN
+Thailand,2001,5,THA
+Turkey,2001,5,TUR
+Ukraine,2001,5,UKR
+United States of America,2001,5,USA
+Uruguay,2001,5,URY
+Zimbabwe,2001,5,ZWE
+Niger,2001,6,NGA
+Bahamas,2001,6,BHS
+Haiti,2001,6,HTI
+Uganda,2001,6,UGA
+United Arab Emirates,2001,6,ARE
+Argentina,2001,6,ARG
+Japan,2001,6,JPN
+Tunisia,2001,7,TUN
+Cameroon,2001,7,CMR
+Djibouti,2001,7,DJI
+Madagascar,2001,7,MDG
+Armenia,2001,7,ARM
+Cyprus,2001,7,CYP
+Trinidad and Tobago,2001,7,TTO
+Botswana,2001,8,BWA
+Nauru,2001,8,NRU
+India,2001,8,IND
+French Polynesia,2001,9,PYF
+Burundi,2001,9,BDI
+Guinea,2001,9,GIN
+Estonia,2001,9,EST
+Yemen,2001,9,YEM
+Congo,2001,10,COG
+Tonga,2001,10,TON
+Belarus,2001,11,BLR
+Eritrea,2001,12,ERI
+Moldova,2001,12,MDA
+Libya,2001,13,LBY
+Angola,2001,13,AGO
+Lithuania,2001,13,LTU
+Solomon Islands,2001,15,SLB
+Oman,2001,17,OMN
+Slovenia,2001,17,SVN
+Brunei Darussalam,2001,20,BRN
+Finland,2001,20,FIN
+Tanzania,2001,20,TZA
+Uzbekistan,2001,21,UZB
+Spain,2001,22,ESP
+Namibia,2001,23,NAM
+Seychelles,2001,25,SYC
+Niue,2001,28,NIU
+Ghana,2001,28,GHA
+Hungary,2001,30,HUN
+Tokelau,2001,32,TKL
+Norway,2001,33,NOR
+Indonesia,2001,33,IDN
+Fiji,2001,39,FJI
+Papua New Guinea,2001,40,PNG
+Lebanon,2001,40,LBN
+Venezuela,2001,49,VEN
+Zambia,2001,49,ZMB
+Czech Republic,2001,50,CZE
+Slovakia,2001,51,SVK
+"Korea, Republic of",2001,57,KOR
+Bulgaria,2001,59,BGR
+Poland,2001,60,POL
+Jordan,2001,72,JOR
+Belgium,2001,78,BEL
+Nigeria,2001,81,NGA
+Denmark,2001,111,DNK
+Liberia,2001,113,LBR
+Cook Islands,2001,124,COK
+Sweden,2001,126,SWE
+Sri Lanka,2001,150,LKA
+United Kingdom,2001,156,GBR
+Mauritius,2001,162,MUS
+Switzerland,2001,184,CHE
+Vietnam,2001,229,VNM
+Russian Federation,2001,306,RUS
+Kenya,2001,314,KEN
+Sierra Leone,2001,333,SLE
+Bosnia and Herzegovina,2001,409,BIH
+Egypt,2001,444,EGY
+Cambodia,2001,575,KHM
+Afghanistan,2001,655,AFG
+China,2001,705,CHN
+Germany,2001,1243,DEU
+Singapore,2001,1807,SGP
+Malaysia,2001,2055,MYS
+South Africa,2001,7533,ZAF
+New Zealand,2001,15670,NZL
+Guam,2002,5,GUM
+Marshall Islands,2002,5,MHL
+Tuvalu,2002,5,TUV
+Wallis and Futuna,2002,5,WLF
+Gibraltar,2002,5,GIB
+Liechtenstein,2002,5,LIE
+Luxembourg,2002,5,LUX
+Monaco,2002,5,MCO
+Tajikistan,2002,5,TJK
+Turkmenistan,2002,5,TKM
+Mauritania,2002,5,MRT
+Western Sahara,2002,5,ESH
+Angola,2002,5,AGO
+Burkina Faso,2002,5,BFA
+Gabon,2002,5,GAB
+Gambia,2002,5,GMB
+Guinea-Bissau,2002,5,GNB
+Lesotho,2002,5,LSO
+Mali,2002,5,MLI
+Mayotte,2002,5,FRA
+Niger,2002,5,NGA
+Reunion,2002,5,REU
+Togo,2002,5,TGO
+Bhutan,2002,5,BTN
+Maldives,2002,5,MDV
+Bahamas,2002,5,BHS
+Belize,2002,5,BLZ
+Costa Rica,2002,5,CRI
+Dominica,2002,5,DMA
+Falkland Islands,2002,5,FLK
+French Guiana,2002,5,GUF
+Grenada,2002,5,GRD
+Guadeloupe,2002,5,FRA
+Guatemala,2002,5,GTM
+Haiti,2002,5,HTI
+Honduras,2002,5,HND
+Nicaragua,2002,5,NIC
+Panama,2002,5,PAN
+Paraguay,2002,5,PRY
+Puerto Rico,2002,5,PRI
+Cote d'Ivoire,2002,5,CIV
+Faroe Islands,2002,5,FRO
+Comoros,2002,5,COM
+Réunion,2002,5,REU
+American Samoa,2002,5,ASM
+Algeria,2002,5,DZA
+Azerbaijan,2002,5,AZE
+Bahrain,2002,5,BHR
+Barbados,2002,5,BRB
+Bolivia,2002,5,BOL
+Cameroon,2002,5,CMR
+Dominican Republic,2002,5,DOM
+El Salvador,2002,5,SLV
+French Polynesia,2002,5,PYF
+Georgia,2002,5,GEO
+Iceland,2002,5,ISL
+Kiribati,2002,5,KIR
+Kuwait,2002,5,KWT
+Liberia,2002,5,LBR
+Madagascar,2002,5,MDG
+Morocco,2002,5,MAR
+Mozambique,2002,5,MOZ
+Oman,2002,5,OMN
+Qatar,2002,5,QAT
+Rwanda,2002,5,RWA
+Saudi Arabia,2002,5,SAU
+Trinidad and Tobago,2002,5,TTO
+United Arab Emirates,2002,5,ARE
+Uruguay,2002,5,URY
+Yemen,2002,5,YEM
+Bangladesh,2002,5,BGD
+Chile,2002,5,CHL
+Colombia,2002,5,COL
+Cuba,2002,5,CUB
+Czech Republic,2002,5,CZE
+Denmark,2002,5,DNK
+Ecuador,2002,5,ECU
+Greece,2002,5,GRC
+Iran,2002,5,IRN
+Israel,2002,5,ISR
+Japan,2002,5,JPN
+Jordan,2002,5,JOR
+Korea,2002,5,PRK
+Latvia,2002,5,LVA
+Malaysia,2002,5,MYS
+Malta,2002,5,MLT
+Pakistan,2002,5,PAK
+Poland,2002,5,POL
+Romania,2002,5,ROU
+Russian Federation,2002,5,RUS
+Spain,2002,5,ESP
+Sweden,2002,5,SWE
+Switzerland,2002,5,CHE
+Taiwan,2002,5,TWN
+Tanzania,2002,5,TZA
+Thailand,2002,5,THA
+Turkey,2002,5,TUR
+Ukraine,2002,5,UKR
+United States of America,2002,5,USA
+Vietnam,2002,5,VNM
+"Micronesia, Federated States of",2002,6,FSM
+Afghanistan,2002,6,AFG
+Samoa,2002,6,WSM
+Vanuatu,2002,6,VUT
+Argentina,2002,6,ARG
+Canada,2002,6,CAN
+Papua New Guinea,2002,6,PNG
+Portugal,2002,6,PRT
+Djibouti,2002,7,DJI
+Guyana,2002,7,GUY
+Suriname,2002,7,SUR
+Lithuania,2002,7,LTU
+Sudan,2002,7,SDN
+Italy,2002,7,ITA
+Côte d'Ivoire,2002,8,CIV
+Senegal,2002,8,SEN
+Bermuda,2002,8,BMU
+Burundi,2002,9,BDI
+Estonia,2002,9,EST
+Slovenia,2002,9,SVN
+India,2002,9,IND
+Lebanon,2002,9,LBN
+Nauru,2002,10,NRU
+Kazakhstan,2002,10,KAZ
+Kyrgyzstan,2002,10,KGZ
+Uganda,2002,10,UGA
+Cyprus,2002,11,CYP
+Malawi,2002,11,MWI
+Mongolia,2002,11,MNG
+Netherlands,2002,11,NLD
+Ireland,2002,12,IRL
+Croatia,2002,13,HRV
+Uzbekistan,2002,14,UZB
+Jamaica,2002,14,JAM
+Ethiopia,2002,14,ETH
+Tonga,2002,14,TON
+Tokelau,2002,15,TKL
+Moldova,2002,15,MDA
+Botswana,2002,17,BWA
+New Caledonia,2002,20,NCL
+Belarus,2002,20,BLR
+Armenia,2002,20,ARM
+Syria,2002,20,SYR
+Niue,2002,21,NIU
+Libya,2002,21,LBY
+Philippines,2002,21,PHL
+Finland,2002,22,FIN
+Mexico,2002,22,MEX
+Seychelles,2002,23,SYC
+Congo,2002,25,COG
+Guinea,2002,25,GIN
+Zambia,2002,26,ZMB
+Tunisia,2002,27,TUN
+Solomon Islands,2002,33,SLB
+Ghana,2002,34,GHA
+Iraq,2002,36,IRQ
+Brunei Darussalam,2002,38,BRN
+Fiji,2002,38,FJI
+Peru,2002,39,PER
+Bulgaria,2002,43,BGR
+Namibia,2002,45,NAM
+Venezuela,2002,48,VEN
+Hungary,2002,52,HUN
+Slovakia,2002,59,SVK
+Nigeria,2002,63,NGA
+Myanmar,2002,68,MMR
+Norway,2002,72,NOR
+Cook Islands,2002,82,COK
+Austria,2002,83,AUT
+Sri Lanka,2002,85,LKA
+Belgium,2002,90,BEL
+Brazil,2002,103,BRA
+Eritrea,2002,111,ERI
+Indonesia,2002,136,IDN
+Albania,2002,137,ALB
+United Kingdom,2002,145,GBR
+Bosnia and Herzegovina,2002,169,BIH
+"Korea, Republic of",2002,175,KOR
+Sierra Leone,2002,176,SLE
+Mauritius,2002,202,MUS
+Somalia,2002,210,SOM
+China,2002,285,CHN
+Kenya,2002,313,KEN
+Nepal,2002,339,NPL
+France,2002,342,FRA
+Egypt,2002,646,EGY
+Cambodia,2002,672,KHM
+Zimbabwe,2002,1131,ZWE
+Germany,2002,1242,DEU
+Singapore,2002,2308,SGP
+South Africa,2002,6306,ZAF
+New Zealand,2002,12374,NZL
+Marshall Islands,2003,5,MHL
+Northern Mariana Islands,2003,5,MNP
+Tuvalu,2003,5,TUV
+Liechtenstein,2003,5,LIE
+Luxembourg,2003,5,LUX
+Monaco,2003,5,MCO
+Tajikistan,2003,5,TJK
+Turkmenistan,2003,5,TKM
+Angola,2003,5,AGO
+Burkina Faso,2003,5,BFA
+Côte d'Ivoire,2003,5,CIV
+Djibouti,2003,5,DJI
+Gabon,2003,5,GAB
+Lesotho,2003,5,LSO
+Mali,2003,5,MLI
+Niger,2003,5,NGA
+Togo,2003,5,TGO
+Bhutan,2003,5,BTN
+Bermuda,2003,5,BMU
+Barbados,2003,5,BRB
+Belize,2003,5,BLZ
+Cayman Islands,2003,5,CYM
+Dominica,2003,5,DMA
+Dominican Republic,2003,5,DOM
+Falkland Islands,2003,5,FLK
+French Guiana,2003,5,GUF
+Grenada,2003,5,GRD
+Guadeloupe,2003,5,FRA
+Haiti,2003,5,HTI
+Honduras,2003,5,HND
+Nicaragua,2003,5,NIC
+Panama,2003,5,PAN
+Puerto Rico,2003,5,PRI
+Suriname,2003,5,SUR
+Cote d'Ivoire,2003,5,CIV
+"Virgin Islands, British ",2003,5,VGB
+Réunion,2003,5,REU
+Albania,2003,5,ALB
+Algeria,2003,5,DZA
+Bahrain,2003,5,BHR
+Bolivia,2003,5,BOL
+Botswana,2003,5,BWA
+Cameroon,2003,5,CMR
+Cuba,2003,5,CUB
+El Salvador,2003,5,SLV
+Estonia,2003,5,EST
+French Polynesia,2003,5,PYF
+Georgia,2003,5,GEO
+Guatemala,2003,5,GTM
+Guinea,2003,5,GIN
+Iceland,2003,5,ISL
+Jamaica,2003,5,JAM
+Mauritania,2003,5,MRT
+Morocco,2003,5,MAR
+Mozambique,2003,5,MOZ
+Nauru,2003,5,NRU
+New Caledonia,2003,5,NCL
+Paraguay,2003,5,PRY
+Qatar,2003,5,QAT
+Reunion,2003,5,REU
+Saudi Arabia,2003,5,SAU
+Senegal,2003,5,SEN
+Yemen,2003,5,YEM
+Bangladesh,2003,5,BGD
+Canada,2003,5,CAN
+Chile,2003,5,CHL
+Colombia,2003,5,COL
+Croatia,2003,5,HRV
+Cyprus,2003,5,CYP
+Finland,2003,5,FIN
+France,2003,5,FRA
+Greece,2003,5,GRC
+Iran,2003,5,IRN
+Israel,2003,5,ISR
+Japan,2003,5,JPN
+Kazakhstan,2003,5,KAZ
+Korea,2003,5,PRK
+Latvia,2003,5,LVA
+Lebanon,2003,5,LBN
+Malaysia,2003,5,MYS
+Malta,2003,5,MLT
+Mexico,2003,5,MEX
+Myanmar,2003,5,MMR
+Nepal,2003,5,NPL
+Netherlands,2003,5,NLD
+Norway,2003,5,NOR
+Pakistan,2003,5,PAK
+Papua New Guinea,2003,5,PNG
+Poland,2003,5,POL
+Portugal,2003,5,PRT
+Romania,2003,5,ROU
+Russian Federation,2003,5,RUS
+Sierra Leone,2003,5,SLE
+Singapore,2003,5,SGP
+Spain,2003,5,ESP
+Sweden,2003,5,SWE
+Switzerland,2003,5,CHE
+Vietnam,2003,5,VNM
+Zimbabwe,2003,5,ZWE
+Gibraltar,2003,6,GIB
+Bahamas,2003,6,BHS
+Costa Rica,2003,6,CRI
+Italy,2003,6,ITA
+Kiribati,2003,7,KIR
+Tunisia,2003,7,TUN
+Mongolia,2003,7,MNG
+Vanuatu,2003,7,VUT
+United States of America,2003,7,USA
+Madagascar,2003,8,MDG
+Armenia,2003,8,ARM
+Eritrea,2003,8,ERI
+Maldives,2003,8,MDV
+Philippines,2003,8,PHL
+Guam,2003,9,GUM
+Sudan,2003,9,SDN
+Guyana,2003,10,GUY
+Lithuania,2003,10,LTU
+Samoa,2003,10,WSM
+Kuwait,2003,11,KWT
+Malawi,2003,11,MWI
+India,2003,12,IND
+Azerbaijan,2003,13,AZE
+Slovenia,2003,13,SVN
+Uganda,2003,13,UGA
+Solomon Islands,2003,14,SLB
+Trinidad and Tobago,2003,14,TTO
+Oman,2003,15,OMN
+Turkey,2003,15,TUR
+Kyrgyzstan,2003,16,KGZ
+Tonga,2003,16,TON
+Moldova,2003,19,MDA
+Tanzania,2003,19,TZA
+Uruguay,2003,19,URY
+Uzbekistan,2003,20,UZB
+Belarus,2003,22,BLR
+Ethiopia,2003,22,ETH
+Namibia,2003,24,NAM
+Ghana,2003,25,GHA
+Tokelau,2003,28,TKL
+Seychelles,2003,29,SYC
+Syria,2003,29,SYR
+Libya,2003,30,LBY
+Niue,2003,32,NIU
+United Arab Emirates,2003,32,ARE
+Fiji,2003,32,FJI
+Zambia,2003,44,ZMB
+Rwanda,2003,47,RWA
+Peru,2003,51,PER
+Venezuela,2003,52,VEN
+Belgium,2003,54,BEL
+Brunei Darussalam,2003,54,BRN
+Ecuador,2003,55,ECU
+Iraq,2003,55,IRQ
+Burundi,2003,59,BDI
+Indonesia,2003,59,IDN
+Czech Republic,2003,62,CZE
+Slovakia,2003,63,SVK
+Bulgaria,2003,64,BGR
+Austria,2003,66,AUT
+Hungary,2003,70,HUN
+Denmark,2003,73,DNK
+Sri Lanka,2003,103,LKA
+Cook Islands,2003,108,COK
+United Kingdom,2003,117,GBR
+Liberia,2003,118,LBR
+"Korea, Republic of",2003,123,KOR
+Brazil,2003,127,BRA
+Bosnia and Herzegovina,2003,131,BIH
+Nigeria,2003,133,NGA
+Ukraine,2003,139,UKR
+Congo,2003,140,COG
+Jordan,2003,182,JOR
+Somalia,2003,224,SOM
+China,2003,229,CHN
+Mauritius,2003,265,MUS
+Argentina,2003,357,ARG
+Kenya,2003,364,KEN
+Thailand,2003,464,THA
+Cambodia,2003,636,KHM
+Egypt,2003,819,EGY
+Taiwan,2003,824,TWN
+Ireland,2003,851,IRL
+Afghanistan,2003,1253,AFG
+Germany,2003,1359,DEU
+South Africa,2003,7578,ZAF
+New Zealand,2003,14425,NZL
+Guam,2004,5,GUM
+Tajikistan,2004,5,TJK
+Turkmenistan,2004,5,TKM
+Mauritania,2004,5,MRT
+Tunisia,2004,5,TUN
+Angola,2004,5,AGO
+Benin,2004,5,BEN
+Central African Republic,2004,5,CAF
+Chad,2004,5,TCD
+Gabon,2004,5,GAB
+Gambia,2004,5,GMB
+Madagascar,2004,5,MDG
+Mali,2004,5,MLI
+Bermuda,2004,5,BMU
+Bahamas,2004,5,BHS
+Barbados,2004,5,BRB
+Belize,2004,5,BLZ
+Cayman Islands,2004,5,CYM
+Dominica,2004,5,DMA
+Falkland Islands,2004,5,FLK
+Grenada,2004,5,GRD
+Guadeloupe,2004,5,FRA
+Guatemala,2004,5,GTM
+Nicaragua,2004,5,NIC
+Puerto Rico,2004,5,PRI
+Suriname,2004,5,SUR
+Cote d'Ivoire,2004,5,CIV
+"Micronesia, Federated States of",2004,5,FSM
+"Virgin Islands, British ",2004,5,VGB
+Réunion,2004,5,REU
+American Samoa,2004,5,ASM
+Afghanistan,2004,5,AFG
+Algeria,2004,5,DZA
+Armenia,2004,5,ARM
+Azerbaijan,2004,5,AZE
+Bahrain,2004,5,BHR
+Cameroon,2004,5,CMR
+Costa Rica,2004,5,CRI
+Cuba,2004,5,CUB
+Cyprus,2004,5,CYP
+El Salvador,2004,5,SLV
+Estonia,2004,5,EST
+Ethiopia,2004,5,ETH
+Georgia,2004,5,GEO
+Guyana,2004,5,GUY
+Honduras,2004,5,HND
+Iceland,2004,5,ISL
+Korea,2004,5,PRK
+Kuwait,2004,5,KWT
+Malawi,2004,5,MWI
+New Caledonia,2004,5,NCL
+Niger,2004,5,NGA
+Panama,2004,5,PAN
+Rwanda,2004,5,RWA
+Samoa,2004,5,WSM
+Saudi Arabia,2004,5,SAU
+Sudan,2004,5,SDN
+Tuvalu,2004,5,TUV
+Vatican City,2004,5,VAT
+Yemen,2004,5,YEM
+Bangladesh,2004,5,BGD
+Canada,2004,5,CAN
+Colombia,2004,5,COL
+Croatia,2004,5,HRV
+Finland,2004,5,FIN
+Greece,2004,5,GRC
+India,2004,5,IND
+Iran,2004,5,IRN
+Lebanon,2004,5,LBN
+Malaysia,2004,5,MYS
+Malta,2004,5,MLT
+Mauritius,2004,5,MUS
+Myanmar,2004,5,MMR
+Pakistan,2004,5,PAK
+Peru,2004,5,PER
+Poland,2004,5,POL
+Russian Federation,2004,5,RUS
+Spain,2004,5,ESP
+Taiwan,2004,5,TWN
+Thailand,2004,5,THA
+Turkey,2004,5,TUR
+Ukraine,2004,5,UKR
+Vietnam,2004,5,VNM
+Gibraltar,2004,6,GIB
+Luxembourg,2004,6,LUX
+Dominican Republic,2004,6,DOM
+Paraguay,2004,6,PRY
+Bolivia,2004,6,BOL
+United Arab Emirates,2004,6,ARE
+Kiribati,2004,7,KIR
+Senegal,2004,7,SEN
+Mongolia,2004,7,MNG
+Morocco,2004,7,MAR
+Mozambique,2004,7,MOZ
+Vanuatu,2004,7,VUT
+Ecuador,2004,8,ECU
+Oman,2004,8,OMN
+Trinidad and Tobago,2004,8,TTO
+Argentina,2004,8,ARG
+Djibouti,2004,9,DJI
+Lesotho,2004,9,LSO
+Togo,2004,9,TGO
+Jamaica,2004,9,JAM
+Albania,2004,10,ALB
+Nauru,2004,10,NRU
+Netherlands,2004,10,NLD
+Philippines,2004,10,PHL
+Qatar,2004,11,QAT
+Moldova,2004,11,MDA
+Tanzania,2004,11,TZA
+Italy,2004,11,ITA
+French Polynesia,2004,12,PYF
+Botswana,2004,12,BWA
+Seychelles,2004,12,SYC
+Slovenia,2004,13,SVN
+Tonga,2004,13,TON
+Fiji,2004,13,FJI
+Kyrgyzstan,2004,14,KGZ
+United States of America,2004,14,USA
+Lithuania,2004,16,LTU
+Uruguay,2004,16,URY
+Latvia,2004,20,LVA
+Uganda,2004,22,UGA
+Maldives,2004,23,MDV
+Belarus,2004,23,BLR
+Indonesia,2004,23,IDN
+Libya,2004,24,LBY
+Kazakhstan,2004,24,KAZ
+Tokelau,2004,27,TKL
+Namibia,2004,27,NAM
+Ghana,2004,29,GHA
+Uzbekistan,2004,29,UZB
+Brunei Darussalam,2004,30,BRN
+Zambia,2004,31,ZMB
+"Korea, Republic of",2004,33,KOR
+Sri Lanka,2004,34,LKA
+Niue,2004,35,NIU
+Solomon Islands,2004,35,SLB
+Syria,2004,42,SYR
+Bulgaria,2004,51,BGR
+Iraq,2004,54,IRQ
+China,2004,56,CHN
+Austria,2004,58,AUT
+Papua New Guinea,2004,59,PNG
+Belgium,2004,63,BEL
+Chile,2004,64,CHL
+Norway,2004,65,NOR
+Czech Republic,2004,68,CZE
+Slovakia,2004,69,SVK
+Mexico,2004,69,MEX
+Hungary,2004,75,HUN
+Denmark,2004,83,DNK
+Cook Islands,2004,91,COK
+Portugal,2004,93,PRT
+Bosnia and Herzegovina,2004,108,BIH
+Côte d'Ivoire,2004,111,CIV
+Nigeria,2004,113,NGA
+United Kingdom,2004,126,GBR
+Eritrea,2004,133,ERI
+Romania,2004,137,ROU
+Venezuela,2004,138,VEN
+Switzerland,2004,139,CHE
+Sweden,2004,141,SWE
+Guinea,2004,154,GIN
+Jordan,2004,211,JOR
+Brazil,2004,212,BRA
+Somalia,2004,257,SOM
+Burundi,2004,262,BDI
+Congo,2004,285,COG
+Kenya,2004,319,KEN
+France,2004,355,FRA
+Israel,2004,408,ISR
+Nepal,2004,421,NPL
+Sierra Leone,2004,642,SLE
+Cambodia,2004,699,KHM
+Liberia,2004,851,LBR
+Japan,2004,878,JPN
+Zimbabwe,2004,935,ZWE
+Egypt,2004,957,EGY
+Ireland,2004,1000,IRL
+Germany,2004,1502,DEU
+Singapore,2004,3189,SGP
+South Africa,2004,6313,ZAF
+New Zealand,2004,17358,NZL
+Guam,2005,5,GUM
+Kiribati,2005,5,KIR
+Marshall Islands,2005,5,MHL
+Palau,2005,5,PLW
+Tuvalu,2005,5,TUV
+Greenland,2005,5,GRL
+Iceland,2005,5,ISL
+Luxembourg,2005,5,LUX
+Monaco,2005,5,MCO
+Tajikistan,2005,5,TJK
+Mauritania,2005,5,MRT
+Benin,2005,5,BEN
+Chad,2005,5,TCD
+Djibouti,2005,5,DJI
+Gabon,2005,5,GAB
+Gambia,2005,5,GMB
+Guinea-Bissau,2005,5,GNB
+Lesotho,2005,5,LSO
+Madagascar,2005,5,MDG
+Mali,2005,5,MLI
+Togo,2005,5,TGO
+Antigua and Barbuda,2005,5,ATG
+Bahamas,2005,5,BHS
+Cayman Islands,2005,5,CYM
+Falkland Islands,2005,5,FLK
+French Guiana,2005,5,GUF
+Grenada,2005,5,GRD
+Haiti,2005,5,HTI
+Honduras,2005,5,HND
+Montserrat,2005,5,MSR
+Puerto Rico,2005,5,PRI
+Suriname,2005,5,SUR
+Turks and Caicos Islands,2005,5,TCA
+Cote d'Ivoire,2005,5,CIV
+Comoros,2005,5,COM
+Réunion,2005,5,REU
+American Samoa,2005,5,ASM
+British Indian Ocean Terr,2005,5,IOT
+Korea,2005,5,PRK
+Algeria,2005,5,DZA
+Armenia,2005,5,ARM
+Bahrain,2005,5,BHR
+Bhutan,2005,5,BTN
+Bolivia,2005,5,BOL
+Congo,2005,5,COG
+Costa Rica,2005,5,CRI
+Cuba,2005,5,CUB
+Cyprus,2005,5,CYP
+Dominica,2005,5,DMA
+Dominican Republic,2005,5,DOM
+El Salvador,2005,5,SLV
+Eritrea,2005,5,ERI
+French Polynesia,2005,5,PYF
+Georgia,2005,5,GEO
+Guatemala,2005,5,GTM
+Guyana,2005,5,GUY
+Jamaica,2005,5,JAM
+Kuwait,2005,5,KWT
+Mongolia,2005,5,MNG
+Morocco,2005,5,MAR
+New Caledonia,2005,5,NCL
+Nicaragua,2005,5,NIC
+Qatar,2005,5,QAT
+Samoa,2005,5,WSM
+Sierra Leone,2005,5,SLE
+Solomon Islands,2005,5,SLB
+Trinidad and Tobago,2005,5,TTO
+Tunisia,2005,5,TUN
+Turkmenistan,2005,5,TKM
+Albania,2005,5,ALB
+Bangladesh,2005,5,BGD
+Canada,2005,5,CAN
+Colombia,2005,5,COL
+Denmark,2005,5,DNK
+Finland,2005,5,FIN
+Iran,2005,5,IRN
+Italy,2005,5,ITA
+Japan,2005,5,JPN
+Lebanon,2005,5,LBN
+Myanmar,2005,5,MMR
+Nauru,2005,5,NRU
+Nepal,2005,5,NPL
+Netherlands,2005,5,NLD
+Papua New Guinea,2005,5,PNG
+Poland,2005,5,POL
+Portugal,2005,5,PRT
+Russian Federation,2005,5,RUS
+Singapore,2005,5,SGP
+Spain,2005,5,ESP
+Syria,2005,5,SYR
+Thailand,2005,5,THA
+Turkey,2005,5,TUR
+Ukraine,2005,5,UKR
+Vietnam,2005,5,VNM
+Gibraltar,2005,6,GIB
+Cameroon,2005,6,CMR
+Niger,2005,6,NGA
+Philippines,2005,6,PHL
+Yemen,2005,7,YEM
+Estonia,2005,7,EST
+Oman,2005,7,OMN
+Angola,2005,8,AGO
+Barbados,2005,8,BRB
+Azerbaijan,2005,8,AZE
+Paraguay,2005,8,PRY
+Bermuda,2005,9,BMU
+Ecuador,2005,9,ECU
+Moldova,2005,9,MDA
+Sudan,2005,9,SDN
+Uganda,2005,9,UGA
+United States of America,2005,9,USA
+Latvia,2005,10,LVA
+Lithuania,2005,10,LTU
+Malawi,2005,11,MWI
+Saudi Arabia,2005,11,SAU
+Somalia,2005,11,SOM
+India,2005,11,IND
+Panama,2005,12,PAN
+Sri Lanka,2005,13,LKA
+Senegal,2005,14,SEN
+Mozambique,2005,15,MOZ
+Botswana,2005,16,BWA
+Maldives,2005,17,MDV
+Croatia,2005,17,HRV
+United Arab Emirates,2005,17,ARE
+Kyrgyzstan,2005,18,KGZ
+Uzbekistan,2005,18,UZB
+Indonesia,2005,18,IDN
+Namibia,2005,20,NAM
+Uruguay,2005,20,URY
+Ethiopia,2005,21,ETH
+Tanzania,2005,21,TZA
+Fiji,2005,21,FJI
+Tonga,2005,22,TON
+Slovenia,2005,23,SVN
+Vanuatu,2005,24,VUT
+Niue,2005,25,NIU
+Kazakhstan,2005,27,KAZ
+Libya,2005,28,LBY
+China,2005,28,CHN
+Seychelles,2005,29,SYC
+Tokelau,2005,31,TKL
+Malta,2005,32,MLT
+Greece,2005,34,GRC
+Belarus,2005,36,BLR
+Iraq,2005,41,IRQ
+Chile,2005,42,CHL
+"Korea, Republic of",2005,42,KOR
+Brunei Darussalam,2005,48,BRN
+Ghana,2005,48,GHA
+Bulgaria,2005,49,BGR
+Zambia,2005,50,ZMB
+Côte d'Ivoire,2005,56,CIV
+Slovakia,2005,61,SVK
+Nigeria,2005,61,NGA
+Austria,2005,67,AUT
+Rwanda,2005,68,RWA
+Norway,2005,74,NOR
+United Kingdom,2005,74,GBR
+Hungary,2005,77,HUN
+Belgium,2005,85,BEL
+Cook Islands,2005,98,COK
+Czech Republic,2005,102,CZE
+Guinea,2005,103,GIN
+Bosnia and Herzegovina,2005,120,BIH
+Mexico,2005,121,MEX
+Sweden,2005,124,SWE
+Romania,2005,130,ROU
+Switzerland,2005,136,CHE
+Jordan,2005,178,JOR
+Argentina,2005,185,ARG
+Venezuela,2005,188,VEN
+Peru,2005,203,PER
+Brazil,2005,274,BRA
+Israel,2005,349,ISR
+Kenya,2005,353,KEN
+France,2005,372,FRA
+Mauritius,2005,428,MUS
+Burundi,2005,443,BDI
+Liberia,2005,567,LBR
+Cambodia,2005,671,KHM
+Taiwan,2005,710,TWN
+Egypt,2005,913,EGY
+Zimbabwe,2005,1004,ZWE
+Pakistan,2005,1156,PAK
+Ireland,2005,1194,IRL
+Germany,2005,1631,DEU
+Afghanistan,2005,2567,AFG
+Malaysia,2005,4172,MYS
+South Africa,2005,5512,ZAF
+New Zealand,2005,19046,NZL
+Guam,2006,5,GUM
+Northern Mariana Islands,2006,5,MNP
+Tuvalu,2006,5,TUV
+Wallis and Futuna,2006,5,WLF
+Liechtenstein,2006,5,LIE
+Luxembourg,2006,5,LUX
+Tajikistan,2006,5,TJK
+Mauritania,2006,5,MRT
+Burkina Faso,2006,5,BFA
+Central African Republic,2006,5,CAF
+Chad,2006,5,TCD
+Gabon,2006,5,GAB
+Lesotho,2006,5,LSO
+Mali,2006,5,MLI
+Bhutan,2006,5,BTN
+Bermuda,2006,5,BMU
+Antigua and Barbuda,2006,5,ATG
+Bahamas,2006,5,BHS
+Belize,2006,5,BLZ
+Cayman Islands,2006,5,CYM
+Dominican Republic,2006,5,DOM
+Falkland Islands,2006,5,FLK
+Guadeloupe,2006,5,FRA
+Haiti,2006,5,HTI
+Honduras,2006,5,HND
+Paraguay,2006,5,PRY
+Suriname,2006,5,SUR
+Cote d'Ivoire,2006,5,CIV
+"Micronesia, Federated States of",2006,5,FSM
+Faroe Islands,2006,5,FRO
+Montenegro,2006,5,MNE
+Comoros,2006,5,COM
+Réunion,2006,5,REU
+Algeria,2006,5,DZA
+Andorra,2006,5,AND
+Azerbaijan,2006,5,AZE
+Barbados,2006,5,BRB
+Benin,2006,5,BEN
+Cameroon,2006,5,CMR
+Congo,2006,5,COG
+Costa Rica,2006,5,CRI
+Ecuador,2006,5,ECU
+Eritrea,2006,5,ERI
+French Polynesia,2006,5,PYF
+Guatemala,2006,5,GTM
+Guyana,2006,5,GUY
+Jamaica,2006,5,JAM
+Kiribati,2006,5,KIR
+Kuwait,2006,5,KWT
+Madagascar,2006,5,MDG
+Morocco,2006,5,MAR
+Mozambique,2006,5,MOZ
+Nicaragua,2006,5,NIC
+Niger,2006,5,NGA
+Panama,2006,5,PAN
+Puerto Rico,2006,5,PRI
+Qatar,2006,5,QAT
+Samoa,2006,5,WSM
+Saudi Arabia,2006,5,SAU
+Sudan,2006,5,SDN
+Turkmenistan,2006,5,TKM
+Yemen,2006,5,YEM
+Albania,2006,5,ALB
+Canada,2006,5,CAN
+Chile,2006,5,CHL
+China,2006,5,CHN
+Colombia,2006,5,COL
+Ireland,2006,5,IRL
+Israel,2006,5,ISR
+Italy,2006,5,ITA
+Korea,2006,5,PRK
+Lebanon,2006,5,LBN
+Malta,2006,5,MLT
+Mexico,2006,5,MEX
+Netherlands,2006,5,NLD
+Norway,2006,5,NOR
+Pakistan,2006,5,PAK
+Poland,2006,5,POL
+Spain,2006,5,ESP
+Turkey,2006,5,TUR
+Vietnam,2006,5,VNM
+Djibouti,2006,6,DJI
+Gambia,2006,6,GMB
+Iceland,2006,6,ISL
+Vanuatu,2006,6,VUT
+France,2006,6,FRA
+India,2006,6,IND
+Bahrain,2006,7,BHR
+Sri Lanka,2006,7,LKA
+Tonga,2006,7,TON
+Senegal,2006,8,SEN
+Oman,2006,8,OMN
+Sierra Leone,2006,8,SLE
+Gibraltar,2006,9,GIB
+Armenia,2006,9,ARM
+Cuba,2006,9,CUB
+Cyprus,2006,9,CYP
+Kyrgyzstan,2006,9,KGZ
+Latvia,2006,9,LVA
+Lithuania,2006,9,LTU
+Somalia,2006,9,SOM
+Indonesia,2006,9,IDN
+Georgia,2006,10,GEO
+Trinidad and Tobago,2006,11,TTO
+New Caledonia,2006,12,NCL
+Tunisia,2006,12,TUN
+Bolivia,2006,12,BOL
+Namibia,2006,12,NAM
+Uruguay,2006,12,URY
+El Salvador,2006,13,SLV
+Moldova,2006,13,MDA
+Uganda,2006,13,UGA
+Tokelau,2006,14,TKL
+Belarus,2006,15,BLR
+Estonia,2006,15,EST
+Ethiopia,2006,15,ETH
+United States of America,2006,15,USA
+Nauru,2006,16,NRU
+Seychelles,2006,16,SYC
+Solomon Islands,2006,16,SLB
+Angola,2006,17,AGO
+Maldives,2006,17,MDV
+Mongolia,2006,17,MNG
+Botswana,2006,18,BWA
+Croatia,2006,18,HRV
+"Korea, Republic of",2006,19,KOR
+Tanzania,2006,21,TZA
+United Arab Emirates,2006,21,ARE
+Fiji,2006,21,FJI
+Uzbekistan,2006,23,UZB
+Greece,2006,24,GRC
+Malawi,2006,25,MWI
+Niue,2006,27,NIU
+Kazakhstan,2006,28,KAZ
+Iraq,2006,30,IRQ
+Libya,2006,32,LBY
+Brunei Darussalam,2006,32,BRN
+Slovenia,2006,39,SVN
+Ghana,2006,41,GHA
+Bulgaria,2006,45,BGR
+Togo,2006,50,TGO
+Syria,2006,52,SYR
+Zambia,2006,52,ZMB
+Finland,2006,61,FIN
+United Kingdom,2006,61,GBR
+Serbia,2006,63,SRB
+Denmark,2006,66,DNK
+Portugal,2006,71,PRT
+Slovakia,2006,80,SVK
+Belgium,2006,82,BEL
+Côte d'Ivoire,2006,85,CIV
+Austria,2006,88,AUT
+Czech Republic,2006,89,CZE
+Rwanda,2006,95,RWA
+Myanmar,2006,96,MMR
+Argentina,2006,98,ARG
+Sweden,2006,107,SWE
+Jordan,2006,108,JOR
+Cook Islands,2006,114,COK
+Bosnia and Herzegovina,2006,120,BIH
+Hungary,2006,126,HUN
+Papua New Guinea,2006,138,PNG
+Ukraine,2006,138,UKR
+Switzerland,2006,144,CHE
+Nigeria,2006,148,NGA
+Guinea,2006,149,GIN
+Venezuela,2006,164,VEN
+Peru,2006,166,PER
+Romania,2006,174,ROU
+Brazil,2006,320,BRA
+Russian Federation,2006,326,RUS
+Kenya,2006,339,KEN
+Mauritius,2006,434,MUS
+Burundi,2006,442,BDI
+Iran,2006,453,IRN
+Nepal,2006,496,NPL
+Liberia,2006,545,LBR
+Thailand,2006,634,THA
+Taiwan,2006,678,TWN
+Cambodia,2006,773,KHM
+Egypt,2006,871,EGY
+Japan,2006,1038,JPN
+Zimbabwe,2006,1120,ZWE
+Germany,2006,1762,DEU
+Singapore,2006,1877,SGP
+Bangladesh,2006,1920,BGD
+Afghanistan,2006,2285,AFG
+Philippines,2006,3182,PHL
+Malaysia,2006,3838,MYS
+South Africa,2006,5970,ZAF
+New Zealand,2006,23916,NZL
+Guam,2007,5,GUM
+Northern Mariana Islands,2007,5,MNP
+Andorra,2007,5,AND
+Liechtenstein,2007,5,LIE
+Monaco,2007,5,MCO
+Tajikistan,2007,5,TJK
+Turkmenistan,2007,5,TKM
+Burkina Faso,2007,5,BFA
+Chad,2007,5,TCD
+Djibouti,2007,5,DJI
+Gambia,2007,5,GMB
+Lesotho,2007,5,LSO
+Mali,2007,5,MLI
+Niger,2007,5,NGA
+Bermuda,2007,5,BMU
+Belize,2007,5,BLZ
+Dominica,2007,5,DMA
+Falkland Islands,2007,5,FLK
+Grenada,2007,5,GRD
+Haiti,2007,5,HTI
+Martinique,2007,5,MTQ
+Montserrat,2007,5,MSR
+Puerto Rico,2007,5,PRI
+Suriname,2007,5,SUR
+Cote d'Ivoire,2007,5,CIV
+"Micronesia, Federated States of",2007,5,FSM
+"Virgin Islands, British ",2007,5,VGB
+Sao Tomé and Principe,2007,5,STP
+American Samoa,2007,5,ASM
+British Indian Ocean Terr,2007,5,IOT
+Korea,2007,5,PRK
+Afghanistan,2007,5,AFG
+Algeria,2007,5,DZA
+Armenia,2007,5,ARM
+Bahamas,2007,5,BHS
+Bahrain,2007,5,BHR
+Cyprus,2007,5,CYP
+Dominican Republic,2007,5,DOM
+Gabon,2007,5,GAB
+Georgia,2007,5,GEO
+Guinea,2007,5,GIN
+Honduras,2007,5,HND
+Jamaica,2007,5,JAM
+Kuwait,2007,5,KWT
+Luxembourg,2007,5,LUX
+Madagascar,2007,5,MDG
+Malawi,2007,5,MWI
+Mauritania,2007,5,MRT
+Morocco,2007,5,MAR
+New Caledonia,2007,5,NCL
+Panama,2007,5,PAN
+Paraguay,2007,5,PRY
+Qatar,2007,5,QAT
+Senegal,2007,5,SEN
+Sierra Leone,2007,5,SLE
+Sudan,2007,5,SDN
+Tunisia,2007,5,TUN
+Chile,2007,5,CHL
+Greece,2007,5,GRC
+India,2007,5,IND
+Indonesia,2007,5,IDN
+Iran,2007,5,IRN
+Iraq,2007,5,IRQ
+Ireland,2007,5,IRL
+Malta,2007,5,MLT
+Netherlands,2007,5,NLD
+Pakistan,2007,5,PAK
+Papua New Guinea,2007,5,PNG
+Singapore,2007,5,SGP
+Spain,2007,5,ESP
+Sri Lanka,2007,5,LKA
+Turkey,2007,5,TUR
+United States of America,2007,5,USA
+Uruguay,2007,5,URY
+Réunion,2007,6,REU
+Bolivia,2007,6,BOL
+Costa Rica,2007,6,CRI
+Guatemala,2007,6,GTM
+Iceland,2007,6,ISL
+Philippines,2007,6,PHL
+Kiribati,2007,7,KIR
+Cayman Islands,2007,7,CYM
+Trinidad and Tobago,2007,7,TTO
+Guyana,2007,8,GUY
+Nicaragua,2007,8,NIC
+Eritrea,2007,8,ERI
+Oman,2007,8,OMN
+Yemen,2007,8,YEM
+China,2007,8,CHN
+Cameroon,2007,9,CMR
+Ecuador,2007,9,ECU
+French Polynesia,2007,10,PYF
+Angola,2007,10,AGO
+Barbados,2007,10,BRB
+Azerbaijan,2007,11,AZE
+Saudi Arabia,2007,11,SAU
+Gibraltar,2007,12,GIB
+Fiji,2007,12,FJI
+"Korea, Republic of",2007,12,KOR
+Nauru,2007,13,NRU
+Montenegro,2007,13,MNE
+Cuba,2007,13,CUB
+Samoa,2007,13,WSM
+Solomon Islands,2007,13,SLB
+Estonia,2007,14,EST
+Lithuania,2007,14,LTU
+Central African Republic,2007,16,CAF
+Kyrgyzstan,2007,16,KGZ
+Namibia,2007,16,NAM
+Italy,2007,16,ITA
+Tonga,2007,16,TON
+Mongolia,2007,17,MNG
+Ethiopia,2007,18,ETH
+Moldova,2007,18,MDA
+Tanzania,2007,18,TZA
+United Arab Emirates,2007,18,ARE
+Albania,2007,19,ALB
+Belarus,2007,20,BLR
+Uganda,2007,20,UGA
+Latvia,2007,23,LVA
+Benin,2007,24,BEN
+El Salvador,2007,24,SLV
+Mozambique,2007,25,MOZ
+Seychelles,2007,25,SYC
+Vanuatu,2007,26,VUT
+Bhutan,2007,28,BTN
+Serbia,2007,29,SRB
+Maldives,2007,30,MDV
+Brunei Darussalam,2007,30,BRN
+Tokelau,2007,31,TKL
+Libya,2007,32,LBY
+Uzbekistan,2007,32,UZB
+Croatia,2007,33,HRV
+Botswana,2007,36,BWA
+Congo,2007,39,COG
+Syria,2007,39,SYR
+Bulgaria,2007,49,BGR
+Ghana,2007,51,GHA
+Norway,2007,52,NOR
+Kazakhstan,2007,54,KAZ
+Rwanda,2007,55,RWA
+Slovenia,2007,56,SVN
+Finland,2007,58,FIN
+Slovakia,2007,65,SVK
+Zambia,2007,74,ZMB
+Austria,2007,77,AUT
+Niue,2007,78,NIU
+Côte d'Ivoire,2007,79,CIV
+Czech Republic,2007,90,CZE
+Belgium,2007,91,BEL
+United Kingdom,2007,97,GBR
+Togo,2007,100,TGO
+Argentina,2007,101,ARG
+Portugal,2007,104,PRT
+Denmark,2007,107,DNK
+Bosnia and Herzegovina,2007,125,BIH
+Hungary,2007,133,HUN
+Myanmar,2007,137,MMR
+Ukraine,2007,138,UKR
+Jordan,2007,151,JOR
+Switzerland,2007,158,CHE
+Peru,2007,159,PER
+Romania,2007,160,ROU
+Somalia,2007,163,SOM
+Sweden,2007,165,SWE
+Nigeria,2007,170,NGA
+Mexico,2007,218,MEX
+Lebanon,2007,231,LBN
+Burundi,2007,235,BDI
+Cook Islands,2007,244,COK
+Liberia,2007,257,LBR
+Poland,2007,262,POL
+Venezuela,2007,265,VEN
+Colombia,2007,268,COL
+Kenya,2007,335,KEN
+Israel,2007,363,ISR
+Brazil,2007,437,BRA
+France,2007,496,FRA
+Russian Federation,2007,555,RUS
+Vietnam,2007,556,VNM
+Mauritius,2007,561,MUS
+Taiwan,2007,633,TWN
+Nepal,2007,672,NPL
+Thailand,2007,747,THA
+Cambodia,2007,752,KHM
+Egypt,2007,757,EGY
+Canada,2007,790,CAN
+Japan,2007,939,JPN
+Zimbabwe,2007,1172,ZWE
+Germany,2007,1809,DEU
+Bangladesh,2007,2260,BGD
+Malaysia,2007,4185,MYS
+South Africa,2007,7762,ZAF
+New Zealand,2007,27619,NZL
+New Caledonia,2008,5,NCL
+Liechtenstein,2008,5,LIE
+Tajikistan,2008,5,TJK
+Turkmenistan,2008,5,TKM
+Bahrain,2008,5,BHR
+Kuwait,2008,5,KWT
+Mauritania,2008,5,MRT
+Oman,2008,5,OMN
+Saudi Arabia,2008,5,SAU
+Tunisia,2008,5,TUN
+United Arab Emirates,2008,5,ARE
+Angola,2008,5,AGO
+Burkina Faso,2008,5,BFA
+Chad,2008,5,TCD
+Congo,2008,5,COG
+Djibouti,2008,5,DJI
+Gambia,2008,5,GMB
+Lesotho,2008,5,LSO
+Malawi,2008,5,MWI
+Mozambique,2008,5,MOZ
+Bhutan,2008,5,BTN
+Bermuda,2008,5,BMU
+Belize,2008,5,BLZ
+Costa Rica,2008,5,CRI
+Dominica,2008,5,DMA
+Dominican Republic,2008,5,DOM
+Grenada,2008,5,GRD
+Guyana,2008,5,GUY
+Haiti,2008,5,HTI
+Honduras,2008,5,HND
+Nicaragua,2008,5,NIC
+Panama,2008,5,PAN
+Paraguay,2008,5,PRY
+Cote d'Ivoire,2008,5,CIV
+Korea,2008,5,PRK
+Algeria,2008,5,DZA
+Azerbaijan,2008,5,AZE
+Barbados,2008,5,BRB
+Cayman Islands,2008,5,CYM
+Cyprus,2008,5,CYP
+Madagascar,2008,5,MDG
+Montenegro,2008,5,MNE
+Qatar,2008,5,QAT
+Reunion,2008,5,REU
+Sierra Leone,2008,5,SLE
+Suriname,2008,5,SUR
+Vanuatu,2008,5,VUT
+Yemen,2008,5,YEM
+Argentina,2008,5,ARG
+Brazil,2008,5,BRA
+Canada,2008,5,CAN
+China,2008,5,CHN
+Greece,2008,5,GRC
+India,2008,5,IND
+Indonesia,2008,5,IDN
+Ireland,2008,5,IRL
+Italy,2008,5,ITA
+Kenya,2008,5,KEN
+Malaysia,2008,5,MYS
+Myanmar,2008,5,MMR
+Netherlands,2008,5,NLD
+Nigeria,2008,5,NGA
+Pakistan,2008,5,PAK
+Philippines,2008,5,PHL
+Portugal,2008,5,PRT
+Taiwan,2008,5,TWN
+Thailand,2008,5,THA
+United States of America,2008,5,USA
+Georgia,2008,6,GEO
+Togo,2008,6,TGO
+Maldives,2008,6,MDV
+Jamaica,2008,6,JAM
+Kiribati,2008,6,KIR
+Sudan,2008,6,SDN
+Bangladesh,2008,6,BGD
+Tonga,2008,6,TON
+Cameroon,2008,7,CMR
+Namibia,2008,7,NAM
+Seychelles,2008,7,SYC
+Bolivia,2008,7,BOL
+Guatemala,2008,7,GTM
+Trinidad and Tobago,2008,7,TTO
+Iceland,2008,8,ISL
+Botswana,2008,8,BWA
+Senegal,2008,8,SEN
+Slovenia,2008,8,SVN
+Albania,2008,8,ALB
+"Korea, Republic of",2008,9,KOR
+Brunei Darussalam,2008,10,BRN
+Fiji,2008,10,FJI
+Nauru,2008,11,NRU
+Cuba,2008,11,CUB
+Morocco,2008,11,MAR
+Kyrgyzstan,2008,12,KGZ
+Moldova,2008,12,MDA
+Uruguay,2008,12,URY
+Sri Lanka,2008,12,LKA
+Burundi,2008,13,BDI
+Rwanda,2008,13,RWA
+Zambia,2008,13,ZMB
+Eritrea,2008,13,ERI
+Kosovo,2008,14,SRB
+Afghanistan,2008,14,AFG
+Estonia,2008,15,EST
+Lithuania,2008,15,LTU
+Solomon Islands,2008,16,SLB
+El Salvador,2008,16,SLV
+Uganda,2008,16,UGA
+Armenia,2008,18,ARM
+Ecuador,2008,19,ECU
+Mongolia,2008,21,MNG
+Malta,2008,21,MLT
+Latvia,2008,23,LVA
+Guinea,2008,24,GIN
+Tanzania,2008,26,TZA
+Uzbekistan,2008,26,UZB
+Samoa,2008,27,WSM
+Belarus,2008,31,BLR
+Ethiopia,2008,36,ETH
+Serbia,2008,36,SRB
+Kazakhstan,2008,39,KAZ
+Venezuela,2008,42,VEN
+Bulgaria,2008,42,BGR
+Croatia,2008,42,HRV
+Syria,2008,47,SYR
+Liberia,2008,50,LBR
+United Kingdom,2008,52,GBR
+Finland,2008,58,FIN
+Belgium,2008,65,BEL
+Denmark,2008,66,DNK
+Norway,2008,66,NOR
+Hungary,2008,71,HUN
+Slovakia,2008,71,SVK
+Ghana,2008,74,GHA
+Austria,2008,81,AUT
+Czech Republic,2008,82,CZE
+Spain,2008,94,ESP
+Mexico,2008,96,MEX
+Chile,2008,97,CHL
+Somalia,2008,114,SOM
+Romania,2008,124,ROU
+Mauritius,2008,126,MUS
+Switzerland,2008,127,CHE
+Jordan,2008,128,JOR
+Iraq,2008,136,IRQ
+Ukraine,2008,148,UKR
+Zimbabwe,2008,150,ZWE
+Papua New Guinea,2008,157,PNG
+Israel,2008,171,ISR
+Peru,2008,175,PER
+Turkey,2008,184,TUR
+Sweden,2008,207,SWE
+Nepal,2008,244,NPL
+Iran,2008,248,IRN
+Colombia,2008,249,COL
+Poland,2008,253,POL
+Lebanon,2008,334,LBN
+Singapore,2008,438,SGP
+Russian Federation,2008,443,RUS
+France,2008,449,FRA
+Vietnam,2008,562,VNM
+Japan,2008,869,JPN
+French Polynesia,2009,5,PYF
+Tuvalu,2009,5,TUV
+Monaco,2009,5,MCO
+Tajikistan,2009,5,TJK
+Turkmenistan,2009,5,TKM
+Bahrain,2009,5,BHR
+Tunisia,2009,5,TUN
+United Arab Emirates,2009,5,ARE
+Angola,2009,5,AGO
+Burkina Faso,2009,5,BFA
+Central African Republic,2009,5,CAF
+Djibouti,2009,5,DJI
+Gambia,2009,5,GMB
+Lesotho,2009,5,LSO
+Madagascar,2009,5,MDG
+Mali,2009,5,MLI
+Niger,2009,5,NGA
+Togo,2009,5,TGO
+Bhutan,2009,5,BTN
+Bahamas,2009,5,BHS
+Barbados,2009,5,BRB
+Dominican Republic,2009,5,DOM
+French Guiana,2009,5,GUF
+Guatemala,2009,5,GTM
+Haiti,2009,5,HTI
+Honduras,2009,5,HND
+Nicaragua,2009,5,NIC
+Panama,2009,5,PAN
+Paraguay,2009,5,PRY
+Cote d'Ivoire,2009,5,CIV
+Korea,2009,5,PRK
+Afghanistan,2009,5,AFG
+Algeria,2009,5,DZA
+Armenia,2009,5,ARM
+Azerbaijan,2009,5,AZE
+Cameroon,2009,5,CMR
+Comoros,2009,5,COM
+Congo,2009,5,COG
+Costa Rica,2009,5,CRI
+Cyprus,2009,5,CYP
+Eritrea,2009,5,ERI
+Grenada,2009,5,GRD
+Guinea,2009,5,GIN
+Iceland,2009,5,ISL
+Jamaica,2009,5,JAM
+Kosovo,2009,5,SRB
+Kuwait,2009,5,KWT
+Mauritania,2009,5,MRT
+Montenegro,2009,5,MNE
+Rwanda,2009,5,RWA
+Samoa,2009,5,WSM
+Somalia,2009,5,SOM
+Suriname,2009,5,SUR
+Vanuatu,2009,5,VUT
+Yemen,2009,5,YEM
+Albania,2009,5,ALB
+Chile,2009,5,CHL
+Colombia,2009,5,COL
+Ethiopia,2009,5,ETH
+France,2009,5,FRA
+Ghana,2009,5,GHA
+Israel,2009,5,ISR
+Kenya,2009,5,KEN
+Lithuania,2009,5,LTU
+Malaysia,2009,5,MYS
+Mauritius,2009,5,MUS
+Myanmar,2009,5,MMR
+Nigeria,2009,5,NGA
+Peru,2009,5,PER
+Poland,2009,5,POL
+Russian Federation,2009,5,RUS
+Singapore,2009,5,SGP
+Spain,2009,5,ESP
+Taiwan,2009,5,TWN
+Tanzania,2009,5,TZA
+Vietnam,2009,5,VNM
+Kiribati,2009,6,KIR
+Namibia,2009,6,NAM
+Maldives,2009,6,MDV
+Luxembourg,2009,6,LUX
+Iran,2009,6,IRN
+Italy,2009,6,ITA
+Thailand,2009,6,THA
+Georgia,2009,7,GEO
+Senegal,2009,7,SEN
+Cuba,2009,7,CUB
+Morocco,2009,7,MAR
+Uganda,2009,7,UGA
+Nepal,2009,7,NPL
+Ecuador,2009,8,ECU
+Kyrgyzstan,2009,8,KGZ
+Sierra Leone,2009,8,SLE
+Lebanon,2009,8,LBN
+United States of America,2009,8,USA
+Mozambique,2009,9,MOZ
+Malawi,2009,9,MWI
+Nauru,2009,10,NRU
+Trinidad and Tobago,2009,11,TTO
+Moldova,2009,11,MDA
+Brunei Darussalam,2009,12,BRN
+Pakistan,2009,12,PAK
+Bolivia,2009,14,BOL
+Uruguay,2009,14,URY
+Slovenia,2009,16,SVN
+Mongolia,2009,16,MNG
+Saudi Arabia,2009,17,SAU
+Tonga,2009,17,TON
+Burundi,2009,18,BDI
+India,2009,19,IND
+Turkey,2009,19,TUR
+Botswana,2009,20,BWA
+Seychelles,2009,20,SYC
+Belarus,2009,21,BLR
+Syria,2009,21,SYR
+Philippines,2009,21,PHL
+United Kingdom,2009,22,GBR
+Estonia,2009,23,EST
+"Korea, Republic of",2009,23,KOR
+Solomon Islands,2009,25,SLB
+Greece,2009,26,GRC
+Kazakhstan,2009,27,KAZ
+Sudan,2009,27,SDN
+Croatia,2009,28,HRV
+Latvia,2009,28,LVA
+Malta,2009,29,MLT
+Bulgaria,2009,29,BGR
+El Salvador,2009,30,SLV
+Zambia,2009,31,ZMB
+Uzbekistan,2009,33,UZB
+Sri Lanka,2009,33,LKA
+Venezuela,2009,36,VEN
+Bangladesh,2009,43,BGD
+China,2009,45,CHN
+Norway,2009,46,NOR
+Fiji,2009,46,FJI
+Czech Republic,2009,55,CZE
+Finland,2009,55,FIN
+Denmark,2009,56,DNK
+Indonesia,2009,61,IDN
+Liberia,2009,65,LBR
+Argentina,2009,65,ARG
+Slovakia,2009,69,SVK
+Austria,2009,75,AUT
+Belgium,2009,81,BEL
+Hungary,2009,91,HUN
+Serbia,2009,94,SRB
+Portugal,2009,100,PRT
+Mexico,2009,111,MEX
+Switzerland,2009,120,CHE
+Iraq,2009,121,IRQ
+Romania,2009,134,ROU
+Jordan,2009,141,JOR
+Papua New Guinea,2009,152,PNG
+Sweden,2009,168,SWE
+Ukraine,2009,189,UKR
+Zimbabwe,2009,192,ZWE
+Netherlands,2009,296,NLD
+Brazil,2009,485,BRA
+Japan,2009,641,JPN
+Ireland,2009,822,IRL
+Canada,2009,965,CAN
+Marshall Islands,2010,5,MHL
+Nauru,2010,5,NRU
+Andorra,2010,5,AND
+Iceland,2010,5,ISL
+Luxembourg,2010,5,LUX
+Georgia,2010,5,GEO
+Tajikistan,2010,5,TJK
+Turkmenistan,2010,5,TKM
+Bahrain,2010,5,BHR
+Oman,2010,5,OMN
+Saudi Arabia,2010,5,SAU
+United Arab Emirates,2010,5,ARE
+Benin,2010,5,BEN
+Burkina Faso,2010,5,BFA
+Chad,2010,5,TCD
+Lesotho,2010,5,LSO
+Malawi,2010,5,MWI
+Mali,2010,5,MLI
+Mozambique,2010,5,MOZ
+Niger,2010,5,NGA
+Togo,2010,5,TGO
+Bhutan,2010,5,BTN
+Maldives,2010,5,MDV
+Bahamas,2010,5,BHS
+Barbados,2010,5,BRB
+French Guiana,2010,5,GUF
+Guyana,2010,5,GUY
+Honduras,2010,5,HND
+Jamaica,2010,5,JAM
+Nicaragua,2010,5,NIC
+Panama,2010,5,PAN
+Paraguay,2010,5,PRY
+Suriname,2010,5,SUR
+Comoros,2010,5,COM
+Algeria,2010,5,DZA
+American Samoa,2010,5,ASM
+Armenia,2010,5,ARM
+Burundi,2010,5,BDI
+Cameroon,2010,5,CMR
+Congo,2010,5,COG
+Costa Rica,2010,5,CRI
+Cyprus,2010,5,CYP
+Djibouti,2010,5,DJI
+Dominican Republic,2010,5,DOM
+Guinea,2010,5,GIN
+Korea,2010,5,PRK
+Kosovo,2010,5,SRB
+Kuwait,2010,5,KWT
+Kyrgyzstan,2010,5,KGZ
+Morocco,2010,5,MAR
+New Caledonia,2010,5,NCL
+Rwanda,2010,5,RWA
+Samoa,2010,5,WSM
+Senegal,2010,5,SEN
+Tunisia,2010,5,TUN
+Vanuatu,2010,5,VUT
+Vatican City,2010,5,VAT
+Yemen,2010,5,YEM
+Brazil,2010,5,BRA
+Chile,2010,5,CHL
+Colombia,2010,5,COL
+Cuba,2010,5,CUB
+Gambia,2010,5,GMB
+Ghana,2010,5,GHA
+Greece,2010,5,GRC
+Iran,2010,5,IRN
+Iraq,2010,5,IRQ
+Italy,2010,5,ITA
+Jordan,2010,5,JOR
+Kenya,2010,5,KEN
+Lebanon,2010,5,LBN
+Malaysia,2010,5,MYS
+Malta,2010,5,MLT
+Mexico,2010,5,MEX
+Myanmar,2010,5,MMR
+Nepal,2010,5,NPL
+Netherlands,2010,5,NLD
+Pakistan,2010,5,PAK
+Papua New Guinea,2010,5,PNG
+Peru,2010,5,PER
+Poland,2010,5,POL
+Portugal,2010,5,PRT
+Russian Federation,2010,5,RUS
+Somalia,2010,5,SOM
+Spain,2010,5,ESP
+Taiwan,2010,5,TWN
+Thailand,2010,5,THA
+United States of America,2010,5,USA
+Vietnam,2010,5,VNM
+Cote d'Ivoire,2010,6,CIV
+Guatemala,2010,6,GTM
+Romania,2010,6,ROU
+Kiribati,2010,7,KIR
+Madagascar,2010,7,MDG
+Bolivia,2010,8,BOL
+Azerbaijan,2010,8,AZE
+El Salvador,2010,9,SLV
+Trinidad and Tobago,2010,10,TTO
+Albania,2010,10,ALB
+Tonga,2010,11,TON
+Uruguay,2010,11,URY
+India,2010,11,IND
+Turkey,2010,11,TUR
+Namibia,2010,12,NAM
+Seychelles,2010,12,SYC
+Montenegro,2010,12,MNE
+Moldova,2010,12,MDA
+Slovenia,2010,13,SVN
+Brunei Darussalam,2010,13,BRN
+Mongolia,2010,13,MNG
+Philippines,2010,13,PHL
+Sri Lanka,2010,13,LKA
+Zimbabwe,2010,13,ZWE
+Afghanistan,2010,14,AFG
+Solomon Islands,2010,15,SLB
+Ecuador,2010,16,ECU
+Latvia,2010,20,LVA
+Bulgaria,2010,21,BGR
+Lithuania,2010,21,LTU
+Uganda,2010,22,UGA
+Botswana,2010,23,BWA
+Croatia,2010,23,HRV
+Kazakhstan,2010,23,KAZ
+Estonia,2010,25,EST
+Bangladesh,2010,25,BGD
+Belarus,2010,27,BLR
+Sudan,2010,27,SDN
+"Korea, Republic of",2010,28,KOR
+Tanzania,2010,29,TZA
+China,2010,29,CHN
+Uzbekistan,2010,31,UZB
+Venezuela,2010,33,VEN
+United Kingdom,2010,34,GBR
+Syria,2010,37,SYR
+Ethiopia,2010,38,ETH
+Zambia,2010,42,ZMB
+Fiji,2010,44,FJI
+Norway,2010,45,NOR
+Indonesia,2010,48,IDN
+Austria,2010,51,AUT
+Argentina,2010,57,ARG
+Slovakia,2010,58,SVK
+Denmark,2010,62,DNK
+Belgium,2010,65,BEL
+Finland,2010,67,FIN
+Liberia,2010,68,LBR
+Sierra Leone,2010,68,SLE
+Eritrea,2010,70,ERI
+Hungary,2010,77,HUN
+Czech Republic,2010,88,CZE
+Serbia,2010,88,SRB
+Switzerland,2010,117,CHE
+Israel,2010,119,ISR
+Nigeria,2010,145,NGA
+Sweden,2010,150,SWE
+Mauritius,2010,153,MUS
+Ukraine,2010,156,UKR
+Singapore,2010,391,SGP
+France,2010,459,FRA
+Japan,2010,674,JPN
+Ireland,2010,766,IRL
+Canada,2010,837,CAN
+Kiribati,2011,5,KIR
+Liechtenstein,2011,5,LIE
+Luxembourg,2011,5,LUX
+Kyrgyzstan,2011,5,KGZ
+Turkmenistan,2011,5,TKM
+Kuwait,2011,5,KWT
+Mauritania,2011,5,MRT
+Oman,2011,5,OMN
+Qatar,2011,5,QAT
+Saudi Arabia,2011,5,SAU
+United Arab Emirates,2011,5,ARE
+Angola,2011,5,AGO
+Benin,2011,5,BEN
+Burkina Faso,2011,5,BFA
+Chad,2011,5,TCD
+Congo,2011,5,COG
+Djibouti,2011,5,DJI
+Equatorial Guinea,2011,5,GNQ
+Gambia,2011,5,GMB
+Lesotho,2011,5,LSO
+Madagascar,2011,5,MDG
+Malawi,2011,5,MWI
+Mali,2011,5,MLI
+Namibia,2011,5,NAM
+Niger,2011,5,NGA
+Togo,2011,5,TGO
+Bhutan,2011,5,BTN
+Maldives,2011,5,MDV
+Barbados,2011,5,BRB
+Dominican Republic,2011,5,DOM
+Grenada,2011,5,GRD
+Guatemala,2011,5,GTM
+Guyana,2011,5,GUY
+Panama,2011,5,PAN
+Paraguay,2011,5,PRY
+Cote d'Ivoire,2011,5,CIV
+American Samoa,2011,5,ASM
+Antigua and Barbuda,2011,5,ATG
+Belize,2011,5,BLZ
+Cameroon,2011,5,CMR
+Central African Republic,2011,5,CAF
+Costa Rica,2011,5,CRI
+Cyprus,2011,5,CYP
+Dominica,2011,5,DMA
+El Salvador,2011,5,SLV
+Georgia,2011,5,GEO
+Korea,2011,5,PRK
+Kosovo,2011,5,SRB
+Nicaragua,2011,5,NIC
+Senegal,2011,5,SEN
+Sierra Leone,2011,5,SLE
+Somalia,2011,5,SOM
+Tajikistan,2011,5,TJK
+Tunisia,2011,5,TUN
+Vanuatu,2011,5,VUT
+Afghanistan,2011,5,AFG
+Algeria,2011,5,DZA
+Bahrain,2011,5,BHR
+Bangladesh,2011,5,BGD
+Bolivia,2011,5,BOL
+Brazil,2011,5,BRA
+Canada,2011,5,CAN
+Chile,2011,5,CHL
+Ecuador,2011,5,ECU
+Eritrea,2011,5,ERI
+Ghana,2011,5,GHA
+Guinea,2011,5,GIN
+Hungary,2011,5,HUN
+Ireland,2011,5,IRL
+Israel,2011,5,ISR
+Italy,2011,5,ITA
+Japan,2011,5,JPN
+Jordan,2011,5,JOR
+Kazakhstan,2011,5,KAZ
+Lithuania,2011,5,LTU
+Malaysia,2011,5,MYS
+Malta,2011,5,MLT
+Mexico,2011,5,MEX
+Mongolia,2011,5,MNG
+Morocco,2011,5,MAR
+Nauru,2011,5,NRU
+Nepal,2011,5,NPL
+Netherlands,2011,5,NLD
+Pakistan,2011,5,PAK
+Papua New Guinea,2011,5,PNG
+Poland,2011,5,POL
+Russian Federation,2011,5,RUS
+Samoa,2011,5,WSM
+Serbia,2011,5,SRB
+Singapore,2011,5,SGP
+Slovakia,2011,5,SVK
+Solomon Islands,2011,5,SLB
+Sudan,2011,5,SDN
+Sweden,2011,5,SWE
+Syria,2011,5,SYR
+Taiwan,2011,5,TWN
+Uganda,2011,5,UGA
+Ukraine,2011,5,UKR
+Zambia,2011,5,ZMB
+Zimbabwe,2011,5,ZWE
+Tuvalu,2011,6,TUV
+Botswana,2011,6,BWA
+Mozambique,2011,6,MOZ
+Turkey,2011,6,TUR
+Yemen,2011,7,YEM
+Jamaica,2011,7,JAM
+Colombia,2011,7,COL
+Kenya,2011,7,KEN
+Lebanon,2011,7,LBN
+Myanmar,2011,7,MMR
+Iceland,2011,8,ISL
+Uruguay,2011,8,URY
+Ethiopia,2011,8,ETH
+Mauritius,2011,8,MUS
+Armenia,2011,9,ARM
+Iran,2011,9,IRN
+Brunei Darussalam,2011,10,BRN
+Thailand,2011,10,THA
+South Sudan,2011,11,SSD
+Albania,2011,11,ALB
+Azerbaijan,2011,12,AZE
+Seychelles,2011,12,SYC
+Trinidad and Tobago,2011,12,TTO
+Montenegro,2011,12,MNE
+Moldova,2011,13,MDA
+Tonga,2011,14,TON
+Slovenia,2011,15,SVN
+Cuba,2011,15,CUB
+United States of America,2011,15,USA
+Belarus,2011,16,BLR
+India,2011,17,IND
+Philippines,2011,17,PHL
+Vietnam,2011,20,VNM
+Rwanda,2011,23,RWA
+Tanzania,2011,23,TZA
+Croatia,2011,25,HRV
+Sri Lanka,2011,28,LKA
+Indonesia,2011,29,IDN
+Latvia,2011,31,LVA
+Estonia,2011,32,EST
+Bulgaria,2011,33,BGR
+Uzbekistan,2011,36,UZB
+Burundi,2011,37,BDI
+Greece,2011,39,GRC
+Norway,2011,39,NOR
+Argentina,2011,42,ARG
+China,2011,47,CHN
+Fiji,2011,50,FJI
+Venezuela,2011,57,VEN
+Austria,2011,64,AUT
+United Kingdom,2011,65,GBR
+Belgium,2011,70,BEL
+Denmark,2011,70,DNK
+Liberia,2011,76,LBR
+Finland,2011,77,FIN
+Portugal,2011,92,PRT
+"Korea, Republic of",2011,96,KOR
+Czech Republic,2011,99,CZE
+Iraq,2011,99,IRQ
+Switzerland,2011,118,CHE
+Nigeria,2011,121,NGA
+Romania,2011,122,ROU
+Spain,2011,140,ESP
+Peru,2011,164,PER
+France,2011,519,FRA
+Kiribati,2012,5,KIR
+Nauru,2012,5,NRU
+Luxembourg,2012,5,LUX
+Georgia,2012,5,GEO
+Kyrgyzstan,2012,5,KGZ
+Tajikistan,2012,5,TJK
+Turkmenistan,2012,5,TKM
+Kuwait,2012,5,KWT
+Libya,2012,5,LBY
+Oman,2012,5,OMN
+Qatar,2012,5,QAT
+United Arab Emirates,2012,5,ARE
+Yemen,2012,5,YEM
+Benin,2012,5,BEN
+Cameroon,2012,5,CMR
+Djibouti,2012,5,DJI
+Gabon,2012,5,GAB
+Gambia,2012,5,GMB
+Mozambique,2012,5,MOZ
+Togo,2012,5,TGO
+Bhutan,2012,5,BTN
+Maldives,2012,5,MDV
+Barbados,2012,5,BRB
+Belize,2012,5,BLZ
+Dominica,2012,5,DMA
+Guyana,2012,5,GUY
+Haiti,2012,5,HTI
+Panama,2012,5,PAN
+Suriname,2012,5,SUR
+Uruguay,2012,5,URY
+American Samoa,2012,5,ASM
+Montenegro,2012,5,MNE
+Algeria,2012,5,DZA
+Angola,2012,5,AGO
+Antigua and Barbuda,2012,5,ATG
+Bahamas,2012,5,BHS
+Burkina Faso,2012,5,BFA
+Cayman Islands,2012,5,CYM
+Comoros,2012,5,COM
+Congo,2012,5,COG
+Cote d'Ivoire,2012,5,CIV
+Cuba,2012,5,CUB
+Ecuador,2012,5,ECU
+Eritrea,2012,5,ERI
+Falkland Islands,2012,5,FLK
+French Polynesia,2012,5,PYF
+Korea,2012,5,PRK
+Liberia,2012,5,LBR
+Liechtenstein,2012,5,LIE
+Madagascar,2012,5,MDG
+Mali,2012,5,MLI
+Namibia,2012,5,NAM
+New Caledonia,2012,5,NCL
+Niger,2012,5,NGA
+Saudi Arabia,2012,5,SAU
+Senegal,2012,5,SEN
+Sierra Leone,2012,5,SLE
+Somalia,2012,5,SOM
+Botswana,2012,5,BWA
+Chile,2012,5,CHL
+Colombia,2012,5,COL
+Cyprus,2012,5,CYP
+El Salvador,2012,5,SLV
+Ethiopia,2012,5,ETH
+France,2012,5,FRA
+Ghana,2012,5,GHA
+Greece,2012,5,GRC
+Hungary,2012,5,HUN
+Iran,2012,5,IRN
+Iraq,2012,5,IRQ
+Israel,2012,5,ISR
+Kenya,2012,5,KEN
+Malta,2012,5,MLT
+Mongolia,2012,5,MNG
+Myanmar,2012,5,MMR
+Nepal,2012,5,NPL
+Nigeria,2012,5,NGA
+Norway,2012,5,NOR
+Peru,2012,5,PER
+Poland,2012,5,POL
+Portugal,2012,5,PRT
+Russian Federation,2012,5,RUS
+Samoa,2012,5,WSM
+Serbia,2012,5,SRB
+Singapore,2012,5,SGP
+Solomon Islands,2012,5,SLB
+Spain,2012,5,ESP
+Syria,2012,5,SYR
+Taiwan,2012,5,TWN
+Tanzania,2012,5,TZA
+Thailand,2012,5,THA
+Turkey,2012,5,TUR
+Ukraine,2012,5,UKR
+Azerbaijan,2012,6,AZE
+Bahrain,2012,6,BHR
+Guatemala,2012,6,GTM
+Honduras,2012,6,HND
+Costa Rica,2012,7,CRI
+Paraguay,2012,7,PRY
+Dominican Republic,2012,7,DOM
+Papua New Guinea,2012,7,PNG
+Zambia,2012,7,ZMB
+Nicaragua,2012,8,NIC
+Tunisia,2012,8,TUN
+Malaysia,2012,8,MYS
+Zimbabwe,2012,8,ZWE
+Iceland,2012,9,ISL
+Vanuatu,2012,9,VUT
+Ireland,2012,9,IRL
+Italy,2012,9,ITA
+Jordan,2012,9,JOR
+Mauritius,2012,9,MUS
+Armenia,2012,10,ARM
+Bolivia,2012,10,BOL
+Latvia,2012,11,LVA
+Malawi,2012,12,MWI
+Seychelles,2012,12,SYC
+Trinidad and Tobago,2012,12,TTO
+Brunei Darussalam,2012,12,BRN
+Jamaica,2012,12,JAM
+Moldova,2012,12,MDA
+Tonga,2012,12,TON
+Brazil,2012,12,BRA
+Afghanistan,2012,13,AFG
+Morocco,2012,13,MAR
+Netherlands,2012,13,NLD
+United States of America,2012,13,USA
+Pakistan,2012,14,PAK
+Rwanda,2012,15,RWA
+Slovenia,2012,15,SVN
+Kosovo,2012,21,SRB
+Lithuania,2012,21,LTU
+Guinea,2012,26,GIN
+Lebanon,2012,26,LBN
+Sri Lanka,2012,26,LKA
+Bulgaria,2012,28,BGR
+Belarus,2012,29,BLR
+Sudan,2012,30,SDN
+Uganda,2012,31,UGA
+Bangladesh,2012,31,BGD
+Indonesia,2012,31,IDN
+Vietnam,2012,31,VNM
+Croatia,2012,33,HRV
+Burundi,2012,36,BDI
+India,2012,38,IND
+Fiji,2012,39,FJI
+Albania,2012,40,ALB
+Kazakhstan,2012,43,KAZ
+Uzbekistan,2012,45,UZB
+Venezuela,2012,46,VEN
+Estonia,2012,46,EST
+Philippines,2012,52,PHL
+United Kingdom,2012,53,GBR
+Argentina,2012,58,ARG
+Belgium,2012,60,BEL
+"Korea, Republic of",2012,62,KOR
+Austria,2012,64,AUT
+Denmark,2012,67,DNK
+Finland,2012,74,FIN
+Slovakia,2012,74,SVK
+South Sudan,2012,84,SSD
+China,2012,87,CHN
+Switzerland,2012,100,CHE
+Czech Republic,2012,100,CZE
+Romania,2012,125,ROU
+Mexico,2012,128,MEX
+Sweden,2012,185,SWE
+Japan,2012,826,JPN
+Canada,2012,908,CAN
+Kiribati,2013,5,KIR
+Nauru,2013,5,NRU
+Luxembourg,2013,5,LUX
+Kuwait,2013,5,KWT
+Libya,2013,5,LBY
+Oman,2013,5,OMN
+Saudi Arabia,2013,5,SAU
+United Arab Emirates,2013,5,ARE
+Angola,2013,5,AGO
+Benin,2013,5,BEN
+Central African Republic,2013,5,CAF
+Chad,2013,5,TCD
+Congo,2013,5,COG
+Djibouti,2013,5,DJI
+Gambia,2013,5,GMB
+Lesotho,2013,5,LSO
+Madagascar,2013,5,MDG
+Mali,2013,5,MLI
+Namibia,2013,5,NAM
+Niger,2013,5,NGA
+Senegal,2013,5,SEN
+Togo,2013,5,TGO
+Bhutan,2013,5,BTN
+Maldives,2013,5,MDV
+Bermuda,2013,5,BMU
+Antigua and Barbuda,2013,5,ATG
+Bahamas,2013,5,BHS
+Barbados,2013,5,BRB
+Costa Rica,2013,5,CRI
+Dominica,2013,5,DMA
+Dominican Republic,2013,5,DOM
+Grenada,2013,5,GRD
+Guyana,2013,5,GUY
+Haiti,2013,5,HTI
+Honduras,2013,5,HND
+Nicaragua,2013,5,NIC
+Panama,2013,5,PAN
+Paraguay,2013,5,PRY
+Comoros,2013,5,COM
+Algeria,2013,5,DZA
+Belize,2013,5,BLZ
+Bolivia,2013,5,BOL
+Burundi,2013,5,BDI
+Cameroon,2013,5,CMR
+Cuba,2013,5,CUB
+Eritrea,2013,5,ERI
+Gabon,2013,5,GAB
+Georgia,2013,5,GEO
+Gibraltar,2013,5,GIB
+Guatemala,2013,5,GTM
+Guinea,2013,5,GIN
+Iceland,2013,5,ISL
+Korea,2013,5,PRK
+Kosovo,2013,5,SRB
+Kyrgyzstan,2013,5,KGZ
+Montenegro,2013,5,MNE
+Puerto Rico,2013,5,PRI
+Qatar,2013,5,QAT
+Reunion,2013,5,REU
+Rwanda,2013,5,RWA
+Sierra Leone,2013,5,SLE
+Solomon Islands,2013,5,SLB
+Suriname,2013,5,SUR
+Uruguay,2013,5,URY
+Vanuatu,2013,5,VUT
+Yemen,2013,5,YEM
+Albania,2013,5,ALB
+Argentina,2013,5,ARG
+Brazil,2013,5,BRA
+Canada,2013,5,CAN
+Croatia,2013,5,HRV
+Denmark,2013,5,DNK
+Ethiopia,2013,5,ETH
+France,2013,5,FRA
+Greece,2013,5,GRC
+Iran,2013,5,IRN
+Iraq,2013,5,IRQ
+Italy,2013,5,ITA
+Japan,2013,5,JPN
+Kenya,2013,5,KEN
+Mauritius,2013,5,MUS
+Myanmar,2013,5,MMR
+Netherlands,2013,5,NLD
+Poland,2013,5,POL
+Spain,2013,5,ESP
+Taiwan,2013,5,TWN
+Thailand,2013,5,THA
+Uganda,2013,5,UGA
+Vietnam,2013,5,VNM
+Zimbabwe,2013,5,ZWE
+Cote d'Ivoire,2013,6,CIV
+Brunei Darussalam,2013,6,BRN
+Nepal,2013,6,NPL
+Sweden,2013,6,SWE
+Ukraine,2013,6,UKR
+Bahrain,2013,7,BHR
+Trinidad and Tobago,2013,7,TTO
+Tunisia,2013,7,TUN
+Tuvalu,2013,7,TUV
+Afghanistan,2013,7,AFG
+Bangladesh,2013,7,BGD
+Ireland,2013,7,IRL
+Portugal,2013,7,PRT
+Sri Lanka,2013,7,LKA
+Tajikistan,2013,8,TJK
+Botswana,2013,8,BWA
+Mozambique,2013,8,MOZ
+Morocco,2013,8,MAR
+Somalia,2013,8,SOM
+Papua New Guinea,2013,8,PNG
+Azerbaijan,2013,9,AZE
+Samoa,2013,9,WSM
+"Korea, Republic of",2013,9,KOR
+United States of America,2013,9,USA
+El Salvador,2013,10,SLV
+Malta,2013,10,MLT
+Malawi,2013,11,MWI
+Malaysia,2013,11,MYS
+Moldova,2013,12,MDA
+Seychelles,2013,12,SYC
+India,2013,12,IND
+Jamaica,2013,15,JAM
+Mongolia,2013,15,MNG
+China,2013,15,CHN
+Philippines,2013,15,PHL
+Tonga,2013,15,TON
+Armenia,2013,16,ARM
+Cyprus,2013,16,CYP
+Indonesia,2013,16,IDN
+Slovenia,2013,17,SVN
+Fiji,2013,18,FJI
+Lebanon,2013,20,LBN
+Ecuador,2013,21,ECU
+Latvia,2013,25,LVA
+Belarus,2013,27,BLR
+Uzbekistan,2013,27,UZB
+Kazakhstan,2013,30,KAZ
+Tanzania,2013,32,TZA
+Lithuania,2013,34,LTU
+Estonia,2013,39,EST
+United Kingdom,2013,40,GBR
+Sudan,2013,43,SDN
+Slovakia,2013,48,SVK
+Venezuela,2013,53,VEN
+Austria,2013,54,AUT
+Norway,2013,54,NOR
+Zambia,2013,58,ZMB
+Bulgaria,2013,59,BGR
+Belgium,2013,66,BEL
+Finland,2013,69,FIN
+Syria,2013,78,SYR
+Switzerland,2013,81,CHE
+Serbia,2013,84,SRB
+Liberia,2013,89,LBR
+Mexico,2013,90,MEX
+Israel,2013,96,ISR
+Czech Republic,2013,98,CZE
+Ghana,2013,102,GHA
+Chile,2013,107,CHL
+Romania,2013,111,ROU
+Hungary,2013,113,HUN
+Nigeria,2013,114,NGA
+South Sudan,2013,120,SSD
+Peru,2013,142,PER
+Jordan,2013,156,JOR
+Turkey,2013,225,TUR
+Colombia,2013,368,COL
+Russian Federation,2013,422,RUS
+Singapore,2013,426,SGP
+Pakistan,2013,1446,PAK
+Iceland,2014,5,ISL
+Luxembourg,2014,5,LUX
+Turkmenistan,2014,5,TKM
+Kuwait,2014,5,KWT
+Oman,2014,5,OMN
+Angola,2014,5,AGO
+Burkina Faso,2014,5,BFA
+Chad,2014,5,TCD
+Congo,2014,5,COG
+Djibouti,2014,5,DJI
+Gabon,2014,5,GAB
+Madagascar,2014,5,MDG
+Malawi,2014,5,MWI
+Mozambique,2014,5,MOZ
+Namibia,2014,5,NAM
+Niger,2014,5,NGA
+Senegal,2014,5,SEN
+Togo,2014,5,TGO
+Bhutan,2014,5,BTN
+Bahamas,2014,5,BHS
+Barbados,2014,5,BRB
+Bolivia,2014,5,BOL
+Dominican Republic,2014,5,DOM
+Guyana,2014,5,GUY
+Haiti,2014,5,HTI
+Honduras,2014,5,HND
+Jamaica,2014,5,JAM
+Panama,2014,5,PAN
+Paraguay,2014,5,PRY
+Suriname,2014,5,SUR
+Cote d'Ivoire,2014,5,CIV
+Comoros,2014,5,COM
+British Indian Ocean Terr,2014,5,IOT
+Bahrain,2014,5,BHR
+Belize,2014,5,BLZ
+Benin,2014,5,BEN
+Bermuda,2014,5,BMU
+Burundi,2014,5,BDI
+Central African Republic,2014,5,CAF
+Costa Rica,2014,5,CRI
+Cuba,2014,5,CUB
+French Polynesia,2014,5,PYF
+Georgia,2014,5,GEO
+Grenada,2014,5,GRD
+Korea,2014,5,PRK
+Kosovo,2014,5,SRB
+Kyrgyzstan,2014,5,KGZ
+Liechtenstein,2014,5,LIE
+Mauritania,2014,5,MRT
+Mongolia,2014,5,MNG
+Montenegro,2014,5,MNE
+Rwanda,2014,5,RWA
+Samoa,2014,5,WSM
+Sierra Leone,2014,5,SLE
+Solomon Islands,2014,5,SLB
+Somalia,2014,5,SOM
+Tunisia,2014,5,TUN
+Uruguay,2014,5,URY
+Bangladesh,2014,5,BGD
+Belgium,2014,5,BEL
+Brazil,2014,5,BRA
+Canada,2014,5,CAN
+Chile,2014,5,CHL
+Colombia,2014,5,COL
+Ethiopia,2014,5,ETH
+Fiji,2014,5,FJI
+France,2014,5,FRA
+Ghana,2014,5,GHA
+Italy,2014,5,ITA
+Kiribati,2014,5,KIR
+"Korea, Republic of",2014,5,KOR
+Lebanon,2014,5,LBN
+Malta,2014,5,MLT
+Mexico,2014,5,MEX
+Myanmar,2014,5,MMR
+Netherlands,2014,5,NLD
+Pakistan,2014,5,PAK
+Peru,2014,5,PER
+Poland,2014,5,POL
+Romania,2014,5,ROU
+Russian Federation,2014,5,RUS
+Saudi Arabia,2014,5,SAU
+Serbia,2014,5,SRB
+Slovakia,2014,5,SVK
+Sudan,2014,5,SDN
+Thailand,2014,5,THA
+Tonga,2014,5,TON
+Turkey,2014,5,TUR
+Ukraine,2014,5,UKR
+United States of America,2014,5,USA
+Zambia,2014,5,ZMB
+Zimbabwe,2014,5,ZWE
+Seychelles,2014,6,SYC
+Guatemala,2014,6,GTM
+Eritrea,2014,6,ERI
+Papua New Guinea,2014,6,PNG
+Libya,2014,7,LBY
+Trinidad and Tobago,2014,7,TTO
+Algeria,2014,7,DZA
+Indonesia,2014,7,IDN
+Ireland,2014,7,IRL
+Mauritius,2014,7,MUS
+Nauru,2014,8,NRU
+Maldives,2014,8,MDV
+Azerbaijan,2014,8,AZE
+Moldova,2014,9,MDA
+United Arab Emirates,2014,9,ARE
+Gambia,2014,10,GMB
+Brunei Darussalam,2014,10,BRN
+Cameroon,2014,10,CMR
+Cyprus,2014,10,CYP
+Vanuatu,2014,10,VUT
+Ecuador,2014,11,ECU
+Armenia,2014,12,ARM
+El Salvador,2014,12,SLV
+India,2014,12,IND
+Latvia,2014,13,LVA
+Morocco,2014,13,MAR
+China,2014,13,CHN
+Vietnam,2014,14,VNM
+Guinea,2014,18,GIN
+Botswana,2014,19,BWA
+Yemen,2014,20,YEM
+Uzbekistan,2014,23,UZB
+Slovenia,2014,23,SVN
+Belarus,2014,25,BLR
+Tanzania,2014,26,TZA
+Philippines,2014,27,PHL
+Bulgaria,2014,28,BGR
+Kazakhstan,2014,28,KAZ
+Afghanistan,2014,28,AFG
+Albania,2014,28,ALB
+Uganda,2014,28,UGA
+Norway,2014,35,NOR
+Lithuania,2014,36,LTU
+United Kingdom,2014,38,GBR
+Austria,2014,41,AUT
+Venezuela,2014,53,VEN
+Croatia,2014,61,HRV
+Estonia,2014,62,EST
+Finland,2014,66,FIN
+Denmark,2014,68,DNK
+Liberia,2014,69,LBR
+Argentina,2014,80,ARG
+Switzerland,2014,83,CHE
+Israel,2014,88,ISR
+Iraq,2014,102,IRQ
+Hungary,2014,104,HUN
+Portugal,2014,104,PRT
+Nigeria,2014,105,NGA
+Syria,2014,109,SYR
+Czech Republic,2014,109,CZE
+Greece,2014,112,GRC
+Jordan,2014,133,JOR
+Spain,2014,156,ESP
+Sweden,2014,172,SWE
+South Sudan,2014,231,SSD
+Kenya,2014,322,KEN
+Taiwan,2014,337,TWN
+Iran,2014,437,IRN
+Singapore,2014,457,SGP
+Japan,2014,498,JPN
+Nepal,2014,681,NPL
+Sri Lanka,2014,911,LKA
+Malaysia,2014,1086,MYS
+Kiribati,2015,5,KIR
+Marshall Islands,2015,5,MHL
+Nauru,2015,5,NRU
+Tuvalu,2015,5,TUV
+Luxembourg,2015,5,LUX
+San Marino,2015,5,SMR
+Azerbaijan,2015,5,AZE
+Georgia,2015,5,GEO
+Tajikistan,2015,5,TJK
+Turkmenistan,2015,5,TKM
+Kuwait,2015,5,KWT
+Libya,2015,5,LBY
+Mauritania,2015,5,MRT
+Oman,2015,5,OMN
+United Arab Emirates,2015,5,ARE
+Angola,2015,5,AGO
+Congo,2015,5,COG
+Gabon,2015,5,GAB
+Gambia,2015,5,GMB
+Guinea-Bissau,2015,5,GNB
+Madagascar,2015,5,MDG
+Namibia,2015,5,NAM
+Barbados,2015,5,BRB
+Belize,2015,5,BLZ
+Dominican Republic,2015,5,DOM
+Haiti,2015,5,HTI
+Honduras,2015,5,HND
+Panama,2015,5,PAN
+Paraguay,2015,5,PRY
+Puerto Rico,2015,5,PRI
+Trinidad and Tobago,2015,5,TTO
+Cote d'Ivoire,2015,5,CIV
+Comoros,2015,5,COM
+American Samoa,2015,5,ASM
+British Indian Ocean Terr,2015,5,IOT
+Bahrain,2015,5,BHR
+Cameroon,2015,5,CMR
+Costa Rica,2015,5,CRI
+Cuba,2015,5,CUB
+Eritrea,2015,5,ERI
+Guatemala,2015,5,GTM
+Guinea,2015,5,GIN
+Guyana,2015,5,GUY
+Korea,2015,5,PRK
+Malawi,2015,5,MWI
+Monaco,2015,5,MCO
+Montenegro,2015,5,MNE
+New Caledonia,2015,5,NCL
+Niger,2015,5,NGA
+Reunion,2015,5,REU
+Rwanda,2015,5,RWA
+Samoa,2015,5,WSM
+Senegal,2015,5,SEN
+Sierra Leone,2015,5,SLE
+Somalia,2015,5,SOM
+Suriname,2015,5,SUR
+Togo,2015,5,TGO
+Uruguay,2015,5,URY
+Afghanistan,2015,5,AFG
+Albania,2015,5,ALB
+Argentina,2015,5,ARG
+Brazil,2015,5,BRA
+Canada,2015,5,CAN
+Chile,2015,5,CHL
+Croatia,2015,5,HRV
+Ecuador,2015,5,ECU
+Fiji,2015,5,FJI
+France,2015,5,FRA
+Indonesia,2015,5,IDN
+Ireland,2015,5,IRL
+Italy,2015,5,ITA
+Jordan,2015,5,JOR
+Kenya,2015,5,KEN
+Malta,2015,5,MLT
+Mauritius,2015,5,MUS
+Mongolia,2015,5,MNG
+Netherlands,2015,5,NLD
+Pakistan,2015,5,PAK
+Peru,2015,5,PER
+Portugal,2015,5,PRT
+Singapore,2015,5,SGP
+Spain,2015,5,ESP
+Sri Lanka,2015,5,LKA
+Sudan,2015,5,SDN
+Syria,2015,5,SYR
+Taiwan,2015,5,TWN
+Thailand,2015,5,THA
+Tonga,2015,5,TON
+United States of America,2015,5,USA
+Zimbabwe,2015,5,ZWE
+Iceland,2015,6,ISL
+Djibouti,2015,6,DJI
+Bangladesh,2015,6,BGD
+Malaysia,2015,6,MYS
+Vietnam,2015,6,VNM
+Saudi Arabia,2015,7,SAU
+Bhutan,2015,7,BTN
+Armenia,2015,7,ARM
+Turkey,2015,7,TUR
+Maldives,2015,8,MDV
+Mozambique,2015,8,MOZ
+Kyrgyzstan,2015,9,KGZ
+Nicaragua,2015,9,NIC
+El Salvador,2015,9,SLV
+Nigeria,2015,9,NGA
+Bolivia,2015,10,BOL
+Brunei Darussalam,2015,10,BRN
+Nepal,2015,10,NPL
+Seychelles,2015,11,SYC
+Jamaica,2015,11,JAM
+Ethiopia,2015,11,ETH
+Tunisia,2015,11,TUN
+Algeria,2015,12,DZA
+Greece,2015,12,GRC
+Lebanon,2015,12,LBN
+Moldova,2015,13,MDA
+Botswana,2015,14,BWA
+China,2015,14,CHN
+India,2015,15,IND
+Yemen,2015,16,YEM
+"Korea, Republic of",2015,16,KOR
+Cyprus,2015,17,CYP
+Uganda,2015,17,UGA
+Vanuatu,2015,18,VUT
+Slovenia,2015,18,SVN
+Morocco,2015,19,MAR
+Kosovo,2015,21,SRB
+Latvia,2015,23,LVA
+Solomon Islands,2015,23,SLB
+Zambia,2015,26,ZMB
+Belarus,2015,29,BLR
+Kazakhstan,2015,29,KAZ
+Tanzania,2015,30,TZA
+Lithuania,2015,33,LTU
+Bulgaria,2015,34,BGR
+Uzbekistan,2015,34,UZB
+United Kingdom,2015,35,GBR
+Philippines,2015,38,PHL
+Finland,2015,41,FIN
+Austria,2015,43,AUT
+Venezuela,2015,47,VEN
+Norway,2015,49,NOR
+Slovakia,2015,54,SVK
+Liberia,2015,57,LBR
+Denmark,2015,59,DNK
+Switzerland,2015,70,CHE
+Burundi,2015,75,BDI
+Estonia,2015,83,EST
+Serbia,2015,83,SRB
+Czech Republic,2015,86,CZE
+Ghana,2015,88,GHA
+Hungary,2015,89,HUN
+Iraq,2015,94,IRQ
+Belgium,2015,96,BEL
+Romania,2015,103,ROU
+Mexico,2015,125,MEX
+Israel,2015,134,ISR
+Myanmar,2015,137,MMR
+Sweden,2015,139,SWE
+Papua New Guinea,2015,144,PNG
+Poland,2015,189,POL
+South Sudan,2015,220,SSD
+Ukraine,2015,221,UKR
+Russian Federation,2015,357,RUS
+Colombia,2015,367,COL
+Iran,2015,451,IRN
+Japan,2015,489,JPN
+Kiribati,2016,5,KIR
+Nauru,2016,5,NRU
+New Caledonia,2016,5,NCL
+Tuvalu,2016,5,TUV
+Andorra,2016,5,AND
+Luxembourg,2016,5,LUX
+San Marino,2016,5,SMR
+Tajikistan,2016,5,TJK
+Turkmenistan,2016,5,TKM
+Bahrain,2016,5,BHR
+Kuwait,2016,5,KWT
+Mauritania,2016,5,MRT
+Oman,2016,5,OMN
+United Arab Emirates,2016,5,ARE
+Botswana,2016,5,BWA
+Congo,2016,5,COG
+Djibouti,2016,5,DJI
+Lesotho,2016,5,LSO
+Madagascar,2016,5,MDG
+Mali,2016,5,MLI
+Mozambique,2016,5,MOZ
+Namibia,2016,5,NAM
+Niger,2016,5,NGA
+Seychelles,2016,5,SYC
+Togo,2016,5,TGO
+Maldives,2016,5,MDV
+Bahamas,2016,5,BHS
+Barbados,2016,5,BRB
+Bolivia,2016,5,BOL
+Guyana,2016,5,GUY
+Haiti,2016,5,HTI
+Honduras,2016,5,HND
+Jamaica,2016,5,JAM
+Panama,2016,5,PAN
+Paraguay,2016,5,PRY
+Trinidad and Tobago,2016,5,TTO
+Bermuda,2016,5,BMU
+Burkina Faso,2016,5,BFA
+Cameroon,2016,5,CMR
+Cayman Islands,2016,5,CYM
+Costa Rica,2016,5,CRI
+Dominican Republic,2016,5,DOM
+Gabon,2016,5,GAB
+Georgia,2016,5,GEO
+Grenada,2016,5,GRD
+Guatemala,2016,5,GTM
+Guinea-Bissau,2016,5,GNB
+Iceland,2016,5,ISL
+Korea,2016,5,PRK
+Kyrgyzstan,2016,5,KGZ
+Moldova,2016,5,MDA
+Nicaragua,2016,5,NIC
+Qatar,2016,5,QAT
+Reunion,2016,5,REU
+Rwanda,2016,5,RWA
+Sierra Leone,2016,5,SLE
+Vanuatu,2016,5,VUT
+Afghanistan,2016,5,AFG
+Argentina,2016,5,ARG
+Bangladesh,2016,5,BGD
+Burundi,2016,5,BDI
+Canada,2016,5,CAN
+Chile,2016,5,CHL
+Ghana,2016,5,GHA
+Greece,2016,5,GRC
+Hungary,2016,5,HUN
+Iran,2016,5,IRN
+Ireland,2016,5,IRL
+Italy,2016,5,ITA
+Japan,2016,5,JPN
+Nepal,2016,5,NPL
+Nigeria,2016,5,NGA
+Poland,2016,5,POL
+Slovenia,2016,5,SVN
+Syria,2016,5,SYR
+Taiwan,2016,5,TWN
+Thailand,2016,5,THA
+Turkey,2016,5,TUR
+Ukraine,2016,5,UKR
+United States of America,2016,5,USA
+Venezuela,2016,5,VEN
+Vietnam,2016,5,VNM
+Zimbabwe,2016,5,ZWE
+Malawi,2016,6,MWI
+Senegal,2016,6,SEN
+Brunei Darussalam,2016,6,BRN
+Montenegro,2016,6,MNE
+Samoa,2016,6,WSM
+Somalia,2016,6,SOM
+Mauritius,2016,6,MUS
+Sri Lanka,2016,6,LKA
+Azerbaijan,2016,7,AZE
+Libya,2016,7,LBY
+Bhutan,2016,7,BTN
+Cote d'Ivoire,2016,7,CIV
+Denmark,2016,7,DNK
+Indonesia,2016,7,IDN
+Singapore,2016,7,SGP
+Cuba,2016,8,CUB
+Kosovo,2016,8,SRB
+Uruguay,2016,8,URY
+Albania,2016,8,ALB
+Tonga,2016,8,TON
+Latvia,2016,10,LVA
+Saudi Arabia,2016,10,SAU
+Armenia,2016,10,ARM
+Malta,2016,10,MLT
+Tunisia,2016,12,TUN
+Ecuador,2016,12,ECU
+El Salvador,2016,12,SLV
+Kenya,2016,13,KEN
+Malaysia,2016,13,MYS
+Yemen,2016,14,YEM
+Eritrea,2016,14,ERI
+Fiji,2016,14,FJI
+Lebanon,2016,15,LBN
+Cyprus,2016,16,CYP
+Morocco,2016,16,MAR
+Algeria,2016,18,DZA
+Mongolia,2016,18,MNG
+Solomon Islands,2016,19,SLB
+Uzbekistan,2016,20,UZB
+"Korea, Republic of",2016,22,KOR
+China,2016,23,CHN
+Ethiopia,2016,24,ETH
+Tanzania,2016,25,TZA
+Uganda,2016,27,UGA
+India,2016,27,IND
+Philippines,2016,33,PHL
+Lithuania,2016,34,LTU
+Belarus,2016,34,BLR
+Bulgaria,2016,40,BGR
+Kazakhstan,2016,42,KAZ
+Zambia,2016,43,ZMB
+Norway,2016,44,NOR
+Guinea,2016,48,GIN
+Sudan,2016,54,SDN
+Croatia,2016,55,HRV
+Austria,2016,57,AUT
+Slovakia,2016,60,SVK
+Finland,2016,62,FIN
+United Kingdom,2016,63,GBR
+Romania,2016,68,ROU
+Estonia,2016,72,EST
+Belgium,2016,73,BEL
+Israel,2016,77,ISR
+Switzerland,2016,82,CHE
+Serbia,2016,86,SRB
+Iraq,2016,88,IRQ
+Peru,2016,102,PER
+Liberia,2016,105,LBR
+Czech Republic,2016,112,CZE
+Mexico,2016,115,MEX
+Jordan,2016,116,JOR
+Portugal,2016,119,PRT
+Papua New Guinea,2016,126,PNG
+Myanmar,2016,153,MMR
+Sweden,2016,155,SWE
+South Sudan,2016,166,SSD
+Spain,2016,171,ESP
+Netherlands,2016,268,NLD
+Colombia,2016,438,COL
+Russian Federation,2016,461,RUS
+Brazil,2016,574,BRA
+France,2016,672,FRA
+Pakistan,2016,1221,PAK
