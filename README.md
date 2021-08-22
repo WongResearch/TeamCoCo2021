@@ -18,6 +18,8 @@ This analysis is important not only to the Government in understanding patterns 
 
 Historical data sets including the Register of immigrants 1864 to 1878; Australia and Refugees, 1901 2002: An Annotated Chronology Based on Official Source; and The Development of Australian immigration policy – memorandum with timeline; were used alongside the Australian Bureau of Statistics Data API and Australian Migration Statistics data set.
 
+![](videoofanimation.gif)
+
 ### Built With
 
 -   [pandas](https://pandas.pydata.org/)
