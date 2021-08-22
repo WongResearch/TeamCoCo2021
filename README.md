@@ -50,9 +50,6 @@ Project Link: [https://github.com/WongResearch/TeamCoCo2021](https://github.com/
     Used to identify migration by country by year.
 
 -   [Australia and Refugees, 1901 2002: An Annotated Chronology Based on Official Sources](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/online/Refugeess8)
-    Used to identify migration by country by year.
-
--   [Data transcribed into CSV for use in identifying immigration policy against year Data Set](https://www.naa.gov.au/learn/learning-resources/learning-resource-themes/society-and-culture/migration-and-multiculturalism/development-australian-immigration-policy-memorandum-timeline)
     Data transcribed into CSV for use in identifying immigration policy against year
 
 -   [Development of Australian immigration policy – memorandum with timeline](https://www.naa.gov.au/learn/learning-resources/learning-resource-themes/society-and-culture/migration-and-multiculturalism/development-australian-immigration-policy-memorandum-timeline)
